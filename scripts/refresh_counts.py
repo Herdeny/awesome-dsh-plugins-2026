@@ -81,6 +81,23 @@ def main() -> int:
             else:
                 return 1
 
+        # --write 时顺带把 last-updated badge 刷新到当天（精确到日）
+        if args.write:
+            from datetime import date
+            today = date.today().isoformat().replace("-", "--")  # shields.io 用 -- 转义连字符
+            import re as _re
+            updated_text = p.read_text(encoding="utf-8")
+            new_text2 = _re.sub(
+                r"last--updated-\d{4}--\d{2}(--\d{2})?-",
+                f"last--updated-{today}-",
+                updated_text,
+            )
+            if new_text2 != updated_text:
+                p.write_text(new_text2, encoding="utf-8")
+                print(f"  → last-updated badge → {date.today().isoformat()}")
+            else:
+                print("  → last-updated badge 未匹配到，跳过")
+
         # per-section breakdown
         for slug, n in sorted(counts.items(), key=lambda x: -x[1]):
             if n and not any(x in slug for x in EXCLUDE_SECTIONS):
