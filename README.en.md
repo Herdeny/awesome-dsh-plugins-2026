@@ -9,7 +9,7 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-08](https://img.shields.io/badge/last--updated-2026--08--29-brightgreen.svg)
-![Plugins: 55](https://img.shields.io/badge/plugins-143-orange.svg)
+![Plugins: 55](https://img.shields.io/badge/plugins-155-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -63,6 +63,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) - Brings Claude Code's UltraCode mode to DSH: upgrades one-shot multi-agent dispatch into a generatable, savable, governable, observable, recoverable workflow layer (⭐108)
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - The complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin: reverse engineering, authorized pentesting and security research skill pack (⭐88)
 - [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 installable open-source Agent Skills for research, social intelligence, marketing and business workflows — Codex, Claude Code, Cursor, Gemini CLI and DSH compatible (⭐74)
+- [MiaoQichuan/new-litigation-visualization](https://github.com/MiaoQichuan/new-litigation-visualization) - Litigation visualization toolkit for lawyers: redraw messy case charts into court-ready figures, or read case files to draw a precise timeline; Claude Skill / DSH compatible (⭐49)
 
 <a id="design-creative"></a>
 
@@ -112,6 +113,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [LX2000WASD/dsh-web-plugin-manager](https://github.com/LX2000WASD/dsh-web-plugin-manager) - One-click plugin management in the DSH Web UI: view, live start/stop, install/uninstall, update detection and dependency/conflict/compatibility health checks; bundle and non-bundle plugins (⭐67)
 - [Laplace-bit/dsh-smooth-stream](https://github.com/Laplace-bit/dsh-smooth-stream) - Web UI plugin for fluid streaming rendering and silky scrolling (⭐60)
 - [Tasihi89/dsh-talk-map](https://github.com/Tasihi89/dsh-talk-map) - Visual conversation map: sessions as cards on a whiteboard — drag to arrange, double-click to chat, draw an edge to fork with injected context (⭐59)
+- [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) - DSH web plugin: rotates the "Deep diving…" status label with typewriter-animated rainbow phrases, plus a live status (⭐57)
+- [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - Endfield-inspired industrial UI shell for DSH (unofficial fan theme): install with dsh plugin --profile web add (⭐48)
 
 <a id="themes-appearance"></a>
 
@@ -132,6 +135,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [Tommy00748/dsh-theme-cyberpunk2077](https://github.com/Tommy00748/dsh-theme-cyberpunk2077) - Cyberpunk 2077 / Night City theme for the DSH Web UI: CRT scanlines, Kiroshi lock-on, typewriter effects (⭐25) 🛡️QC:61 🟡
 - [LaplaceYoung/dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) - Retro QQ2006 skin: registers qq2006 theme, mirrors body[data-ds-skin], full assets and global skin table (⭐23) 🛡️QC:67 🟡
 - [yunxiiQwQ/dsh-maid-whale-webUI](https://github.com/yunxiiQwQ/dsh-maid-whale-webUI) - Whale maid theme for the DSH Web UI (⭐25) 🛡️QC:25 🔴
+- [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) - Endfield-official-site-style DSH Web theme: cream paper background, ink-black text, signal-yellow accents, sharp-corner industrial editorial look (⭐57)
+- [HeiGeAi/deepseek-harness-skin](https://github.com/HeiGeAi/deepseek-harness-skin) - DeepSeek Harness skin system: 21 built-in skins plus a custom skin generated from a single image; data-driven, contrast-preserving, readability validated at build time (⭐51)
 
 <a id="models-quota"></a>
 
@@ -145,6 +150,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [feibi-mochi/deepseek-harness-wallet](https://github.com/feibi-mochi/deepseek-harness-wallet) - Balance monitoring, per-session spend and token tracking (⭐65) 🛡️QC:58 🟡
 - [franksong2702/dsh-codex-connect](https://github.com/franksong2702/dsh-codex-connect) - ChatGPT OAuth and Codex models for DSH (⭐53) 🛡️QC:68 🟡
 - [LiangYin233/dsh-provider-model-configurator](https://github.com/LiangYin233/dsh-provider-model-configurator) - One-click apply pi-ai presets or any provider's model context, output cap, reasoning tier and compat toggles; central model entry management (⭐17) 🛡️QC:69 🟡
+- [yxxbc/dsh-balance-plugin](https://github.com/yxxbc/dsh-balance-plugin) - DeepSeek balance monitor & usage stats (DSH Cordis plugin): balance watch, official top-up entry, usage analytics, third-party plugin management (⭐57)
 
 <a id="testing-qa"></a>
 
@@ -204,6 +210,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [ZSeven-W/dsh-crew](https://github.com/ZSeven-W/dsh-crew) - Dispatch work to DSH agents from Claude Code / Codex with native subagent progress (⭐116) 🛡️QC:54 🟡
 - [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) - Free web search provider for DeepSeek Harness: DuckDuckGo backend, no API key needed (⭐78)
 - [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion) - Search 65,600+ API docs from 20 Chinese open platforms directly in DSH, Claude Code, Cursor, Codex and Gemini CLI — zero config (⭐58)
+- [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu) - Unified capability menu: manage the exposure level (context footprint) and execution mode of MCP tools & skills via Exposed / Progressive / Blocked tiers (⭐53)
+- [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) - Management console for the official DSH MCP client: /mcp command with health diagnostics and pipeline trial calls (⭐50)
 
 <a id="memory-context"></a>
 
@@ -221,6 +229,9 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) - Bounded, layered, approval-gated, auditable cross-session memory (⭐63) 🛡️QC:70 🟢
 - [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme) - Persistent, self-consolidating memory plugin (⭐56) 🛡️QC:17 🔴
 - [aik358/dsh-auto-memory](https://github.com/aik358/dsh-auto-memory) - Three-layer auto memory (user/project/daily) with auto-inject and retrieval (⭐40) 🛡️QC:61 🟡
+- [Phant0Meow/dsh-meow-memory](https://github.com/Phant0Meow/dsh-meow-memory) - Cross-session memory plugin: seven-layer SQLite store (soul/user/project/fact/lesson/topic/rules) with BM25 retrieval (⭐57)
+- [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) - White-box AGI architecture exploration: metacognition, continuous learning, world models, self-improvement — zero-LLM white-box pipeline with auditable trust guardrails (⭐53)
+- [Tyan66666/billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - Model-driven context management (Active Context Pruning / ACP) for DSH: the model decides when and what to compress for billion-scale context (⭐53)
 
 <a id="security-audit"></a>
 
@@ -251,6 +262,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [qiannianhuanxiang/DSHA](https://github.com/qiannianhuanxiang/DSHA) - Android launcher with built-in proot+Ubuntu: run DeepSeek Harness without ROOT or Termux (⭐283) 🛡️QC:25 🔴
 - [WEP-56/DSH-Launcher](https://github.com/WEP-56/DSH-Launcher) - Launcher with embedded webui: package, config and plugin management, compatible with all webui plugins (⭐28) 🛡️QC:33 🟠
 - [liguobao/deepseek-harness-remote](https://github.com/liguobao/deepseek-harness-remote) - Multi-device remote access built on the DSH plugin system: desktop and Android clients securely connect to and operate a remote Harness (⭐121)
+- [FlashingChen/dsh-desktop-hub](https://github.com/FlashingChen/dsh-desktop-hub) - DSH Desktop Hub management console (Electron + TypeScript): multi-tab management of Harness / Plugin / MCP / Skills, double-click to run (⭐56)
 
 <a id="platforms-channels"></a>
 
@@ -293,6 +305,7 @@ DSH-ecosystem projects that are not standard plugins (no cordis manifest); a 0 Q
 - [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) - HarnessRouter Community Edition: self-hosted Apache-2.0 unified interface for agent harnesses — run Codex, Claude Code, Hermes, PI, DSH through one API; implements UHP (⭐588)
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - The original agent meta-harness: deploy intelligent multi-player swarms, coordinate autonomous workflows, adaptive memory and self-learning with native Claude Code / Codex / Hermes support and DSH plugin integration (⭐69621)
 - [sandbaseai/deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) - Agent-first DeepSeek Harness handbook: source-backed runtime, plugin, MCP, sandbox, evaluation and troubleshooting guides (multilingual) (⭐78)
+- [HenryZ838978/deepseek-harness](https://github.com/HenryZ838978/deepseek-harness) - Protocol-layer harness for DeepSeek: Python witness stack for posterior verification that keeps the protocol honest, with dsh doctor --node probes (⭐47)
 
 <a id="official-resources"></a>
 
