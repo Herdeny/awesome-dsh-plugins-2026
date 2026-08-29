@@ -8,8 +8,8 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-08](https://img.shields.io/badge/last--updated-2026--08--29-brightgreen.svg)
-![Plugins: 55](https://img.shields.io/badge/plugins-155-orange.svg)
+![Last updated: 2026-08](https://img.shields.io/badge/last--updated-2026--08--30-brightgreen.svg)
+![Plugins: 55](https://img.shields.io/badge/plugins-167-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -64,6 +64,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - The complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin: reverse engineering, authorized pentesting and security research skill pack (⭐88)
 - [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 installable open-source Agent Skills for research, social intelligence, marketing and business workflows — Codex, Claude Code, Cursor, Gemini CLI and DSH compatible (⭐74)
 - [MiaoQichuan/new-litigation-visualization](https://github.com/MiaoQichuan/new-litigation-visualization) - Litigation visualization toolkit for lawyers: redraw messy case charts into court-ready figures, or read case files to draw a precise timeline; Claude Skill / DSH compatible (⭐49)
+- [songyang0603/ds-spec-loop](https://github.com/songyang0603/ds-spec-loop) - Portable Agent Skill for repository-native Spec programming, informed by public DeepSeek Harness engineering patterns (⭐38)
 
 <a id="design-creative"></a>
 
@@ -89,6 +90,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [jing-hy/picturereader](https://github.com/jing-hy/picturereader) - Pixel-to-text image reading for text-only models: image_scan/image_ocr/image_sample tools + image-reading skill, fully local (⭐34) 🛡️QC:44 🟠
 - [tianmingwan/dsh-vision-any](https://github.com/tianmingwan/dsh-vision-any) - Paste images into text-only DSH agents; any OpenAI-compatible, Anthropic or Gemini vision API (⭐22) 🛡️QC:61 🟡
 - [hisence999/DSH-vision](https://github.com/hisence999/DSH-vision) - Text-only models can send images directly: auto-converted to text descriptions; multimodal models pass through untouched; read_image tool works (⭐34) 🛡️QC:38 🟠
+- [HuanLinOTO/dsh-plugin-mineru](https://github.com/HuanLinOTO/dsh-plugin-mineru) - Exposes MinerU document-parsing tools to the model: PDF/images/DOCX/PPTX/XLSX to structured Markdown/JSON (⭐43)
 
 <a id="web-ui"></a>
 
@@ -115,6 +117,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [Tasihi89/dsh-talk-map](https://github.com/Tasihi89/dsh-talk-map) - Visual conversation map: sessions as cards on a whiteboard — drag to arrange, double-click to chat, draw an edge to fork with injected context (⭐59)
 - [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) - DSH web plugin: rotates the "Deep diving…" status label with typewriter-animated rainbow phrases, plus a live status (⭐57)
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - Endfield-inspired industrial UI shell for DSH (unofficial fan theme): install with dsh plugin --profile web add (⭐48)
+- [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) - Codex-style sidebar, workspace session tree, global search and turn navigation for DSH Web (⭐42)
 
 <a id="themes-appearance"></a>
 
@@ -151,6 +154,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [franksong2702/dsh-codex-connect](https://github.com/franksong2702/dsh-codex-connect) - ChatGPT OAuth and Codex models for DSH (⭐53) 🛡️QC:68 🟡
 - [LiangYin233/dsh-provider-model-configurator](https://github.com/LiangYin233/dsh-provider-model-configurator) - One-click apply pi-ai presets or any provider's model context, output cap, reasoning tier and compat toggles; central model entry management (⭐17) 🛡️QC:69 🟡
 - [yxxbc/dsh-balance-plugin](https://github.com/yxxbc/dsh-balance-plugin) - DeepSeek balance monitor & usage stats (DSH Cordis plugin): balance watch, official top-up entry, usage analytics, third-party plugin management (⭐57)
+- [BeforeWave/dsh-with-chatgpt](https://github.com/BeforeWave/dsh-with-chatgpt) - Bring ChatGPT's reasoning to your local codebase: work directly, or delegate larger tasks to DSH (⭐38)
 
 <a id="testing-qa"></a>
 
@@ -161,6 +165,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [omdsh-dev/dsh-plugin-skills](https://github.com/omdsh-dev/dsh-plugin-skills) - Agent skills for building and testing DSH plugins (⭐12) 🛡️QC:17 🔴
 - [suimi8/dsh-test-runner](https://github.com/suimi8/dsh-test-runner) - Structured test runner providing the `test_run` tool (⭐2) 🛡️QC:53 🟡
 - [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) - The living DSH plugin directory, refreshed hourly (⭐49) 🛡️QC:23 🔴
+- [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) - Agent Skill for developing DSH plugins: plugin/service/event/tool/LLM-adapter/packaging standards; works with Claude Code, Codex, DSH and more (⭐40)
+- [oil-oil/build-deepseek-harness-plugin](https://github.com/oil-oil/build-deepseek-harness-plugin) - Agent skill for building installed DeepSeek Harness plugins (slots, Typert remotes, credentials) (⭐39)
 
 <a id="examples-templates"></a>
 
@@ -212,6 +218,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion) - Search 65,600+ API docs from 20 Chinese open platforms directly in DSH, Claude Code, Cursor, Codex and Gemini CLI — zero config (⭐58)
 - [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu) - Unified capability menu: manage the exposure level (context footprint) and execution mode of MCP tools & skills via Exposed / Progressive / Blocked tiers (⭐53)
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) - Management console for the official DSH MCP client: /mcp command with health diagnostics and pipeline trial calls (⭐50)
+- [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search) - Academic paper search Skill + MCP for Chinese researchers: cross-search CrossRef/PubMed/arXiv/OpenAlex/Europe PMC with dedup, MeSH, citation verification and citation graphs (⭐153)
 
 <a id="memory-context"></a>
 
@@ -242,6 +249,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [jkrandom-sudo/dsh-plugin-audit](https://github.com/jkrandom-sudo/dsh-plugin-audit) - Static permission audit for DSH plugins (⭐5) 🛡️QC:51 🟡
 - [nanshan1995/dsh-plugin-market](https://github.com/nanshan1995/dsh-plugin-market) - Plugin market with pre-install static security audit gate (⭐3) 🛡️QC:55 🟡
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) - Claude Code-style declarative permission rules for DSH: ordered allow/deny/ask rules with tool, argument (glob/regex) and workspace-path matching, session-log audit and HMR reload (⭐62)
+- [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) - DSH backup & restore plugin: export, import, migrate and sync full config, plugins, MCP servers, skills and workspace; one-click migration to another machine (⭐48)
 
 <a id="desktop-clients"></a>
 
@@ -263,6 +271,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [WEP-56/DSH-Launcher](https://github.com/WEP-56/DSH-Launcher) - Launcher with embedded webui: package, config and plugin management, compatible with all webui plugins (⭐28) 🛡️QC:33 🟠
 - [liguobao/deepseek-harness-remote](https://github.com/liguobao/deepseek-harness-remote) - Multi-device remote access built on the DSH plugin system: desktop and Android clients securely connect to and operate a remote Harness (⭐121)
 - [FlashingChen/dsh-desktop-hub](https://github.com/FlashingChen/dsh-desktop-hub) - DSH Desktop Hub management console (Electron + TypeScript): multi-tab management of Harness / Plugin / MCP / Skills, double-click to run (⭐56)
+- [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile) - Native iOS client for DeepSeek Harness: connects over WebSocket via dsh-plugin-mobile-gateway to bring workspaces, sessions and agent traces to the iPhone (⭐51)
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) - Remote-work assistant for DSH: SSH (key or password) into a remote workspace, operate with rw_* tools, SFTP-mirror into a real local DSH workspace (⭐41)
 
 <a id="platforms-channels"></a>
 
@@ -272,6 +282,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) - A DSH skill that finds, installs and verifies GitHub plugins (⭐160)
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - DSH plugin marketplace: browse, install and update GitHub plugins from the Web GUI (⭐147)
 - [walkinglabs/awesome-deepseek-harness-plugins](https://github.com/walkinglabs/awesome-deepseek-harness-plugins) - Bilingual list of verified DeepSeek Harness plugins (⭐15) 🛡️QC:25 🔴
+- [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) - Open-source DSH plugin-ecosystem radar: auto-discovers 15,900+ candidates and runtime-tests 10,000+ on k8s via a 15-minute snapshot pipeline; the plugin directory is its generated artifact (⭐1432)
+- [runzhliu/deepseek-harness-docker](https://github.com/runzhliu/deepseek-harness-docker) - Community Docker & Kubernetes packaging for DeepSeek Harness: hardened image, Compose stack, Helm chart, Web UI and headless CLI (⭐49)
 
 <a id="ecosystem"></a>
 

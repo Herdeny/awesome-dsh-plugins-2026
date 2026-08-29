@@ -8,8 +8,8 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-08](https://img.shields.io/badge/last--updated-2026--08--29-brightgreen.svg)
-![Plugins: 55](https://img.shields.io/badge/plugins-155-orange.svg)
+![Last updated: 2026-08](https://img.shields.io/badge/last--updated-2026--08--30-brightgreen.svg)
+![Plugins: 55](https://img.shields.io/badge/plugins-167-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -64,6 +64,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - 完整 reverse-skill（85 个 SKILL.md）DSH Cordis 插件：逆向工程、授权渗透测试与安全研究技能包 (⭐88)
 - [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 个可安装开源 Agent Skills：研究、社交情报、营销与商业工作流，兼容 Codex / Claude Code / Cursor / Gemini CLI / DSH (⭐74)
 - [MiaoQichuan/new-litigation-visualization](https://github.com/MiaoQichuan/new-litigation-visualization) - 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴，Claude Skill / DSH 通用 (⭐49)
+- [songyang0603/ds-spec-loop](https://github.com/songyang0603/ds-spec-loop) - 仓库原生 Spec 编程的可移植 Agent Skill，参考公开的 DeepSeek Harness 工程实践 (⭐38)
 
 <a id="design-creative"></a>
 
@@ -89,6 +90,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [jing-hy/picturereader](https://github.com/jing-hy/picturereader) - 像素级图片读取插件：image_scan/image_ocr/image_sample 工具 + 图片阅读技能，纯文本模型也能读图，纯本地运行 (⭐34) 🛡️QC:44 🟠
 - [tianmingwan/dsh-vision-any](https://github.com/tianmingwan/dsh-vision-any) - 让纯文本 DSH Agent 直接粘贴图片，支持任意 OpenAI 兼容 / Anthropic / Gemini 视觉 API (⭐22) 🛡️QC:61 🟡
 - [hisence999/DSH-vision](https://github.com/hisence999/DSH-vision) - 纯文本模型直接发图：图片自动转文字描述回传，多模态模型原样放行，read_image 工具可用 (⭐34) 🛡️QC:38 🟠
+- [HuanLinOTO/dsh-plugin-mineru](https://github.com/HuanLinOTO/dsh-plugin-mineru) - 向模型暴露 MinerU 文档解析工具：PDF/图片/DOCX/PPTX/XLSX 一键转为结构化 Markdown/JSON (⭐43)
 
 <a id="web-ui"></a>
 
@@ -115,6 +117,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [Tasihi89/dsh-talk-map](https://github.com/Tasihi89/dsh-talk-map) - 可视化对话地图：会话以卡片呈现在白板上，拖拽排列、双击聊天、连线分叉注入上下文 (⭐59)
 - [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) - DSH Web 插件：把「Deep diving…」状态标签换成打字机动画彩虹短语轮播，附带实时状态 (⭐57)
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - 终末地风格工业 UI 外壳（非官方粉丝主题）：dsh plugin --profile web add 一键安装 (⭐48)
+- [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) - 为 DSH Web 提供 Codex 风格侧栏、工作区会话树、全局搜索与轮次导航 (⭐42)
 
 <a id="themes-appearance"></a>
 
@@ -151,6 +154,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [franksong2702/dsh-codex-connect](https://github.com/franksong2702/dsh-codex-connect) - ChatGPT OAuth 与 Codex 模型接入 (⭐53) 🛡️QC:68 🟡
 - [LiangYin233/dsh-provider-model-configurator](https://github.com/LiangYin233/dsh-provider-model-configurator) - DSH 模型 Pro：一键应用 pi-ai 预设或任意提供商的模型上下文、输出上限、推理档位与兼容开关，集中管理模型条目 (⭐17) 🛡️QC:69 🟡
 - [yxxbc/dsh-balance-plugin](https://github.com/yxxbc/dsh-balance-plugin) - DeepSeek 余额监控与用量统计（DSH Cordis 插件）：余额监控 · 官方充值入口 · 用量统计 · 三方插件管理 (⭐57)
+- [BeforeWave/dsh-with-chatgpt](https://github.com/BeforeWave/dsh-with-chatgpt) - 把 ChatGPT 的推理能力带到本地代码库：直接工作，或把大型任务委派给 DSH (⭐38)
 
 <a id="testing-qa"></a>
 
@@ -161,6 +165,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [omdsh-dev/dsh-plugin-skills](https://github.com/omdsh-dev/dsh-plugin-skills) - 用于构建和测试 DSH 插件的 Agent Skills (⭐12) 🛡️QC:17 🔴
 - [suimi8/dsh-test-runner](https://github.com/suimi8/dsh-test-runner) - 提供 `test_run` 能力的结构化测试运行器 (⭐2) 🛡️QC:53 🟡
 - [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) - 支持实时刷新的 DSH 插件目录 (⭐49) 🛡️QC:23 🔴
+- [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) - 开发 DSH 插件的 Agent Skill：覆盖插件/服务/事件/工具/LLM 适配器/打包安装标准，兼容 Claude Code、Codex、DSH 等 (⭐40)
+- [oil-oil/build-deepseek-harness-plugin](https://github.com/oil-oil/build-deepseek-harness-plugin) - 面向已安装 DSH 插件的构建 Agent Skill：slots、Typert remotes 与凭据处理 (⭐39)
 
 <a id="examples-templates"></a>
 
@@ -212,6 +218,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion) - 在 DSH / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台 65,600+ 篇 API 文档，零配置 (⭐58)
 - [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu) - 统一能力菜单：按 Exposed / Progressive / Blocked 三档管理 MCP 工具与技能的能力暴露级别与执行模式 (⭐53)
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) - 官方 DSH MCP 客户端管理控制台：/mcp 命令带健康诊断与流水线试调用 (⭐50)
+- [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search) - 学术论文检索 Skill + MCP：面向中文科研用户，跨 CrossRef/PubMed/arXiv/OpenAlex/Europe PMC 检索去重，支持 MeSH、引用核验与引文图谱 (⭐153)
 
 <a id="memory-context"></a>
 
@@ -242,6 +249,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [jkrandom-sudo/dsh-plugin-audit](https://github.com/jkrandom-sudo/dsh-plugin-audit) - 插件静态权限审计 (⭐5) 🛡️QC:51 🟡
 - [nanshan1995/dsh-plugin-market](https://github.com/nanshan1995/dsh-plugin-market) - 插件市场：安装前静态安全审计闸门 (⭐3) 🛡️QC:55 🟡
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) - Claude Code 风格声明式权限规则：有序 allow/deny/ask + 工具/参数/路径匹配，会话日志审计与热重载 (⭐62)
+- [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) - DSH 备份与恢复插件：导出/导入/迁移/同步完整配置、插件、MCP 服务器、技能与工作区，一键迁移到新机器 (⭐48)
 
 <a id="desktop-clients"></a>
 
@@ -263,6 +271,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [WEP-56/DSH-Launcher](https://github.com/WEP-56/DSH-Launcher) - webui 内嵌式启动器：包管理/配置管理/插件管理，兼容所有 webui 强化插件 (⭐28) 🛡️QC:33 🟠
 - [liguobao/deepseek-harness-remote](https://github.com/liguobao/deepseek-harness-remote) - 基于 DSH 插件机制的多端远程访问方案：桌面端与 Android 端安全连接并操作远程 Harness (⭐121)
 - [FlashingChen/dsh-desktop-hub](https://github.com/FlashingChen/dsh-desktop-hub) - DSH Desktop Hub 桌面管理控制台（Electron + TypeScript）：多 Tab 管理 Harness / Plugin / MCP / Skills，双击即用 (⭐56)
+- [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile) - DeepSeek Harness 原生 iOS 客户端：通过 dsh-plugin-mobile-gateway 以 WebSocket 连接 Harness，把工作区、会话与 Agent 执行轨迹带到 iPhone (⭐51)
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) - DSH 远程工作助手：SSH（密钥或密码）连接远端工作区，rw_* 工具操作，SFTP 镜像到本地 DSH 工作区 (⭐41)
 
 <a id="platforms-channels"></a>
 
@@ -272,6 +282,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) - 帮 DSH 搜索、安装并验证 GitHub 插件的 Skill (⭐160)
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - DSH 插件市场：在 Web GUI 中一键浏览、安装与更新 GitHub 插件 (⭐147)
 - [walkinglabs/awesome-deepseek-harness-plugins](https://github.com/walkinglabs/awesome-deepseek-harness-plugins) - 经过验证的 DeepSeek Harness 插件双语目录 (⭐15) 🛡️QC:25 🔴
+- [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) - 开源 DSH 插件生态雷达：自动发现 15900+ 候选、k8s 运行级实测 10000+、15 分钟快照管线，插件目录为自动生成产物 (⭐1432)
+- [runzhliu/deepseek-harness-docker](https://github.com/runzhliu/deepseek-harness-docker) - 社区 Docker/Kubernetes 打包：加固镜像、Compose 栈、Helm Chart、Web UI 与 headless CLI 一键部署 (⭐49)
 
 <a id="ecosystem"></a>
 
