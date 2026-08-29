@@ -67,6 +67,13 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 <a id="design-creative"></a>
 
+- [PerryLink/dsh-fast](https://github.com/PerryLink/dsh-fast) - 性能剖析与 LLM 缓存诊断：上下文工程+延迟剖析 (⭐2)
+- [PerryLink/dsh-fund-research](https://github.com/PerryLink/dsh-fund-research) - 中国公募基金确定性研究报告 (⭐9)
+- [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research) - 行业与公司研究：方法技能+产业链图谱+可审计报告 (⭐18)
+- [PerryLink/dsh-observe](https://github.com/PerryLink/dsh-observe) - OpenTelemetry/Langfuse 观测导出：链路、指标与 LLM 观测 (⭐3)
+- [PerryLink/dsh-personal-directive](https://github.com/PerryLink/dsh-personal-directive) - 个人指令注入：Web 顶部运行时开关，中性占位指令框架版 (⭐0)
+- [PerryLink/dsh-research-report](https://github.com/PerryLink/dsh-research-report) - 可验证研究报表：内容寻址证据账本+密封报告 (⭐19)
+- [PerryLink/dsh-translate](https://github.com/PerryLink/dsh-translate) - 工具输出修复层：JSON Schema 校验、参数映射与 JSON 修复 (⭐1)
 ## 🎨 设计与创意
 
 - [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh) - 小说创作与短剧生产插件：由 Oh Story 与 Drama Skills 驱动的写作工作流 (⭐201)
@@ -92,6 +99,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 <a id="web-ui"></a>
 
+- [PerryLink/dsh-draw](https://github.com/PerryLink/dsh-draw) - 文生图路由：CogView/OpenAI Images/智谱统一生成 (⭐2)
 ## 🖥️ Web UI 与界面
 
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - 开放的侧边栏底座：支持三方扩展注册新侧边栏页面，内置文件渲染编辑/终端/Git/子代理页面 (⭐2978) 🛡️QC:51 🟡
@@ -118,6 +126,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 <a id="themes-appearance"></a>
 
+- [PerryLink/dsh-output-styles](https://github.com/PerryLink/dsh-output-styles) - 运行时输出风格：按会话切换呈现风格，带渲染器注册表 (⭐4)
+- [PerryLink/dsh-talk](https://github.com/PerryLink/dsh-talk) - 语音闭环：麦克风 STT + TTS 回复 + 静音 (⭐5)
 ## 🎨 主题与外观
 
 - [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) - 适用于 DeepSeek Harness 的鲸鱼娘系列皮肤 (⭐1749) 🛡️QC:25 🔴
@@ -154,6 +164,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 <a id="testing-qa"></a>
 
+- [PerryLink/dsh-budget](https://github.com/PerryLink/dsh-budget) - Token 成本追踪与预算告警，附延迟基准与碳足迹估算 (⭐2)
+- [PerryLink/dsh-local-ai](https://github.com/PerryLink/dsh-local-ai) - Ollama 接入：模型管理、健康检查、本地路由与云端回退 (⭐3)
 ## 🧪 测试与质检
 
 - [herdeny/dsh-qc](https://github.com/herdeny/dsh-qc) - DSH 插件质量检测 CLI，支持静态分析与动态验证 (⭐2)
@@ -164,6 +176,10 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 <a id="examples-templates"></a>
 
+- [PerryLink/dsh-data-quality](https://github.com/PerryLink/dsh-data-quality) - 数据画像、清洗与验证流水线，结构化报告 (⭐6)
+- [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) - 交付质量门禁：需求质询+红绿测试证据+对抗评审 (⭐10)
+- [PerryLink/dsh-score](https://github.com/PerryLink/dsh-score) - 基于证据的插件质量评分：五维加权+审计链接 (⭐2)
+- [PerryLink/dsh-test-drive](https://github.com/PerryLink/dsh-test-drive) - 插件装机实测矩阵：隔离 profile 真实安装驱动与结构化判定 (⭐2)
 ## 📦 示例与模板
 
 - [bugmaker2/dsh-plugin-template](https://github.com/bugmaker2/dsh-plugin-template) - DeepSeek Harness 插件开发模板 (⭐38) 🛡️QC:66 🟡
@@ -173,6 +189,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 <a id="sessions-messages"></a>
 
+- [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) - 插件开发知识库 skill + CLI 工具链（脚手架/检查/验证） (⭐32)
 ## 💬 会话与消息
 
 - [Totoro-qaq/dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge) - 跨预设会话迁移插件：固定结构交接保留状态、源模型意图与未解决图像，迁移前可预览 (⭐130)
@@ -183,6 +200,12 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 <a id="just-for-fun"></a>
 
+- [PerryLink/dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) - 持久后台子代理：启动/监控/消息/中断，走官方 subagent 接缝 (⭐7)
+- [PerryLink/dsh-checkpoint-rewind](https://github.com/PerryLink/dsh-checkpoint-rewind) - 一体化 checkpoint：git 快照+会话边界回退+一键恢复 (⭐12)
+- [PerryLink/dsh-claude-move](https://github.com/PerryLink/dsh-claude-move) - 四合一迁移向导：Claude Code/Codex/OpenCode/Hermes 会话记忆技能迁入 DSH (⭐11)
+- [PerryLink/dsh-composer-history](https://github.com/PerryLink/dsh-composer-history) - 输入历史：方向键/Ctrl+R 反向搜索/草稿恢复/滑动上下文感知 (⭐8)
+- [PerryLink/dsh-session-pin](https://github.com/PerryLink/dsh-session-pin) - 会话/工作区置顶：分组、标签、保存视图与 /goto 跳转 (⭐3)
+- [PerryLink/dsh-session-sync](https://github.com/PerryLink/dsh-session-sync) - 跨设备会话同步：经 git 多机同步会话与设置 (⭐3)
 ## 🎮 趣味
 
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) - 创建 AI 角色、进入故事世界：聊天、冒险、穿书，支持 DeepSeek Harness 插件 (⭐590) 🛡️QC:38 🟠
@@ -215,6 +238,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 <a id="memory-context"></a>
 
+- [PerryLink/dsh-github](https://github.com/PerryLink/dsh-github) - GitHub 工作流工具：issue 追踪、PR 评审与 Actions 集成 (⭐2)
+- [PerryLink/dsh-lsp-actions](https://github.com/PerryLink/dsh-lsp-actions) - LSP 动作面：诊断/格式化/补全/代码动作/符号/重命名 (⭐11)
 ## 🧠 记忆与上下文
 
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - 面向所有 AI Agent（Claude Code / Codex / DSH 等）的持久统一记忆层，基于 Markdown 与 Milvus (⭐2503)
@@ -235,6 +260,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 <a id="security-audit"></a>
 
+- [PerryLink/dsh-library](https://github.com/PerryLink/dsh-library) - 本地文档知识库：混合检索+RAG+引用校验 (⭐4)
 ## 🔒 安全与审计
 
 - [lire1131/dsh-undo-savepoint](https://github.com/lire1131/dsh-undo-savepoint) - DSH 崩溃救援插件：撤销配置与插件代码改动、密钥安全快照、一键 SAFE MODE；DSH 无法启动时也有离线 CLI/GUI (⭐131)
@@ -245,6 +271,10 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 <a id="desktop-clients"></a>
 
+- [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) - 审批链第二模型评审：只读评审子代理返回结构化允许/拒绝裁决，默认故障关闭 (⭐115)
+- [PerryLink/dsh-defend](https://github.com/PerryLink/dsh-defend) - 注入防护与密钥扫描：越狱/提示注入检测+密钥泄露扫描 (⭐5)
+- [PerryLink/dsh-mask](https://github.com/PerryLink/dsh-mask) - PII 脱敏：请求前匿名化、展示层还原，明文不入日志 (⭐3)
+- [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) - 插件供应链门禁：license/SBOM/commit 锁定/恶意模式安装前扫描 (⭐4)
 ## 💻 桌面与客户端
 
 - [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) - DSHDesktop：DeepSeek Harness 桌面版 (⭐3040)
@@ -266,6 +296,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 <a id="platforms-channels"></a>
 
+- [PerryLink/dsh-click](https://github.com/PerryLink/dsh-click) - Windows 桌面自动化：UI Automation 提供 computer-use 动作与读屏 (⭐3)
 ## 🌐 平台与渠道
 
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) - DSH 内置可视化插件市场：浏览、搜索、一键安装 (⭐2524) 🛡️QC:64 🟡
