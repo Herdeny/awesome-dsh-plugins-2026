@@ -8,8 +8,8 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-08](https://img.shields.io/badge/last--updated-2026--09--03-brightgreen.svg)
-![Plugins: 55](https://img.shields.io/badge/plugins-215-orange.svg)
+![Last updated: 2026-08](https://img.shields.io/badge/last--updated-2026--09--04-brightgreen.svg)
+![Plugins: 55](https://img.shields.io/badge/plugins-223-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -75,6 +75,9 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [omdsh-dev/dsh-toolkit](https://github.com/omdsh-dev/dsh-toolkit) - Zero-dependency DSH toolkit collection: ten deterministic tools (time/encoding/json/calculator/csv/regex/markdown/diff/stat/schema) with one-click install (⭐28)
 - [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager) - Load and safely manage local Agent Skills within DSH (⭐28)
 - [a735624258/dsh-skill-picker](https://github.com/a735624258/dsh-skill-picker) - WorkBuddy-style skill picker for DeepSeek Harness: pick a skill in the composer and insert the official /skill-name gesture with your message (⭐26)
+- [DCspirit-23/DSH-inspired-Code-Simplification-Skill](https://github.com/DCspirit-23/DSH-inspired-Code-Simplification-Skill) - Codex skill adapted from DSH's official dsh-find-simplifications: find and apply code-simplification opportunities (⭐28)
+- [omdsh-dev/dsh-custom-tool](https://github.com/omdsh-dev/dsh-custom-tool) - Create and manage sandboxed JavaScript tools in DSH with a Monaco editor and a model-driven lifecycle (⭐23)
+- [Rianico/dsh-better-edit](https://github.com/Rianico/dsh-better-edit) - Hash-anchored read/edit/undo_last_edit tools for DSH: no drifted edits, fewer tokens, lower cost (⭐22)
 
 <a id="design-creative"></a>
 
@@ -85,6 +88,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [zseven-w/dsh-openpencil](https://github.com/zseven-w/dsh-openpencil) - OpenPencil preview, inspect and edit plugin (⭐153) 🛡️QC:64 🟡
 - [devin-axis/deepseek-design](https://github.com/devin-axis/deepseek-design) - Editable design system: AI generation, visual editing, template marketplace and PPT (⭐633) 🛡️QC:17 🔴
 - [kwhi6693-web/photo-abstract-editorial](https://github.com/kwhi6693-web/photo-abstract-editorial) - Photo-to-editorial Skill with Original (Codex) and V3 Adaptive editions: scene-aware layouts, creative controls and strict-fidelity compositing (⭐88)
+- [zhaiyateng/dsh-design-skills](https://github.com/zhaiyateng/dsh-design-skills) - Design-aesthetics skill pack for DSH: dark-saas, Apple-minimal, neo-neumorphism, brutalism, glassmorphism and Japanese-minimal — keeps vibe-coded sites off the AI look (⭐22)
 
 <a id="vision"></a>
 
@@ -160,6 +164,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [10086ggqq/dsh_theme_terraria](https://github.com/10086ggqq/dsh_theme_terraria) - Terraria pixel-world theme for DeepSeek Harness: the AI coding console becomes a pixel world with a guide companion, real dialogue, tool approval and difficulty switching; single file, zero deps (⭐27)
 - [NoNameLeGo/dsh-catppuccin-theme](https://github.com/NoNameLeGo/dsh-catppuccin-theme) - Catppuccin theme plugin for the DSH Web GUI: Latte / Frappé / Macchiato / Mocha one-click switching with toggleable glassmorphism (⭐26)
 - [yoli-mi/dsh-client-ui-custom](https://github.com/yoli-mi/dsh-client-ui-custom) - Configurable DSH web-surface plugin: wallpaper & frosted-glass themes, accent colors, custom keyboard shortcuts, app-usage panel and history strip, zero shell edits (⭐24)
+- [YRN-playmaker/dsh-wallpaper_share](https://github.com/YRN-playmaker/dsh-wallpaper_share) - Wallpaper Engine sync plugin mounted on DSH: one-click sync of dynamic-scene wallpapers and app auto-start setup (⭐26)
 
 <a id="models-quota"></a>
 
@@ -177,7 +182,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [BeforeWave/dsh-with-chatgpt](https://github.com/BeforeWave/dsh-with-chatgpt) - Bring ChatGPT's reasoning to your local codebase: work directly, or delegate larger tasks to DSH (⭐38)
 - [amlyczz/dsh-agy-link](https://github.com/amlyczz/dsh-agy-link) - Bridges Google Antigravity (agy CLI) models into DSH: multi-account pool, streaming chat/thinking/tool activity/usage, in-GUI Google OAuth login (⭐31)
 - [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) - Brings ChatGPT / Codex subscription straight into DSH: OAuth login, models, search, quota and image generation — no API key or Codex CLI needed (⭐31)
-- [Axiaohungry/dsh-llm-codebuddy](https://github.com/Axiaohungry/dsh-llm-codebuddy) - Use the WorkBuddy API as an LLM provider inside DeepSeek Harness (for when your company only provides WorkBuddy credits) (⭐28)
+- [Axiaohungry/dsh-llm-workbuddy](https://github.com/Axiaohungry/dsh-llm-workbuddy) - Use the WorkBuddy API as an LLM provider inside DeepSeek Harness (for when your company only provides WorkBuddy credits) (⭐28)
 - [kenz1117/dsh-ui-usage-billing](https://github.com/kenz1117/dsh-ui-usage-billing) - Usage billing dashboard plugin for DSH: sidebar cost metrics, real usage aggregated from session logs, multi-provider pricing catalog (⭐28)
 
 <a id="testing-qa"></a>
@@ -257,6 +262,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [limuyang2/agent-team](https://github.com/limuyang2/agent-team) - Build multi-agent teams inside DSH: each member with independent models, skills, MCP tools and contexts, plus a shared workspace and a Leader role (⭐27)
 - [EdgeTypE/dsh-better-deepseek](https://github.com/EdgeTypE/dsh-better-deepseek) - DSH bridge plugin for the Better DeepSeek Chrome extension: HTTP handshake endpoint and session-filtered SSE event streams over webServer (⭐25)
 - [A3Boy/dsh-web-tools](https://github.com/A3Boy/dsh-web-tools) - Multi-provider Web Search & Fetch for DSH: 8 deeply adapted providers, SearchHints, resilient fallback and native X / Xiaohongshu retrieval (⭐24)
+- [988hj7tczd-oss/dsh-computer-use](https://github.com/988hj7tczd-oss/dsh-computer-use) - Cross-platform Computer Use plugin for DSH: isolated virtual cursor, AX/UIA observation, screenshot vision and 12 guarded tools for observable desktop automation (⭐23)
 
 <a id="memory-context"></a>
 
@@ -296,7 +302,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 
 ## 💻 Desktop & clients
 
-- [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) - DSHDesktop: the DeepSeek Harness desktop client (⭐3546)
+- [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) - DSHDesktop: the DeepSeek Harness desktop client (⭐4016)
 - [zouyuxuan122/DSH-Desktop-EAC](https://github.com/zouyuxuan122/DSH-Desktop-EAC) - DSH Windows/Linux desktop client: bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins (⭐1445) 🛡️QC:0 🔴
 - [dsh-tauri-desk/deepseek-harness-desktop](https://github.com/dsh-tauri-desk/deepseek-harness-desktop) - DeepSeek Harness Tauri desktop: 5MB installer, zero environment setup, preset plugins; Windows / macOS / Linux (⭐1490) 🛡️QC:38 🟠
 - [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop) - Local AI desktop workspace for DSH sessions, projects, files, web research, plugins and Office artifacts (⭐631) 🛡️QC:18 🔴
@@ -332,6 +338,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [AwesomeHou/dsh-plugin-marketplace](https://github.com/AwesomeHou/dsh-plugin-marketplace) - Plugin marketplace for DeepSeek Harness: live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (⭐27)
 - [techysy/deepseek-harness-fnos](https://github.com/techysy/deepseek-harness-fnos) - DeepSeek Harness app for fnOS NAS: a local resident service that deploys the official agent browser UI with one click (⭐27)
 - [PGZXB/dsh-feishu](https://github.com/PGZXB/dsh-feishu) - Feishu UI for DeepSeek Harness: panel-driven console turning slash commands into card buttons, in-card approvals & questions, streaming cards, one-QR setup (⭐26)
+- [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli) - Open-source CLI, schemas, resolver and DSH agent tools for the DSH Plugin Hub (⭐103)
+- [AnkoCD/dsh-server-deployment](https://github.com/AnkoCD/dsh-server-deployment) - Multi-user DSH server deployment: login portal, per-user isolated instances with OS-level isolation, per-user API keys and a file drawer (⭐25)
 
 <a id="ecosystem"></a>
 
@@ -368,6 +376,7 @@ DSH-ecosystem projects that are not standard plugins (no cordis manifest); a 0 Q
 - [sandbaseai/deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) - Agent-first DeepSeek Harness handbook: source-backed runtime, plugin, MCP, sandbox, evaluation and troubleshooting guides (multilingual) (⭐103)
 - [HenryZ838978/deepseek-harness](https://github.com/HenryZ838978/deepseek-harness) - Protocol-layer harness for DeepSeek: Python witness stack for posterior verification that keeps the protocol honest, with dsh doctor --node probes (⭐47)
 - [huiliyi37/oh-my-tianshu](https://github.com/huiliyi37/oh-my-tianshu) - Full-fledged open-source coding agent: a friendly MIT fork of DeepSeek Harness adding vision, cross-session memory, validation gates, agent routing and semantic code search — all composed as plugins (⭐38)
+- [zechen666-creater/deepseek-harness-oneclick-pack](https://github.com/zechen666-creater/deepseek-harness-oneclick-pack) - Beginner-friendly Chinese DSH install tutorial + one-click portable build: from zero with no proxy, all mirror sources configured (⭐24)
 
 <a id="official-resources"></a>
 
