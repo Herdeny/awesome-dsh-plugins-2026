@@ -263,6 +263,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [EdgeTypE/dsh-better-deepseek](https://github.com/EdgeTypE/dsh-better-deepseek) - Better DeepSeek Chrome 扩展的 DSH 桥接插件：经 webServer 提供 HTTP 握手端点与会话级 SSE 事件流 (⭐25)
 - [A3Boy/dsh-web-tools](https://github.com/A3Boy/dsh-web-tools) - 多提供商 Web 搜索与抓取插件：8 个深度适配的提供商、SearchHints、弹性回退，原生支持 X / 小红书检索 (⭐24)
 - [988hj7tczd-oss/dsh-computer-use](https://github.com/988hj7tczd-oss/dsh-computer-use) - 跨平台 Computer Use 插件：隔离虚拟光标 + AX/UIA 可观测 + 截图视觉 + 12 个受防护工具的桌面自动化 (⭐23)
+- [PerryLink/dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) - TickTick 任务桥：会话任务面板 + MCP 代理工具 (⭐0) 🛡️QC:待测 🟢
+- [PerryLink/dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) - 认证注册表 MCP 服务器 (⭐0) 🛡️QC:待测 🟢
 
 <a id="memory-context"></a>
 
@@ -340,6 +342,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [PGZXB/dsh-feishu](https://github.com/PGZXB/dsh-feishu) - DeepSeek Harness 的飞书 UI：面板驱动控制台，斜杠命令变卡片按钮、卡内审批与提问、流式卡片，扫码一键配置 (⭐26)
 - [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli) - DSH Plugin Hub 开源 CLI：schema、解析器与 DSH agent 工具，打通插件中心 (⭐103)
 - [AnkoCD/dsh-server-deployment](https://github.com/AnkoCD/dsh-server-deployment) - DSH 多用户服务器部署：登录门户 / 每用户独立实例与 OS 级隔离 / 独立 API Key / 交付文件抽屉 (⭐25)
+- [PerryLink/dsh-reach](https://github.com/PerryLink/dsh-reach) - 多通道决策与远程控制桥：审批/提问卡推送到 IM 并聊天作答 (⭐0) 🛡️QC:待测 🟢
+- [PerryLink/dsh-wechat](https://github.com/PerryLink/dsh-wechat) - 微信私聊桥接 DSH (⭐0) 🛡️QC:待测 🟢
 
 <a id="ecosystem"></a>
 
