@@ -133,7 +133,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [LX2000WASD/dsh-web-plugin-manager](https://github.com/LX2000WASD/dsh-web-plugin-manager) - One-click plugin management in the DSH Web UI: view, live start/stop, install/uninstall, update detection and dependency/conflict/compatibility health checks; bundle and non-bundle plugins (⭐67)
 - [Laplace-bit/dsh-smooth-stream](https://github.com/Laplace-bit/dsh-smooth-stream) - Web UI plugin for fluid streaming rendering and silky scrolling (⭐69)
 - [Tasihi89/dsh-talk-map](https://github.com/Tasihi89/dsh-talk-map) - Visual conversation map: sessions as cards on a whiteboard — drag to arrange, double-click to chat, draw an edge to fork with injected context (⭐80)
-- [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) - DSH web plugin: rotates the "Deep diving…" status label with typewriter-animated rainbow phrases, plus a live status (⭐65)
+- [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) - Rotates the DSH Web status line through 1063 meme phrases: typewriter, rainbow gradient, danmaku, 12 theme packs, all editable from the settings page (⭐77) 🛡️QC:78 🟢
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - Endfield-inspired industrial UI shell for DSH (unofficial fan theme): install with dsh plugin --profile web add (⭐55)
 - [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) - Codex-style sidebar, workspace session tree, global search and turn navigation for DSH Web (⭐58)
 - [plolpl789/dsh-raw-html](https://github.com/plolpl789/dsh-raw-html) - VCP (visual-synesthesia protocol) plugin for DeepSeek Harness: renders agent HTML output (⭐59)
