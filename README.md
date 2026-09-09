@@ -133,7 +133,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [LX2000WASD/dsh-web-plugin-manager](https://github.com/LX2000WASD/dsh-web-plugin-manager) - Web UI 一键插件管理：查看、实时启停、安装/卸载、更新检测与依赖/冲突/兼容性健康检查，bundle 与非 bundle 全覆盖 (⭐67)
 - [Laplace-bit/dsh-smooth-stream](https://github.com/Laplace-bit/dsh-smooth-stream) - Web UI 流畅流式渲染与丝滑滚动插件 (⭐69)
 - [Tasihi89/dsh-talk-map](https://github.com/Tasihi89/dsh-talk-map) - 可视化对话地图：会话以卡片呈现在白板上，拖拽排列、双击聊天、连线分叉注入上下文 (⭐80)
-- [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) - DSH Web 插件：把「Deep diving…」状态标签换成打字机动画彩虹短语轮播，附带实时状态 (⭐65)
+- [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) - 把 DSH Web 状态行换成 1063 条梗：打字机 + 炫彩渐变 + 弹幕 + 12 个主题词库包，设置页可视化编辑 (⭐77) 🛡️QC:78 🟢
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - 终末地风格工业 UI 外壳（非官方粉丝主题）：dsh plugin --profile web add 一键安装 (⭐55)
 - [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) - 为 DSH Web 提供 Codex 风格侧栏、工作区会话树、全局搜索与轮次导航 (⭐58)
 - [plolpl789/dsh-raw-html](https://github.com/plolpl789/dsh-raw-html) - VCP 视觉联觉协议插件：在 DSH 中渲染 Agent 的 HTML 输出 (⭐59)
