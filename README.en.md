@@ -8,8 +8,8 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-08](https://img.shields.io/badge/last--updated-2026--09--12-brightgreen.svg)
-![Plugins: 243](https://img.shields.io/badge/plugins-243-orange.svg)
+![Last updated: 2026-08](https://img.shields.io/badge/last--updated-2026--09--13-brightgreen.svg)
+![Plugins: 243](https://img.shields.io/badge/plugins-255-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -81,6 +81,11 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource) - Tushare-based local financial data source with AI-native multi-agent analysis: auto-generates HTTP APIs and MCP endpoints, DeepSeek Harness/OpenClaw skills, WeChat/QQ/Feishu market watching (⭐184)
 - [JingHao-Leon/dsh-alpha-desk](https://github.com/JingHao-Leon/dsh-alpha-desk) - Alpha Desk: a compliance-first AI investment desk skill pack turning an agent session into multi-strategy fund backtesting & research (⭐39)
 - [KelaoHu/dsh-lowtide](https://github.com/KelaoHu/dsh-lowtide) - Time-shifting task delegation for DSH: plan tasks at leisure, let them run unattended off-peak and come back to a report; human-adjudicated, desktop + web (⭐157)
+- [ExElectron/dsh-tool-hongtou](https://github.com/ExElectron/dsh-tool-hongtou) - Red-header Chinese official document generator: a two-stage decoupled pipeline (LLM-structured outline + deterministic Word 2003 XML layout rendering) (⭐27)
+- [Smalldy/godot-bridge](https://github.com/Smalldy/godot-bridge) - Godot 4.x game driver: launches and drives a running Godot game through its in-game TCP interaction server, replacing godot-mcp with native agent tools (⭐26)
+- [Zvyan/PromptForge](https://github.com/Zvyan/PromptForge) - Multi-platform prompt-engineering framework: 56 structured templates across 9 domains, 118 presets and native DSH / Cursor / Claude / OpenAI adapters, with a FastAPI Web UI and Typer CLI (⭐26)
+- [loongsuite/dsh-plugin](https://github.com/loongsuite/dsh-plugin) - OpenTelemetry tracing for DSH: turns each agent turn into a GenAI span tree (steps, LLM calls with TTFT, tool executions, token usage) exported over OTLP to Jaeger, Grafana Tempo, SigNoz, Langfuse and more (⭐24)
+- [akira399/dsh-godot-skill](https://github.com/akira399/dsh-godot-skill) - Godot Engine 4.x full-stack game-development skill plugin that registers the godot-4-development skill at runtime (⭐23)
 
 <a id="design-creative"></a>
 
@@ -145,6 +150,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [lehhair/dsh-diff-viewer](https://github.com/lehhair/dsh-diff-viewer) - PiUI-style diff viewer for the DSH Web GUI: replaces the stock DiffBlock for write/edit tool calls via ui-tool diff-card chain slots (host patch included) (⭐27)
 - [magian1127/deepseek-harness-zh_pro](https://github.com/magian1127/deepseek-harness-zh_pro) - Comprehensive Chinese enhancement plugin for DSH: UI Chinese completion, thinking display, session archive/delete/multi-select, service monitoring and localized model requests (⭐26)
 - [yyyyukari/dsh-plugin-workshop](https://github.com/yyyyukari/dsh-plugin-workshop) - Steam Workshop-style plugin browser for the DSH Web UI: zero-server GitHub-powered search, trending windows, bilingual translation and tiered one-click install/update/uninstall (⭐25)
+- [Jiyr0119/dsh-workspace-explorer](https://github.com/Jiyr0119/dsh-workspace-explorer) - Workspace file explorer: a right-side directory tree panel where files can be clicked or dragged into the composer as references, with a native DSH look (⭐28)
 
 <a id="themes-appearance"></a>
 
@@ -174,6 +180,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [yoli-mi/dsh-client-ui-custom](https://github.com/yoli-mi/dsh-client-ui-custom) - Configurable DSH web-surface plugin: wallpaper & frosted-glass themes, accent colors, custom keyboard shortcuts, app-usage panel and history strip, zero shell edits (⭐27)
 - [YRN-playmaker/dsh-wallpaper_share](https://github.com/YRN-playmaker/dsh-wallpaper_share) - Wallpaper Engine sync plugin mounted on DSH: one-click sync of dynamic-scene wallpapers and app auto-start setup (⭐30)
 - [webkubor/dsh-bloom-theme](https://github.com/webkubor/dsh-bloom-theme) - Bloom Morandi-color theme plugin: 9 OKLCH-tuned variants, light/dark modes and one-click topbar switching; all 18 palettes tested to WCAG AA (⭐31)
+- [chouxiaohuai/dsh-uiskin-theme](https://github.com/chouxiaohuai/dsh-uiskin-theme) - Blue Glass ocean-fantasy theme: ocean backdrop, glass bubbles, ocean sidebar, whale settings button and iridescent model text, shipped as a one-click static profile bundle (⭐23)
 
 <a id="models-quota"></a>
 
@@ -209,6 +216,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [win4r/deepseek-harness-plugin-creator](https://github.com/win4r/deepseek-harness-plugin-creator) - Reusable Codex skill for building and validating DeepSeek Harness and Cordis plugins (⭐35)
 - [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill) - Gives AI agents eyes and ears: turns video/audio/screen activity into timestamped, searchable evidence and verifies what a tool actually did via a deterministic contract; DeepWatch runs on a DeepSeek Harness workspace — MCP, CLI, REST & Web (⭐336)
 - [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) - Design-fidelity QA for DeepSeek Harness: lends any text-only model an eye, then judges whether the implementation matches the mock; ships a benchmark (⭐36)
+- [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) - Double-check before you ship: grill the requirements, test the implementation, prove the delivery — an engineering-discipline bundle for DSH (⭐26)
+- [liangdabiao/dsh-plugin-developer-skill](https://github.com/liangdabiao/dsh-plugin-developer-skill) - Plugin-development Skill that walks an agent from zero to building, installing and testing DSH plugins, with a web-verified weather plugin as a full reference example (⭐23)
 
 <a id="examples-templates"></a>
 
@@ -233,6 +242,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [taxueseek/dsh-files](https://github.com/taxueseek/dsh-files) - Dual-face file plugin: session-isolated uploads with colorful composer cards + read_document tool (text/PDF/DOCX/XLSX with content sniffing and LRU cache); native image passthrough for vision models (⭐33)
 - [lsz-asd/dsh-plugin-session-delete](https://github.com/lsz-asd/dsh-plugin-session-delete) - Delete DeepSeek Harness sessions from the UI: header danger button + sidebar session-row menu, risk-consent dialog, stops running agents first, in-place list refresh (⭐31)
 - [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync) - Two-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount and auto MCP mirroring (⭐25)
+- [HongMing-Huang/dsh-file-upload](https://github.com/HongMing-Huang/dsh-file-upload) - File-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, MarkItDown document-to-Markdown conversion with a JS fallback, text inlining and a read_document tool (⭐24)
 
 <a id="just-for-fun"></a>
 
@@ -301,6 +311,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [Qinling-Melon-Farmers/dsh-memoir](https://github.com/Qinling-Melon-Farmers/dsh-memoir) - Local-first cross-session project memory for DSH: zero bundled runtime deps, bounded Hot Memory, BM25 recall/cache, provenance and a bilingual Web GUI (⭐24)
 - [diqierjia/StrataGate-AgentMemory](https://github.com/diqierjia/StrataGate-AgentMemory) - Local-first cross-session long-term memory for DSH: automatic capture, Event/Element cards, evidence-gated recall and source tracing (⭐39)
 - [398894496-arch/DSH-KRouter](https://github.com/398894496-arch/DSH-KRouter) - A second brain for coding agents: seal the day, distill into Obsidian, hit it next morning — works with Cursor/Codex/Claude Code/DeepSeek Harness (⭐37)
+- [quqxui/dsh-memgas](https://github.com/quqxui/dsh-memgas) - Long-term memory plugin: four-channel retrieval fusion plus a memory-evolution loop, with construction and retrieval methods from the ICLR 2026 MemGAS paper (⭐23)
 
 <a id="security-audit"></a>
 
@@ -360,6 +371,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli) - Open-source CLI, schemas, resolver and DSH agent tools for the DSH Plugin Hub (⭐235)
 - [AnkoCD/dsh-server-deployment](https://github.com/AnkoCD/dsh-server-deployment) - Multi-user DSH server deployment: login portal, per-user isolated instances with OS-level isolation, per-user API keys and a file drawer (⭐25)
 - [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop) - The most comprehensive DSH plugin market: refreshed daily, sourced across the internet and reviewed before publishing (⭐703)
+- [Tencent/skillhub](https://github.com/Tencent/skillhub) - SkillHub Open API documentation, examples and a DeepSeek Harness plugin (⭐26)
 
 <a id="ecosystem"></a>
 
