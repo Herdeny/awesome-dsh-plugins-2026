@@ -9,7 +9,7 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-08](https://img.shields.io/badge/last--updated-2026--09--14-brightgreen.svg)
-![Plugins: 243](https://img.shields.io/badge/plugins-268-orange.svg)
+![Plugins: 243](https://img.shields.io/badge/plugins-269-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -298,6 +298,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [literaf/dsh-ai4scholar](https://github.com/literaf/dsh-ai4scholar) - AI4Scholar 科研插件：38 个原生学术工具，覆盖 Semantic Scholar 等学术检索 (⭐24)
 - [abhishekgahlot2/pi-dsh](https://github.com/abhishekgahlot2/pi-dsh) - Pi 编码 Agent harness 与 DSH 打通：持久会话、因果历史与可回滚组件 (⭐23)
 - [duhu2000/dsh-mcp-connector](https://github.com/duhu2000/dsh-mcp-connector) - DSH MCP 连接器：连接服务器、跨活跃连接检索工具 (⭐22)
+
+- [hxlog/dsh-mcp-tools](https://github.com/hxlog/dsh-mcp-tools) - DSH 的 MCP 工具管理器：设置内添加 MCP 服务器、Postman 式请求头、连通性测试与逐工具开关 (⭐3)
 
 <a id="memory-context"></a>
 

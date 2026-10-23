@@ -9,7 +9,7 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-08](https://img.shields.io/badge/last--updated-2026--09--14-brightgreen.svg)
-![Plugins: 243](https://img.shields.io/badge/plugins-268-orange.svg)
+![Plugins: 243](https://img.shields.io/badge/plugins-269-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -298,6 +298,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [literaf/dsh-ai4scholar](https://github.com/literaf/dsh-ai4scholar) - AI4Scholar for DeepSeek Harness: 38 native academic tools including Semantic Scholar and more (⭐24)
 - [abhishekgahlot2/pi-dsh](https://github.com/abhishekgahlot2/pi-dsh) - Pi coding-agent harness with durable sessions, causal history and reversible components, bridged into DSH (⭐23)
 - [duhu2000/dsh-mcp-connector](https://github.com/duhu2000/dsh-mcp-connector) - DSH MCP Connector: connect servers and search tools across active connections (⭐22)
+
+- [hxlog/dsh-mcp-tools](https://github.com/hxlog/dsh-mcp-tools) - Minimal MCP manager for DSH: add MCP servers in Settings, Postman-style headers, connectivity tests and per-tool toggles (⭐3)
 
 <a id="memory-context"></a>
 
