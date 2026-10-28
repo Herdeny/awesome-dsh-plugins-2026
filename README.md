@@ -141,6 +141,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [lhh010/dsh-paste-input](https://github.com/lhh010/dsh-paste-input) - DSH WebUI 文件输入增强：Ctrl+V 粘贴 + 拖拽 + 选择文件，发送时复制进会话工作区 (⭐9) 🛡️QC:39 🟠
 - [YEYEYEYESHIFU/dsh-result-only-view](https://github.com/YEYEYEYESHIFU/dsh-result-only-view) - 「只看结果」开关：折叠思考与工具调用过程行，对话只留用户消息与最终回复——运行中显示实时摘要芯片，回合后痕迹行可点击展开并支持悬停预览、自动/手动折叠，上下文注入行同样折叠 (⭐2)
 - [jryang1997/dsh-hold-to-dictate](https://github.com/jryang1997/dsh-hold-to-dictate) - 输入框长按听写，复用官方语音输入模块的语音服务，松开后写入草稿且不会自动发送 (⭐2)
+- [jryang1997/dsh-ascii-whales](https://github.com/jryang1997/dsh-ascii-whales) - 海面正上方俯视的对话背景，支持用自定义文字或 ASCII 组成五种鲸类，含彩色字格、内容框毛玻璃、输入框避让、独立下潜、喷水、尾拍涟漪、风纹与云影 (⭐1)
 - [LX2000WASD/dsh-web-plugin-manager](https://github.com/LX2000WASD/dsh-web-plugin-manager) - Web UI 一键插件管理：查看、实时启停、安装/卸载、更新检测与依赖/冲突/兼容性健康检查，bundle 与非 bundle 全覆盖 (⭐67)
 - [Laplace-bit/dsh-smooth-stream](https://github.com/Laplace-bit/dsh-smooth-stream) - Web UI 流畅流式渲染与丝滑滚动插件 (⭐69)
 - [Tasihi89/dsh-talk-map](https://github.com/Tasihi89/dsh-talk-map) - 可视化对话地图：会话以卡片呈现在白板上，拖拽排列、双击聊天、连线分叉注入上下文 (⭐80)
