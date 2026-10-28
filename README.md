@@ -301,6 +301,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [abhishekgahlot2/pi-dsh](https://github.com/abhishekgahlot2/pi-dsh) - Pi 编码 Agent harness 与 DSH 打通：持久会话、因果历史与可回滚组件 (⭐23)
 - [duhu2000/dsh-mcp-connector](https://github.com/duhu2000/dsh-mcp-connector) - DSH MCP 连接器：连接服务器、跨活跃连接检索工具 (⭐22)
 
+- [hxlog/dsh-mcp-tools](https://github.com/hxlog/dsh-mcp-tools) - DSH 的 MCP 工具管理器：设置内添加 MCP 服务器、Postman 式请求头、连通性测试与逐工具开关 (⭐3)
+
 <a id="memory-context"></a>
 
 ## 🧠 记忆与上下文

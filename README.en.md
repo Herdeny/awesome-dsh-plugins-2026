@@ -301,6 +301,8 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [abhishekgahlot2/pi-dsh](https://github.com/abhishekgahlot2/pi-dsh) - Pi coding-agent harness with durable sessions, causal history and reversible components, bridged into DSH (⭐23)
 - [duhu2000/dsh-mcp-connector](https://github.com/duhu2000/dsh-mcp-connector) - DSH MCP Connector: connect servers and search tools across active connections (⭐22)
 
+- [hxlog/dsh-mcp-tools](https://github.com/hxlog/dsh-mcp-tools) - Minimal MCP manager for DSH: add MCP servers in Settings, Postman-style headers, connectivity tests and per-tool toggles (⭐3)
+
 <a id="memory-context"></a>
 
 ## 🧠 Memory & context
