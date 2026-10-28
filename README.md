@@ -87,6 +87,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [loongsuite/dsh-plugin](https://github.com/loongsuite/dsh-plugin) - OpenTelemetry 链路追踪：把每个 Agent 回合变成 GenAI span 树（步骤/LLM 调用与 TTFT/工具执行/Token 用量），经 OTLP 导出到 Jaeger、Grafana Tempo、SigNoz、Langfuse (⭐24)
 - [akira399/dsh-godot-skill](https://github.com/akira399/dsh-godot-skill) - Godot Engine 4.x 全栈游戏开发技能插件：运行时注册 godot-4-development 技能 (⭐23)
 - [rootkiller6788/dsh-launcher](https://github.com/rootkiller6788/dsh-launcher) - 释放 DSH 插件化内核能力：把 Runtime、Provider、Plugin、Skill、MCP 等能力统一编排 (⭐22)
+- [1420079678-ctrl/agent-body](https://github.com/1420079678-ctrl/agent-body) - DSH 器官化插件层：命令先转成神经冲动支配到对应器官，心跳按内环境变速泵送状态，反射弧零模型调用，睡眠期把经历巩固成记忆卡，失败走确定性归因加复检闭环，工具 schema 按意图显影（仓库内实测省 84.7%） (⭐3)
 
 <a id="design-creative"></a>
 

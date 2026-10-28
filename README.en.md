@@ -87,6 +87,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [loongsuite/dsh-plugin](https://github.com/loongsuite/dsh-plugin) - OpenTelemetry tracing for DSH: turns each agent turn into a GenAI span tree (steps, LLM calls with TTFT, tool executions, token usage) exported over OTLP to Jaeger, Grafana Tempo, SigNoz, Langfuse and more (⭐24)
 - [akira399/dsh-godot-skill](https://github.com/akira399/dsh-godot-skill) - Godot Engine 4.x full-stack game-development skill plugin that registers the godot-4-development skill at runtime (⭐23)
 - [rootkiller6788/dsh-launcher](https://github.com/rootkiller6788/dsh-launcher) - Unlocks the DSH pluggable-kernel model: orchestrates Runtime, Provider, Plugin, Skill and MCP capabilities in one place (⭐22)
+- [1420079678-ctrl/agent-body](https://github.com/1420079678-ctrl/agent-body) - Organ-based plugin layer for DSH: each command becomes a nerve impulse that innervates the owning organ, a variable-rate heartbeat pumps state through the body, reflex arcs fire with zero model calls, sleep-time consolidation distils experience into memory cards, failures go through deterministic attribution plus a re-check loop, and tool schemas are gated by intent (84.7% measured reduction in-repo) (⭐3)
 
 <a id="design-creative"></a>
 
