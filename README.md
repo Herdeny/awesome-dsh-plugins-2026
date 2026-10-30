@@ -9,7 +9,7 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-10-28](https://img.shields.io/badge/last--updated-2026--10--28-brightgreen.svg)
-![Plugins: 272](https://img.shields.io/badge/plugins-272-orange.svg)
+![Plugins: 273](https://img.shields.io/badge/plugins-273-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -252,6 +252,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [lsz-asd/dsh-plugin-session-delete](https://github.com/lsz-asd/dsh-plugin-session-delete) - 从 UI 删除 DSH 会话：头部危险按钮 + 侧栏会话菜单项，风险确认对话框、先停止运行中的 Agent、列表原地刷新 (⭐31)
 - [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync) - OpenAI Codex 与 DSH 的双向桥接：聊天双向同步、Skills 实时挂载与 MCP 自动镜像 (⭐25)
 - [HongMing-Huang/dsh-file-upload](https://github.com/HongMing-Huang/dsh-file-upload) - 文件消息插件：Claude 风格拖拽/回形针上传、内容嗅探、MarkItDown 文档转 Markdown（含 JS 兜底）、文本内联与 read_document 工具 (⭐24)
+- [radres/dsh-plugin-call-me](https://github.com/radres/dsh-plugin-call-me) - 让 Agent 给你的真实手机打电话：call_me / text_me 工具，运行结束或等待审批时可来电，口头回答转写后回到会话；需要付费的 /call-me 手机应用 (⭐8)
 
 <a id="just-for-fun"></a>
 

@@ -9,7 +9,7 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-10-28](https://img.shields.io/badge/last--updated-2026--10--28-brightgreen.svg)
-![Plugins: 272](https://img.shields.io/badge/plugins-272-orange.svg)
+![Plugins: 273](https://img.shields.io/badge/plugins-273-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -252,6 +252,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [lsz-asd/dsh-plugin-session-delete](https://github.com/lsz-asd/dsh-plugin-session-delete) - Delete DeepSeek Harness sessions from the UI: header danger button + sidebar session-row menu, risk-consent dialog, stops running agents first, in-place list refresh (⭐31)
 - [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync) - Two-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount and auto MCP mirroring (⭐25)
 - [HongMing-Huang/dsh-file-upload](https://github.com/HongMing-Huang/dsh-file-upload) - File-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, MarkItDown document-to-Markdown conversion with a JS fallback, text inlining and a read_document tool (⭐24)
+- [radres/dsh-plugin-call-me](https://github.com/radres/dsh-plugin-call-me) - Rings your real phone: call_me and text_me tools, plus optional calls when a run stops or waits for approval; the spoken answer is transcribed back into the run. Needs the paid /call-me phone app (⭐8)
 
 <a id="just-for-fun"></a>
 
