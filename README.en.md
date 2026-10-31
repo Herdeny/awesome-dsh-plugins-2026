@@ -8,8 +8,8 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-10-30](https://img.shields.io/badge/last--updated-2026--10--30-brightgreen.svg)
-![Plugins: 276](https://img.shields.io/badge/plugins-276-orange.svg)
+![Last updated: 2026-10-31](https://img.shields.io/badge/last--updated-2026--10--31-brightgreen.svg)
+![Plugins: 280](https://img.shields.io/badge/plugins-280-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -63,7 +63,9 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [shengsheng90/DSH-taskboard](https://github.com/shengsheng90/DSH-taskboard) - Native local taskboard plugin for DSH: SQLite-backed projects, agent claim/review and a native Web UI — no iframe, no second chat runtime (⭐327)
 - [christopherarter/superpowers-reasonix](https://github.com/christopherarter/superpowers-reasonix) - Superpowers skill port to the Reasonix coding harness (DeepSeek-native terminal agent, DSH-ecosystem ready) (⭐94)
 - [LayneChai/superpowers-dsh](https://github.com/LayneChai/superpowers-dsh) - Superpowers skills for DeepSeek Harness: TDD, debugging, planning and collaboration skills adapted from obra/superpowers (⭐88)
+- [EricWang1358/dsh-web-studyhub](https://github.com/EricWang1358/dsh-web-studyhub) - StudyHub learning plugin: source-linked questions from course materials and notes, spaced review, weak-point analysis and recording transcription (⭐157)
 - [skymecode/deepseek-harness-for-vscode](https://github.com/skymecode/deepseek-harness-for-vscode) - Native VS Code coding-agent extension for DeepSeek Harness: session management, streaming Markdown, slash commands and a plugin center — no WebUI served, no setup (⭐145)
+- [dsh-wsl-workspace-maintainers/dsh-wsl-workspace](https://github.com/dsh-wsl-workspace-maintainers/dsh-wsl-workspace) - WSL workspaces on Windows: add Linux workspaces from the DSH interface and run session shell and file tools inside the selected distribution (⭐103)
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) - Brings Claude Code's UltraCode mode to DSH: upgrades one-shot multi-agent dispatch into a generatable, savable, governable, observable, recoverable workflow layer (⭐108)
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - The complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin: reverse engineering, authorized pentesting and security research skill pack (⭐118)
 - [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 installable open-source Agent Skills for research, social intelligence, marketing and business workflows — Codex, Claude Code, Cursor, Gemini CLI and DSH compatible (⭐129)
@@ -266,6 +268,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) - Create AI characters and step into story worlds — chat, adventure, transmigrate; supports DeepSeek Harness plugins (⭐590) 🛡️QC:38 🟠
 - [hewzhew/dsh-agent-rp](https://github.com/hewzhew/dsh-agent-rp) - SillyTavern migration and next-generation Agent roleplay for DSH (⭐211)
 - [cocofhu/anime-find](https://github.com/cocofhu/anime-find) - Anime search inside DSH: multi-source lookup with Bangumi ratings and details, magnet-link copy (⭐155)
+- [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme) - Meme plugin with a composer picker, emotion and keyword search, AI-assisted image cataloging and multiple packs; native image delivery through dsh-im (⭐455)
 - [lhh010/dsh-minigames](https://github.com/lhh010/dsh-minigames) - 18 offline minigames in the Web UI side panel (⭐27) 🛡️QC:63 🟡
 - [dhicoc/dsh-chinese-traditional-wisdom-skill](https://github.com/dhicoc/dsh-chinese-traditional-wisdom-skill) - Xuan Shu Chinese-traditional-wisdom skill pack: Bazi/Ziwei/Liuyao/Meihua/Qimen/Fengshui with a local deterministic engine + visual dashboard (⭐30)
 - [Amakurai/dsh-liketavern](https://github.com/Amakurai/dsh-liketavern) - Turns dsh web into a SillyTavern-style roleplay frontend: character cards, prompt presets, lorebooks, personas and BM25 long-term memory with floor rollback, all on native host slots and the dsh agent runtime (⭐229)
@@ -293,6 +296,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) - Free web search provider for DeepSeek Harness: DuckDuckGo backend, no API key needed (⭐136)
 - [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion) - Search 65,600+ API docs from 20 Chinese open platforms directly in DSH, Claude Code, Cursor, Codex and Gemini CLI — zero config (⭐58)
 - [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu) - Unified capability menu: manage the exposure level (context footprint) and execution mode of MCP tools & skills via Exposed / Progressive / Blocked tiers (⭐84)
+- [Vncntvx/dsh-zotero](https://github.com/Vncntvx/dsh-zotero) - Local Zotero integration: search and read PDFs in conversation, export citations and inspect a literature trail through the Zotero desktop local API (⭐53)
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) - Management console for the official DSH MCP client: /mcp command with health diagnostics and pipeline trial calls (⭐50)
 - [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search) - Academic paper search Skill + MCP for Chinese researchers: cross-search CrossRef/PubMed/arXiv/OpenAlex/Europe PMC with dedup, MeSH, citation verification and citation graphs (⭐196)
 - [miniLV/Plexus](https://github.com/miniLV/Plexus) - Local console that syncs MCP servers, skills and rules across Claude Code, Codex, DSH, Cursor, Gemini CLI, Qwen Code and more (⭐28)

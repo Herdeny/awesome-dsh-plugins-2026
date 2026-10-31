@@ -8,8 +8,8 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-10-30](https://img.shields.io/badge/last--updated-2026--10--30-brightgreen.svg)
-![Plugins: 276](https://img.shields.io/badge/plugins-276-orange.svg)
+![Last updated: 2026-10-31](https://img.shields.io/badge/last--updated-2026--10--31-brightgreen.svg)
+![Plugins: 280](https://img.shields.io/badge/plugins-280-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -63,7 +63,9 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [shengsheng90/DSH-taskboard](https://github.com/shengsheng90/DSH-taskboard) - 原生本地任务看板插件：SQLite 项目、Agent 认领/复核与原生 Web UI，无 iframe、无第二会话运行时 (⭐327)
 - [christopherarter/superpowers-reasonix](https://github.com/christopherarter/superpowers-reasonix) - Superpowers 技能包移植到 Reasonix 编程 Harness（DeepSeek 原生终端代理，支持 DSH 生态） (⭐94)
 - [LayneChai/superpowers-dsh](https://github.com/LayneChai/superpowers-dsh) - Superpowers 技能包移植到 DSH：TDD、调试、规划与协作技能 (⭐88)
+- [EricWang1358/dsh-web-studyhub](https://github.com/EricWang1358/dsh-web-studyhub) - StudyHub 学习插件：从课件与笔记生成带出处的题目，支持间隔复习、错题分析和录音转写 (⭐157)
 - [skymecode/deepseek-harness-for-vscode](https://github.com/skymecode/deepseek-harness-for-vscode) - DSH 原生 VS Code 编码代理扩展：会话管理、流式 Markdown、斜杠命令与插件中心，零部署免 WebUI (⭐145)
+- [dsh-wsl-workspace-maintainers/dsh-wsl-workspace](https://github.com/dsh-wsl-workspace-maintainers/dsh-wsl-workspace) - Windows 上的 WSL 工作区插件：从 DSH 界面添加 Linux 工作区，让会话的 shell 与文件工具在对应发行版中运行 (⭐103)
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) - 把 Claude Code 的 UltraCode 模式带给 DSH：一次性多 Agent 调度升级为可生成、可保存、可治理、可观察、可恢复的 Workflow 层 (⭐108)
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - 完整 reverse-skill（85 个 SKILL.md）DSH Cordis 插件：逆向工程、授权渗透测试与安全研究技能包 (⭐118)
 - [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 个可安装开源 Agent Skills：研究、社交情报、营销与商业工作流，兼容 Codex / Claude Code / Cursor / Gemini CLI / DSH (⭐129)
@@ -266,6 +268,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) - 创建 AI 角色、进入故事世界：聊天、冒险、穿书，支持 DeepSeek Harness 插件 (⭐590) 🛡️QC:38 🟠
 - [hewzhew/dsh-agent-rp](https://github.com/hewzhew/dsh-agent-rp) - SillyTavern 迁移与新一代 DSH Agent 角色扮演插件 (⭐211)
 - [cocofhu/anime-find](https://github.com/cocofhu/anime-find) - DSH 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力 (⭐155)
+- [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme) - 表情包插件：输入框选图、按情绪与关键词搜图、AI 学图和多图库管理，可通过 dsh-im 发送原生图片 (⭐455)
 - [lhh010/dsh-minigames](https://github.com/lhh010/dsh-minigames) - Web UI 右侧小游戏面板：18 款离线小游戏 (⭐27) 🛡️QC:63 🟡
 - [dhicoc/dsh-chinese-traditional-wisdom-skill](https://github.com/dhicoc/dsh-chinese-traditional-wisdom-skill) - 「玄枢」中华传统智慧技能包：八字/紫微/六爻/梅花/奇门/风水等本地确定性引擎 + 可视化 Dashboard (⭐30)
 - [Amakurai/dsh-liketavern](https://github.com/Amakurai/dsh-liketavern) - 把 dsh web 变成 SillyTavern 式角色扮演前端：角色卡/提示词预设/世界书/人设/BM25 长期记忆与楼层回滚，全挂宿主原生 slot 与 agent 运行时 (⭐229)
@@ -293,6 +296,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) - 免费网页搜索提供商：DuckDuckGo 后端，无需 API Key (⭐136)
 - [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion) - 在 DSH / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台 65,600+ 篇 API 文档，零配置 (⭐58)
 - [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu) - 统一能力菜单：按 Exposed / Progressive / Blocked 三档管理 MCP 工具与技能的能力暴露级别与执行模式 (⭐84)
+- [Vncntvx/dsh-zotero](https://github.com/Vncntvx/dsh-zotero) - 本地 Zotero 文献插件：对话检索与阅读 PDF、引用导出和文献轨迹面板，连接 Zotero 桌面端本地 API (⭐53)
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) - 官方 DSH MCP 客户端管理控制台：/mcp 命令带健康诊断与流水线试调用 (⭐50)
 - [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search) - 学术论文检索 Skill + MCP：面向中文科研用户，跨 CrossRef/PubMed/arXiv/OpenAlex/Europe PMC 检索去重，支持 MeSH、引用核验与引文图谱 (⭐196)
 - [miniLV/Plexus](https://github.com/miniLV/Plexus) - 一键同步 MCP / Skills / Rules 到 Claude Code、Codex、DSH、Cursor、Gemini CLI、Qwen Code 等 Agent 工具的本地配置控制台 (⭐28)
