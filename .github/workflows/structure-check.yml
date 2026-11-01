@@ -3,7 +3,7 @@ name: Structure Check
 # Guards the structural invariants a link checker cannot see:
 #   1. The markdown stays well-formed (in-page anchors resolve, table rows
 #      have consistent column counts, no malformed entries or open fences).
-#   2. The advertised plugin count in the badge matches the actual entry count.
+#   2. The project total counts canonical entries, never duplicated highlights.
 #   3. The zh/en READMEs stay in structural lockstep (same headings, same
 #      entries in the same order).
 
@@ -12,15 +12,17 @@ on:
     paths:
       - "README.md"
       - "README.en.md"
-      - "scripts/sync_audit.py"
-      - "scripts/check_markdown.py"
-      - "scripts/refresh_counts.py"
+      - "scripts/**"
+      - "data/recent-additions.json"
       - ".github/workflows/structure-check.yml"
   push:
     branches: [main]
     paths:
       - "README.md"
       - "README.en.md"
+      - "scripts/**"
+      - "data/recent-additions.json"
+      - ".github/workflows/structure-check.yml"
   workflow_dispatch:
 
 jobs:
@@ -41,5 +43,14 @@ jobs:
       - name: Markdown structure check
         run: python3 scripts/check_markdown.py
 
-      - name: Plugin count check
+      - name: Project count and QC coverage
         run: python3 scripts/refresh_counts.py
+
+      - name: Catalog formatting and recent additions
+        run: python3 scripts/format_catalog.py
+
+      - name: Historical QC distribution
+        run: python3 scripts/update_qc_marks.py --check
+
+      - name: Catalog regression checks
+        run: python3 -m unittest discover -s scripts/tests -v

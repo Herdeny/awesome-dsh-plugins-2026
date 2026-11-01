@@ -1,109 +1,59 @@
 #!/usr/bin/env python3
-"""refresh_counts.py — keep the advertised plugin count honest.
+"""Check canonical totals, QC coverage, badge alt text and paired update dates.
 
-The README header badge quotes a plugin count ("plugins-50-orange"). That
-number is written by hand and drifts as entries are added/removed. This script
-recounts every entry from the file itself and rewrites the badge.
-
-    python3 scripts/refresh_counts.py             # report, exit 1 if drift
-    python3 scripts/refresh_counts.py --write     # fix the badge in place
-
-Counting rules
---------------
-* An entry is a top-level `- [...]` list item whose link points to
-  github.com (badge URLs, in-page anchors and prose bullets are excluded).
-* The count includes every classified plugin section; the "官方资源 /
-  Official resources" section is excluded (those are docs, not plugins).
+Recent highlights and official links are outside the canonical catalog.
+--write repairs metadata and dates in both languages; default is read-only.
 """
-from __future__ import annotations
-
 import argparse
 import re
-import sys
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
+from catalog import stats, summary, qc_summary, replace_block
 
 ROOT = Path(__file__).resolve().parent.parent
-FILES = ["README.md", "README.en.md"]
 
-ENTRY_RE = re.compile(r"^-\s*\[[^\]]+\]\(https://github\.com/")
-BADGE_RE = re.compile(r"plugins-(\d+)-")
-EXCLUDE_SECTIONS = ("official-resources", "官方资源", "生态项目", "ecosystem")
+def refresh(text,lang):
+    total = stats(text)['projects']
+    badge = f'![Projects: {total}](https://img.shields.io/badge/projects-{total}-orange.svg)'
+    pattern = r'!\[Projects: \d+\]\(https://img\.shields\.io/badge/projects-\d+-orange\.svg\)'
+    if len(re.findall(pattern,text)) != 1:
+        raise ValueError('expected one numeric Projects badge')
+    text = re.sub(pattern,lambda _:badge,text)
+    text = replace_block(text,'catalog-summary',summary(text,lang))
+    return replace_block(text,'qc-summary',qc_summary(text,lang))
 
-
-def section_counts(text: str) -> dict[str, int]:
-    """heading-slug -> number of top-level github.com entries."""
-    counts: dict[str, int] = {}
-    current: str | None = None
-    for line in text.split("\n"):
-        if line.startswith("## "):
-            title = line[3:].strip()
-            # derive a slug from the title (drop emoji/&/—/spaces)
-            slug = re.sub(r"[^\w\s\u4e00-\u9fff-]", "", title.lower())
-            slug = slug.strip().replace(" ", "-")
-            current = slug
-            counts.setdefault(current, 0)
-        elif current is not None and ENTRY_RE.match(line):
-            counts[current] += 1
-    return counts
-
-
-def total_plugins(counts: dict[str, int]) -> int:
-    return sum(n for slug, n in counts.items()
-               if not any(x in slug for x in EXCLUDE_SECTIONS))
-
-
-def main() -> int:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--write", action="store_true", help="rewrite the badge in place")
+def main():
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument('--write',action='store_true')
     args = ap.parse_args()
-
-    for f in FILES:
-        p = ROOT / f
-        text = p.read_text(encoding="utf-8")
-        counts = section_counts(text)
-        actual = total_plugins(counts)
-
-        m = BADGE_RE.search(text)
-        claimed = int(m.group(1)) if m else None
-
-        if claimed is None:
-            print(f"✗ {f}: no plugins badge found")
-            return 1
-
-        if claimed == actual:
-            print(f"✓ {f}: badge matches ({actual} plugins)")
-        else:
-            print(f"✗ {f}: badge claims {claimed}, actual {actual}")
-            if args.write:
-                new_text = BADGE_RE.sub(f"plugins-{actual}-", text)
-                p.write_text(new_text, encoding="utf-8")
-                print(f"  → rewrote badge to plugins-{actual}")
-            else:
-                return 1
-
-        # --write 时顺带把 last-updated badge 刷新到当天（精确到日）
+    drift,results,dates = False,[],[]
+    for filename,lang in [('README.md','zh'),('README.en.md','en')]:
+        p = ROOT/filename
+        original = p.read_text()
+        updated = refresh(original,lang)
+        m = re.search(r'!\[Last updated: (\d{4}-\d{2}-\d{2})\]\(https://img\.shields\.io/badge/last--updated-(\d{4}--\d{2}--\d{2})-brightgreen\.svg\)',original)
+        if not m or m.group(1) != m.group(2).replace('--','-'):
+            drift = True
+            print(f'✗ {filename}: update date alt text and URL disagree')
+        dates.append(m.group(1) if m else None)
         if args.write:
-            from datetime import date
-            today = date.today().isoformat().replace("-", "--")  # shields.io 用 -- 转义连字符
-            import re as _re
-            updated_text = p.read_text(encoding="utf-8")
-            new_text2 = _re.sub(
-                r"last--updated-\d{4}--\d{2}(--\d{2})?-",
-                f"last--updated-{today}-",
-                updated_text,
-            )
-            if new_text2 != updated_text:
-                p.write_text(new_text2, encoding="utf-8")
-                print(f"  → last-updated badge → {date.today().isoformat()}")
-            else:
-                print("  → last-updated badge 未匹配到，跳过")
+            today = datetime.now(ZoneInfo('Asia/Shanghai')).date().isoformat()
+            updated = re.sub(r'!\[Last updated:[^\]]*\]\([^\n]*\)',f'![Last updated: {today}](https://img.shields.io/badge/last--updated-{today.replace("-","--")}-brightgreen.svg)',updated)
+        elif original != updated:
+            drift = True
+            print(f'✗ {filename}: catalog or QC metadata drift')
+        results.append((p,updated))
+        print(f'{filename}: {stats(original)}')
+    if not args.write and dates[0] != dates[1]:
+        drift = True
+        print('✗ zh/en update dates differ')
+    if args.write:
+        for p,updated in results:
+            if p.read_text() != updated:
+                p.write_text(updated)
+        return 0
+    return int(drift)
 
-        # per-section breakdown
-        for slug, n in sorted(counts.items(), key=lambda x: -x[1]):
-            if n and not any(x in slug for x in EXCLUDE_SECTIONS):
-                print(f"    {slug}: {n}")
-    return 0
-
-
-if __name__ == "__main__":
-    sys.exit(main())
+if __name__ == '__main__':
+    raise SystemExit(main())

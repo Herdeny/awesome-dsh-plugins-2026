@@ -21,6 +21,8 @@ import re
 import sys
 from pathlib import Path
 
+from catalog import parse_entries
+
 ROOT = Path(__file__).resolve().parent.parent
 FILES = {
     "zh": ROOT / "README.md",
@@ -87,6 +89,23 @@ def main() -> int:
     zh, en = parsed["zh"], parsed["en"]
 
     issues = []
+
+    # Canonical metadata must agree even when translated prose differs.
+    texts = {lang: p.read_text(encoding="utf-8") for lang, p in FILES.items()}
+    catalogs = {lang: parse_entries(text) for lang, text in texts.items()}
+    signatures = {lang: [(e.section, e.key, e.stars, e.score, e.kind) for e in entries]
+                  for lang, entries in catalogs.items()}
+    if signatures['zh'] != signatures['en']:
+        issues.append('canonical category/order/stars/QC/types differ between zh/en')
+    for lang, entries in catalogs.items():
+        if any(e.kind is None for e in entries):
+            issues.append(f'{lang}: missing or unknown project type')
+    # Navigation/recent/install tables must lead to the same destinations.
+    table_urls = {lang: re.findall(r'\]\(([^)\s]+)\)', '\n'.join(
+        line for line in text.splitlines() if line.startswith('|')))
+        for lang, text in texts.items()}
+    if table_urls['zh'] != table_urls['en']:
+        issues.append('navigation, recent-addition or installation table links differ')
 
     # 1. heading count / level / order
     if len(zh) != len(en):

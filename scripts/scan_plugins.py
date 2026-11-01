@@ -24,6 +24,8 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+from catalog import parse_entries
+
 ROOT = Path(__file__).resolve().parent.parent
 README_FILES = ["README.md", "README.en.md"]
 
@@ -72,16 +74,14 @@ def gh_json(url: str) -> dict:
 
 
 def existing_repos() -> set[str]:
-    """Collect all github.com owner/repo pairs already listed in the READMEs."""
+    """Collect canonical entries; highlights must not become audited subjects."""
     repos = set()
-    pattern = re.compile(r"\[[^\]]+\]\(https://github\.com/([^/\)]+/[^/\)]+)\)")
     for f in README_FILES:
         p = ROOT / f
         if p.exists():
             text = p.read_text(encoding="utf-8")
-            for m in pattern.finditer(text):
-                owner_repo = m.group(1).rstrip("/")
-                repos.add(owner_repo.lower())
+            for entry in parse_entries(text):
+                repos.add(entry.name.lower())
     return repos
 
 

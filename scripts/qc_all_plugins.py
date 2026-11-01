@@ -21,6 +21,8 @@ import time
 import urllib.request
 from pathlib import Path
 
+from catalog import parse_entries
+
 ROOT = Path(__file__).resolve().parent.parent
 DSH_QC_DIR = Path.home() / "projects" / "dsh-qc"
 README = ROOT / "README.md"
@@ -36,8 +38,11 @@ def extract_repos() -> list[str]:
     text = README.read_text(encoding="utf-8")
     seen: set[str] = set()
     repos = []
-    for m in REPO_RE.finditer(text):
-        repo = m.group(1).rstrip("/").lower()
+    for entry in parse_entries(text):
+        # QC is for supported bundles, not ecosystem guides or highlights.
+        if entry.section == 'ecosystem' or entry.kind not in {'plugin', 'theme', 'mixed'}:
+            continue
+        repo = entry.name.lower()
         if repo in seen or repo in SKIP or repo in OFFICIAL:
             continue
         seen.add(repo)

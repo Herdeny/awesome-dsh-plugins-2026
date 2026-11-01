@@ -1,0 +1,44 @@
+[
+  {
+    "repo": "BillCx330/dsh-plugin-notify-sounds",
+    "added_on": "2026-11-01",
+    "commit": "adf02c1550df183f6dce7535d4047a960eb004e9",
+    "zh": "审批与任务完成提示音",
+    "en": "Decision and completion chimes"
+  },
+  {
+    "repo": "ZSeven-W/dsh-harbor",
+    "added_on": "2026-11-01",
+    "commit": "adf02c1550df183f6dce7535d4047a960eb004e9",
+    "zh": "插件能力清单与升级预检",
+    "en": "Plugin inventory and upgrade preflight"
+  },
+  {
+    "repo": "EricWang1358/dsh-web-studyhub",
+    "added_on": "2026-10-31",
+    "commit": "5a351ab12cbd384f38772fcec971299e729e2891",
+    "zh": "课件出题与间隔复习",
+    "en": "Source-linked questions and spaced review"
+  },
+  {
+    "repo": "Vncntvx/dsh-zotero",
+    "added_on": "2026-10-31",
+    "commit": "5a351ab12cbd384f38772fcec971299e729e2891",
+    "zh": "本地文献检索与引用",
+    "en": "Local literature search and citations"
+  },
+  {
+    "repo": "dsh-wsl-workspace-maintainers/dsh-wsl-workspace",
+    "added_on": "2026-10-31",
+    "commit": "5a351ab12cbd384f38772fcec971299e729e2891",
+    "zh": "Windows 上的 WSL 工作区",
+    "en": "WSL workspaces on Windows"
+  },
+  {
+    "repo": "yyh-001/dsh-meme",
+    "added_on": "2026-10-31",
+    "commit": "5a351ab12cbd384f38772fcec971299e729e2891",
+    "zh": "表情包检索与图库管理",
+    "en": "Meme search and pack management"
+  }
+]

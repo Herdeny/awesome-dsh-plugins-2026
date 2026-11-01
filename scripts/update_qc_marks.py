@@ -17,6 +17,8 @@ import re
 import sys
 from pathlib import Path
 
+from catalog import catalog_bounds, ENTRY_RE, qc_summary, replace_block
+
 ROOT = Path(__file__).resolve().parent.parent
 READMES = [ROOT / "README.md", ROOT / "README.en.md"]
 
@@ -48,37 +50,27 @@ def add_emoji_to_line(line: str) -> str:
     return line[: m.end()] + f" {emoji}" + rest
 
 
-def process(text: str) -> str:
-    lines = text.splitlines(keepends=True)
-    scores: list[int] = []
+def process(text: str, lang: str = 'zh') -> str:
+    start, end = catalog_bounds(text)
+    lines = text[start:end].splitlines(keepends=True)
     for i, line in enumerate(lines):
-        m = QC_RE.search(line)
-        if m:
-            scores.append(int(m.group(1)))
+        if ENTRY_RE.fullmatch(line.rstrip('\n')):
             lines[i] = add_emoji_to_line(line)
-
-    buckets = {"🟢": 0, "🟡": 0, "🟠": 0, "🔴": 0}
-    for s in scores:
-        buckets[level_emoji(s)] += 1
-
-    out = []
-    for line in lines:
-        m = DIST_RE.match(line)
-        if m:
-            line = f"{m.group(1)}{m.group(2)}{m.group(3)}{buckets[m.group(2)]}\n"
-        out.append(line)
-    return "".join(out)
+    text = text[:start]+''.join(lines)+text[end:]
+    return replace_block(text, 'qc-summary', qc_summary(text, lang))
 
 
 def main() -> int:
     changed = False
+    check_only = "--check" in sys.argv
     for readme in READMES:
         original = readme.read_text(encoding="utf-8")
-        updated = process(original)
+        updated = process(original, 'en' if readme.name == 'README.en.md' else 'zh')
         if updated != original:
-            readme.write_text(updated, encoding="utf-8")
+            if not check_only:
+                readme.write_text(updated, encoding="utf-8")
             changed = True
-            print(f"updated {readme.name}")
+            print(f"{'needs update' if check_only else 'updated'} {readme.name}")
         else:
             print(f"unchanged {readme.name}")
 
