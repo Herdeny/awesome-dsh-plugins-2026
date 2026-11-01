@@ -8,8 +8,8 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-10-31](https://img.shields.io/badge/last--updated-2026--10--31-brightgreen.svg)
-![Plugins: 280](https://img.shields.io/badge/plugins-280-orange.svg)
+![Last updated: 2026-11-01](https://img.shields.io/badge/last--updated-2026--11--01-brightgreen.svg)
+![Plugins: 282](https://img.shields.io/badge/plugins-282-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -254,6 +254,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [hellodigua/dsh-emoji](https://github.com/hellodigua/dsh-emoji) - AI 回复自定义表情，支持 B 站、小红书、贴吧等多平台表情包 (⭐42) 🛡️QC:77 🟢
 - [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) - DSH 跨实例消息/事件交接插件：interconnect 服务与工具，打通多个 DSH 实例 (⭐35)
 - [taxueseek/dsh-files](https://github.com/taxueseek/dsh-files) - 双面文件插件：会话隔离的文件上传（彩色 composer 卡片）+ read_document 工具（文本/PDF/DOCX/XLSX，内容嗅探与 LRU 缓存），原生图片直传视觉模型 (⭐33)
+- [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) - 审批等待与任务完成提示音，支持系统通知、重复提醒、静音时段和音量设置 (⭐33)
 - [lsz-asd/dsh-plugin-session-delete](https://github.com/lsz-asd/dsh-plugin-session-delete) - 从 UI 删除 DSH 会话：头部危险按钮 + 侧栏会话菜单项，风险确认对话框、先停止运行中的 Agent、列表原地刷新 (⭐31)
 - [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync) - OpenAI Codex 与 DSH 的双向桥接：聊天双向同步、Skills 实时挂载与 MCP 自动镜像 (⭐25)
 - [HongMing-Huang/dsh-file-upload](https://github.com/HongMing-Huang/dsh-file-upload) - 文件消息插件：Claude 风格拖拽/回形针上传、内容嗅探、MarkItDown 文档转 Markdown（含 JS 兜底）、文本内联与 read_document 工具 (⭐24)
@@ -342,6 +343,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 ## 🔒 安全与审计
 
 - [lire1131/dsh-undo-savepoint](https://github.com/lire1131/dsh-undo-savepoint) - DSH 崩溃救援插件：撤销配置与插件代码改动、密钥安全快照、一键 SAFE MODE；DSH 无法启动时也有离线 CLI/GUI (⭐147)
+- [ZSeven-W/dsh-harbor](https://github.com/ZSeven-W/dsh-harbor) - 已安装插件能力清单：源码定位、声明与检测结果比对、跨配置版本差异和变更快照，并提供升级预检 (⭐25)
 - [micromilo/upstream-radar](https://github.com/micromilo/upstream-radar) - DSH 插件安全与依赖监控 (⭐12) 🛡️QC:41 🟠
 - [jkrandom-sudo/dsh-plugin-audit](https://github.com/jkrandom-sudo/dsh-plugin-audit) - 插件静态权限审计 (⭐5) 🛡️QC:51 🟡
 - [nanshan1995/dsh-plugin-market](https://github.com/nanshan1995/dsh-plugin-market) - 插件市场：安装前静态安全审计闸门 (⭐3) 🛡️QC:55 🟡

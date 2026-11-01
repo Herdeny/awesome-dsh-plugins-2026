@@ -8,8 +8,8 @@ A quality-focused, annually maintained collection of DeepSeek Harness (DSH) plug
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-10-31](https://img.shields.io/badge/last--updated-2026--10--31-brightgreen.svg)
-![Plugins: 280](https://img.shields.io/badge/plugins-280-orange.svg)
+![Last updated: 2026-11-01](https://img.shields.io/badge/last--updated-2026--11--01-brightgreen.svg)
+![Plugins: 282](https://img.shields.io/badge/plugins-282-orange.svg)
 ![Contributors](https://img.shields.io/github/contributors/Herdeny/awesome-dsh-plugins-2026.svg)
 
 ## 目录 / Contents
@@ -254,6 +254,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 - [hellodigua/dsh-emoji](https://github.com/hellodigua/dsh-emoji) - Custom emoji for AI replies: Bilibili, Xiaohongshu, Tieba and more (⭐42) 🛡️QC:77 🟢
 - [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) - Cross-instance message/event handoff plugins for DSH: interconnect service and tools linking multiple DSH instances (⭐35)
 - [taxueseek/dsh-files](https://github.com/taxueseek/dsh-files) - Dual-face file plugin: session-isolated uploads with colorful composer cards + read_document tool (text/PDF/DOCX/XLSX with content sniffing and LRU cache); native image passthrough for vision models (⭐33)
+- [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) - Chimes for pending decisions and completed tasks, with system notifications, repeat reminders, quiet hours and volume controls (⭐33)
 - [lsz-asd/dsh-plugin-session-delete](https://github.com/lsz-asd/dsh-plugin-session-delete) - Delete DeepSeek Harness sessions from the UI: header danger button + sidebar session-row menu, risk-consent dialog, stops running agents first, in-place list refresh (⭐31)
 - [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync) - Two-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount and auto MCP mirroring (⭐25)
 - [HongMing-Huang/dsh-file-upload](https://github.com/HongMing-Huang/dsh-file-upload) - File-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, MarkItDown document-to-Markdown conversion with a JS fallback, text inlining and a read_document tool (⭐24)
@@ -342,6 +343,7 @@ Scores from [dsh-qc](https://github.com/Herdeny/dsh-qc), 100-point static+dynami
 ## 🔒 Security & audit
 
 - [lire1131/dsh-undo-savepoint](https://github.com/lire1131/dsh-undo-savepoint) - DSH crash-rescue plugin: undo config and plugin-code changes, secret-safe snapshots, one-click SAFE MODE, plus offline CLI/GUI for when DSH won't boot (⭐147)
+- [ZSeven-W/dsh-harbor](https://github.com/ZSeven-W/dsh-harbor) - Installed-plugin capability inventory with source evidence, declared-versus-detected comparison, cross-profile version drift, change snapshots and upgrade preflight (⭐25)
 - [micromilo/upstream-radar](https://github.com/micromilo/upstream-radar) - DSH plugin security and dependency monitoring (⭐12) 🛡️QC:41 🟠
 - [jkrandom-sudo/dsh-plugin-audit](https://github.com/jkrandom-sudo/dsh-plugin-audit) - Static permission audit for DSH plugins (⭐5) 🛡️QC:51 🟡
 - [nanshan1995/dsh-plugin-market](https://github.com/nanshan1995/dsh-plugin-market) - Plugin market with pre-install static security audit gate (⭐3) 🛡️QC:55 🟡
