@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-01](https://img.shields.io/badge/last--updated-2026--11--01-brightgreen.svg)
-![Projects: 312](https://img.shields.io/badge/projects-312-orange.svg)
+![Last updated: 2026-11-02](https://img.shields.io/badge/last--updated-2026--11--02-brightgreen.svg)
+![Projects: 314](https://img.shields.io/badge/projects-314-orange.svg)
 
 <!-- catalog-summary:start -->
-**312 projects**: 282 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**314 projects**: 284 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -164,6 +164,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [jing-hy/picturereader](https://github.com/jing-hy/picturereader) - Pixel-to-text image reading for text-only models: image_scan/image_ocr/image_sample tools + image-reading skill, fully local (⭐34) 🛡️QC:44 🟠 · `Mixed`
 - [liustack/modlens](https://github.com/liustack/modlens) - The first vision plugin for DSH, a vision bridge for text-only agents (⭐4641) 🛡️QC:43 🟠 · `Plugin`
 - [oil-oil/dsh-vision](https://github.com/oil-oil/dsh-vision) - Near-native image understanding for DeepSeek Harness (⭐83) 🛡️QC:69 🟡 · `Plugin`
+- [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) - Shot-based storyboards with timestamps, segment zoom, transcript lookup and subtitle extraction; requires ffmpeg and ffprobe (⭐351) · `Plugin`
 - [tianmingwan/dsh-vision-any](https://github.com/tianmingwan/dsh-vision-any) - Paste images into text-only DSH agents; any OpenAI-compatible, Anthropic or Gemini vision API (⭐22) 🛡️QC:61 🟡 · `Plugin`
 - [william-jin-cmu/dsh-vision](https://github.com/william-jin-cmu/dsh-vision) - view_image tool bridging any OpenAI-compatible VLM (free Zhipu tier by default; 4 vendors, 10 models tested) (⭐32) 🛡️QC:47 🟠 · `Plugin`
 - [xiincs/claude-code-vision-skill](https://github.com/xiincs/claude-code-vision-skill) - Doubao/Qwen/GPT-4o vision for screenshot, UI and chart analysis (⭐165) 🛡️QC:17 🔴 · `Plugin`
@@ -184,6 +185,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [francis-xavier-code/dsh-balance-plugin](https://github.com/francis-xavier-code/dsh-balance-plugin) - Balance monitoring and usage statistics (⭐56) 🛡️QC:61 🟡 · `Plugin`
 - [GraySilver/dsh-evolve-modes](https://github.com/GraySilver/dsh-evolve-modes) - Composable, reviewable, continuously improving agent workflows: composable task controls with isolated, human-reviewed self-evolution (⭐189) · `Plugin`
 - [hsiangnianian/dsh-auto-continue](https://github.com/hsiangnianian/dsh-auto-continue) - Auto-sends "continue" to resume interrupted requests (⭐69) 🛡️QC:72 🟢 · `Plugin`
+- [huaguoxingkong/dsh-prompt-rewriter](https://github.com/huaguoxingkong/dsh-prompt-rewriter) - Rewrite composer drafts with configured models, optional conversation context and undo; edit the result before sending (⭐210) · `Plugin`
 - [huiliyi37/dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) - Official interactive terminal UI plugin for DeepSeek Harness: custom minimal ANSI renderer, streaming Markdown and live status (⭐251) · `Plugin`
 - [jame100101/dsh-terminal-ui](https://github.com/jame100101/dsh-terminal-ui) - Local-first terminal UI for DeepSeek Harness, built with TypeScript and React 19 (⭐25) · `Plugin`
 - [Jiyr0119/dsh-workspace-explorer](https://github.com/Jiyr0119/dsh-workspace-explorer) - Workspace file explorer: a right-side directory tree panel where files can be clicked or dragged into the composer as references, with a native DSH look (⭐28) · `Plugin`
@@ -490,7 +492,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 282 main-catalog projects, **82 have historical scores (29.1%)** and 200 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 284 main-catalog projects, **82 have historical scores (28.9%)** and 202 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

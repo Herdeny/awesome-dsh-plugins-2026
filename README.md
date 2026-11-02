@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-01](https://img.shields.io/badge/last--updated-2026--11--01-brightgreen.svg)
-![Projects: 312](https://img.shields.io/badge/projects-312-orange.svg)
+![Last updated: 2026-11-02](https://img.shields.io/badge/last--updated-2026--11--02-brightgreen.svg)
+![Projects: 314](https://img.shields.io/badge/projects-314-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **312 个项目**：主目录 282 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **314 个项目**：主目录 284 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -164,6 +164,7 @@
 - [jing-hy/picturereader](https://github.com/jing-hy/picturereader) - 像素级图片读取插件：image_scan/image_ocr/image_sample 工具 + 图片阅读技能，纯文本模型也能读图，纯本地运行 (⭐34) 🛡️QC:44 🟠 · `复合项目`
 - [liustack/modlens](https://github.com/liustack/modlens) - DSH 视觉桥接插件，为纯文本 Agent 提供视觉能力 (⭐4641) 🛡️QC:43 🟠 · `插件`
 - [oil-oil/dsh-vision](https://github.com/oil-oil/dsh-vision) - 为 DeepSeek Harness 提供接近原生体验的图像理解能力 (⭐83) 🛡️QC:69 🟡 · `插件`
+- [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) - 按镜头生成带时间码的分镜图，支持局部放大、台词定位与字幕提取；需 ffmpeg 和 ffprobe (⭐351) · `插件`
 - [tianmingwan/dsh-vision-any](https://github.com/tianmingwan/dsh-vision-any) - 让纯文本 DSH Agent 直接粘贴图片，支持任意 OpenAI 兼容 / Anthropic / Gemini 视觉 API (⭐22) 🛡️QC:61 🟡 · `插件`
 - [william-jin-cmu/dsh-vision](https://github.com/william-jin-cmu/dsh-vision) - view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型） (⭐32) 🛡️QC:47 🟠 · `插件`
 - [xiincs/claude-code-vision-skill](https://github.com/xiincs/claude-code-vision-skill) - 接入豆包、通义千问与 GPT-4o，支持截图、UI 和图表分析 (⭐165) 🛡️QC:17 🔴 · `插件`
@@ -184,6 +185,7 @@
 - [francis-xavier-code/dsh-balance-plugin](https://github.com/francis-xavier-code/dsh-balance-plugin) - 提供余额监控与用量统计能力 (⭐56) 🛡️QC:61 🟡 · `插件`
 - [GraySilver/dsh-evolve-modes](https://github.com/GraySilver/dsh-evolve-modes) - 让 Agent 的工作方式可组合、可审查、可持续改进：可组合任务控制 + 隔离的人工审查自进化 (⭐189) · `插件`
 - [hsiangnianian/dsh-auto-continue](https://github.com/hsiangnianian/dsh-auto-continue) - 自动发送“继续”，恢复被中断的请求 (⭐69) 🛡️QC:72 🟢 · `插件`
+- [huaguoxingkong/dsh-prompt-rewriter](https://github.com/huaguoxingkong/dsh-prompt-rewriter) - 用已配置模型改写输入框草稿，支持撤销与会话上下文参考，改写后仍可编辑再发送 (⭐210) · `插件`
 - [huiliyi37/dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) - 官方 DeepSeek Harness 交互式终端 UI 插件：自研 ANSI 极简渲染核心、流式 Markdown 与实时状态 (⭐251) · `插件`
 - [jame100101/dsh-terminal-ui](https://github.com/jame100101/dsh-terminal-ui) - 本地优先的 DSH 终端 UI，基于 TypeScript 与 React 19 构建 (⭐25) · `插件`
 - [Jiyr0119/dsh-workspace-explorer](https://github.com/Jiyr0119/dsh-workspace-explorer) - 工作区文件资源管理器：右侧目录树面板，点击/拖拽文件引用进输入框，UI 对齐 DSH 原生风格 (⭐28) · `插件`
@@ -490,7 +492,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 282 个项目中，**82 个有历史评分记录（29.1%）**，200 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 284 个项目中，**82 个有历史评分记录（28.9%）**，202 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
