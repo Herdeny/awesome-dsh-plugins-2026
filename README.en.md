@@ -37,12 +37,12 @@ The latest six additions. Dates link to catalog inclusion commits; this order is
 <!-- recent-additions:start -->
 | Added | Project | Purpose |
 | --- | --- | --- |
+| [2026-11-02](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/48e2b7dc902a73026caaf9744b0cb090de6c52ce) | [huaguoxingkong/dsh-prompt-rewriter](https://github.com/huaguoxingkong/dsh-prompt-rewriter) | Undoable composer draft rewriting |
+| [2026-11-02](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/48e2b7dc902a73026caaf9744b0cb090de6c52ce) | [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) | Timestamped video storyboards and lookup |
 | [2026-11-01](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/adf02c1550df183f6dce7535d4047a960eb004e9) | [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) | Decision and completion chimes |
 | [2026-11-01](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/adf02c1550df183f6dce7535d4047a960eb004e9) | [ZSeven-W/dsh-harbor](https://github.com/ZSeven-W/dsh-harbor) | Plugin inventory and upgrade preflight |
 | [2026-10-31](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/5a351ab12cbd384f38772fcec971299e729e2891) | [EricWang1358/dsh-web-studyhub](https://github.com/EricWang1358/dsh-web-studyhub) | Source-linked questions and spaced review |
 | [2026-10-31](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/5a351ab12cbd384f38772fcec971299e729e2891) | [Vncntvx/dsh-zotero](https://github.com/Vncntvx/dsh-zotero) | Local literature search and citations |
-| [2026-10-31](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/5a351ab12cbd384f38772fcec971299e729e2891) | [dsh-wsl-workspace-maintainers/dsh-wsl-workspace](https://github.com/dsh-wsl-workspace-maintainers/dsh-wsl-workspace) | WSL workspaces on Windows |
-| [2026-10-31](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/5a351ab12cbd384f38772fcec971299e729e2891) | [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme) | Meme search and pack management |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>

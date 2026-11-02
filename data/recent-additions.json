@@ -1,5 +1,19 @@
 [
   {
+    "repo": "huaguoxingkong/dsh-prompt-rewriter",
+    "added_on": "2026-11-02",
+    "commit": "48e2b7dc902a73026caaf9744b0cb090de6c52ce",
+    "zh": "可撤销的输入草稿改写",
+    "en": "Undoable composer draft rewriting"
+  },
+  {
+    "repo": "SAOS-3624/dsh-video-storyboard",
+    "added_on": "2026-11-02",
+    "commit": "48e2b7dc902a73026caaf9744b0cb090de6c52ce",
+    "zh": "带时间码的视频分镜与定位",
+    "en": "Timestamped video storyboards and lookup"
+  },
+  {
     "repo": "BillCx330/dsh-plugin-notify-sounds",
     "added_on": "2026-11-01",
     "commit": "adf02c1550df183f6dce7535d4047a960eb004e9",
