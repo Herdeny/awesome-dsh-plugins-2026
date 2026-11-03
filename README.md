@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-02](https://img.shields.io/badge/last--updated-2026--11--02-brightgreen.svg)
-![Projects: 314](https://img.shields.io/badge/projects-314-orange.svg)
+![Last updated: 2026-11-03](https://img.shields.io/badge/last--updated-2026--11--03-brightgreen.svg)
+![Projects: 315](https://img.shields.io/badge/projects-315-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **314 个项目**：主目录 284 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **315 个项目**：主目录 285 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -123,6 +123,7 @@
 - [omdsh-dev/dsh-toolkit](https://github.com/omdsh-dev/dsh-toolkit) - DSH 零依赖工具包合集：time/encoding/json/calculator/csv/regex/markdown/diff/stat/schema 十个确定性工具，统一入口一键安装 (⭐28) · `插件`
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) - 可保存、观察与恢复的多 Agent 工作流，支持任务调度与执行治理 (⭐108) · `插件`
 - [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research) - 行业与公司研究领域包：方法论技能、产业链图谱、公开信源政策/新闻跟踪、公司研究卡片与可审计研究报告（仅研究，非投资建议） (⭐64) · `Skill`
+- [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) - 社区维护的插件开发知识库：按需 Skill、版本迁移资料，以及脚手架与静态检查 CLI (⭐64) · `复合项目`
 - [qkycir-123/dsh-run2skill](https://github.com/qkycir-123/dsh-run2skill) - 把成功的 DeepSeek Harness 会话自动沉淀为可复用、可审查的 Agent Skill (⭐99) · `插件`
 - [RealSeaberry/AutoMCM-Pro](https://github.com/RealSeaberry/AutoMCM-Pro) - 全栈式自动数学建模竞赛 Skill：AI 自动驾驶、人类副驾，GitOps 流水线 + 强制代码自证，支持 Claude Code / Codex / opencode / DSH (⭐224) · `Skill`
 - [Rianico/dsh-better-edit](https://github.com/Rianico/dsh-better-edit) - 哈希锚定的 read/edit/undo_last_edit 工具：防编辑错位，更省 token、成本更低 (⭐22) · `插件`
@@ -492,7 +493,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 284 个项目中，**82 个有历史评分记录（28.9%）**，202 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 285 个项目中，**82 个有历史评分记录（28.8%）**，203 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

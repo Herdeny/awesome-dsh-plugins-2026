@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-02](https://img.shields.io/badge/last--updated-2026--11--02-brightgreen.svg)
-![Projects: 314](https://img.shields.io/badge/projects-314-orange.svg)
+![Last updated: 2026-11-03](https://img.shields.io/badge/last--updated-2026--11--03-brightgreen.svg)
+![Projects: 315](https://img.shields.io/badge/projects-315-orange.svg)
 
 <!-- catalog-summary:start -->
-**314 projects**: 284 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**315 projects**: 285 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -123,6 +123,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [omdsh-dev/dsh-toolkit](https://github.com/omdsh-dev/dsh-toolkit) - Zero-dependency DSH toolkit collection: ten deterministic tools (time/encoding/json/calculator/csv/regex/markdown/diff/stat/schema) with one-click install (⭐28) · `Plugin`
 - [omdsh-dev/dsh_workflow](https://github.com/omdsh-dev/dsh_workflow) - Persistent multi-agent workflows with task dispatch, observability, execution governance and recovery (⭐108) · `Plugin`
 - [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research) - Industry & company research domain pack: methodology skills, industry-chain maps, public-source policy/news tracking, company cards and auditable reports (research only) (⭐64) · `Skill`
+- [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) - Community-maintained plugin development knowledge base with an on-demand skill, version migration references, scaffolding and static-check CLI (⭐64) · `Mixed`
 - [qkycir-123/dsh-run2skill](https://github.com/qkycir-123/dsh-run2skill) - Automatically turns successful DeepSeek Harness sessions into reusable, reviewable Agent Skills (⭐99) · `Plugin`
 - [RealSeaberry/AutoMCM-Pro](https://github.com/RealSeaberry/AutoMCM-Pro) - Full-stack math-modeling competition skill: AI autopilot with human copilot, GitOps pipeline and enforced code self-verification; works with Claude Code / Codex / opencode / DSH (⭐224) · `Skill`
 - [Rianico/dsh-better-edit](https://github.com/Rianico/dsh-better-edit) - Hash-anchored read/edit/undo_last_edit tools for DSH: no drifted edits, fewer tokens, lower cost (⭐22) · `Plugin`
@@ -492,7 +493,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 284 main-catalog projects, **82 have historical scores (28.9%)** and 202 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 285 main-catalog projects, **82 have historical scores (28.8%)** and 203 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
