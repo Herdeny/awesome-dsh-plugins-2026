@@ -1,5 +1,12 @@
 [
   {
+    "repo": "PerryLink/dsh-plugin-guide",
+    "added_on": "2026-11-03",
+    "commit": "19f96e903d017392225487a59f14a31fbc9ee5ae",
+    "zh": "插件开发知识库与脚手架检查 CLI",
+    "en": "Plugin-development knowledge base and scaffolding/check CLI"
+  },
+  {
     "repo": "huaguoxingkong/dsh-prompt-rewriter",
     "added_on": "2026-11-02",
     "commit": "48e2b7dc902a73026caaf9744b0cb090de6c52ce",
