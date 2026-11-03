@@ -8,10 +8,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-03](https://img.shields.io/badge/last--updated-2026--11--03-brightgreen.svg)
-![Projects: 315](https://img.shields.io/badge/projects-315-orange.svg)
+![Projects: 316](https://img.shields.io/badge/projects-316-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **315 个项目**：主目录 285 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **316 个项目**：主目录 286 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -209,6 +209,7 @@
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - 支持双向发送与展示表情贴纸 (⭐23) 🛡️QC:66 🟡 · `插件`
 - [xuanyuanzhifeng/dsh-plugin-agent-workflow](https://github.com/xuanyuanzhifeng/dsh-plugin-agent-workflow) - DSH Web UI 工作流标签页：按对话轮次展示模型请求、响应与工具调用的执行链路，含 Token 与缓存统计 (⭐133) · `插件`
 - [YEYEYEYESHIFU/dsh-result-only-view](https://github.com/YEYEYEYESHIFU/dsh-result-only-view) - 折叠思考与工具过程，突出最终回复，并支持展开过程痕迹和运行摘要 (⭐2) · `插件`
+- [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) - 可自定义快捷键，用于切换、固定及管理会话，提供 Windows 和 macOS 预设（上游已验证 DSH 0.1.5-rc.2 与 0.2.0-rc.2） (⭐3) · `插件`
 - [yyyyukari/dsh-plugin-workshop](https://github.com/yyyyukari/dsh-plugin-workshop) - Steam 创意工坊式 DSH Web UI 插件浏览器：零服务器、GitHub 驱动搜索、热度/飙升窗口、双语翻译与分级预检的一键安装/更新/卸载 (⭐25) · `插件`
 - [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager) - DSH Web GUI 的「技能与 MCP」管理卡片：在设置页的 Web UI 插件分组内于浏览器里管理技能与 MCP (⭐23) · `插件`
 
@@ -493,7 +494,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 285 个项目中，**82 个有历史评分记录（28.8%）**，203 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 286 个项目中，**82 个有历史评分记录（28.7%）**，204 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

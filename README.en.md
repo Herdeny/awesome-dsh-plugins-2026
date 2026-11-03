@@ -8,10 +8,10 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-03](https://img.shields.io/badge/last--updated-2026--11--03-brightgreen.svg)
-![Projects: 315](https://img.shields.io/badge/projects-315-orange.svg)
+![Projects: 316](https://img.shields.io/badge/projects-316-orange.svg)
 
 <!-- catalog-summary:start -->
-**315 projects**: 285 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**316 projects**: 286 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -209,6 +209,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - Bidirectional sticker reactions between user and agent (⭐23) 🛡️QC:66 🟡 · `Plugin`
 - [xuanyuanzhifeng/dsh-plugin-agent-workflow](https://github.com/xuanyuanzhifeng/dsh-plugin-agent-workflow) - Workflow tab for the DSH Web UI: per-turn execution chains of model requests, responses and tool calls, with token & cache stats (⭐133) · `Plugin`
 - [YEYEYEYESHIFU/dsh-result-only-view](https://github.com/YEYEYEYESHIFU/dsh-result-only-view) - Collapse reasoning and tool activity to emphasize final replies, with expandable traces and live summaries (⭐2) · `Plugin`
+- [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) - Configurable shortcuts for switching, pinning and managing sessions, with Windows and macOS presets (tested upstream on DSH 0.1.5-rc.2 and 0.2.0-rc.2) (⭐3) · `Plugin`
 - [yyyyukari/dsh-plugin-workshop](https://github.com/yyyyukari/dsh-plugin-workshop) - Steam Workshop-style plugin browser for the DSH Web UI: zero-server GitHub-powered search, trending windows, bilingual translation and tiered one-click install/update/uninstall (⭐25) · `Plugin`
 - [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager) - "Skills & MCP" card for the DSH Web GUI: manage skills and MCP servers from the browser inside the Web UI plugins settings group (⭐23) · `Plugin`
 
@@ -493,7 +494,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 285 main-catalog projects, **82 have historical scores (28.8%)** and 203 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 286 main-catalog projects, **82 have historical scores (28.7%)** and 204 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
