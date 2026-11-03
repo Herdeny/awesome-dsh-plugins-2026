@@ -37,12 +37,12 @@
 <!-- recent-additions:start -->
 | 收录日期 | 项目 | 用途 |
 | --- | --- | --- |
+| [2026-11-03](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/65f38446444ef7489c39dbedeee5d5ce56ad653b) | [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) | 可自定义的会话快捷键 |
 | [2026-11-03](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/19f96e903d017392225487a59f14a31fbc9ee5ae) | [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) | 插件开发知识库与脚手架检查 CLI |
 | [2026-11-02](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/48e2b7dc902a73026caaf9744b0cb090de6c52ce) | [huaguoxingkong/dsh-prompt-rewriter](https://github.com/huaguoxingkong/dsh-prompt-rewriter) | 可撤销的输入草稿改写 |
 | [2026-11-02](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/48e2b7dc902a73026caaf9744b0cb090de6c52ce) | [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) | 带时间码的视频分镜与定位 |
 | [2026-11-01](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/adf02c1550df183f6dce7535d4047a960eb004e9) | [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) | 审批与任务完成提示音 |
 | [2026-11-01](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/adf02c1550df183f6dce7535d4047a960eb004e9) | [ZSeven-W/dsh-harbor](https://github.com/ZSeven-W/dsh-harbor) | 插件能力清单与升级预检 |
-| [2026-10-31](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/5a351ab12cbd384f38772fcec971299e729e2891) | [EricWang1358/dsh-web-studyhub](https://github.com/EricWang1358/dsh-web-studyhub) | 课件出题与间隔复习 |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>

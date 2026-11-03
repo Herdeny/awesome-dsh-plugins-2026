@@ -1,5 +1,12 @@
 [
   {
+    "repo": "YEYEYEYESHIFU/dsh-session-hotkeys",
+    "added_on": "2026-11-03",
+    "commit": "65f38446444ef7489c39dbedeee5d5ce56ad653b",
+    "zh": "可自定义的会话快捷键",
+    "en": "Configurable session shortcuts"
+  },
+  {
     "repo": "PerryLink/dsh-plugin-guide",
     "added_on": "2026-11-03",
     "commit": "19f96e903d017392225487a59f14a31fbc9ee5ae",
