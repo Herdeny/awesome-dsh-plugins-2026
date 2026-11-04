@@ -138,7 +138,7 @@
 - [tong-io/tongflow](https://github.com/tong-io/tongflow) - 多模态工作流工作室与引擎（画布 + Python 插件引擎），含 dsh-tongflow 工作室插件 (⭐1005) 🛡️QC:30 🟠 · `复合项目`
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) - 两阶段 DSH 预设：先进行最小对齐引导，再完成标准化对齐 (⭐3731) 🛡️QC:31 🟠 · `预设`
 - [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource) - 基于 Tushare 的本地财经数据源，提供 HTTP、MCP 与 DSH Skill 接口及多渠道提醒 (⭐184) · `复合项目`
-- [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) - 插件版本管理：在插件页加「版本」标签，换版本优先走 in-place 替换（不先卸载，启用状态不丢；拿不到 profile 写入锁或就地替换被拒时退回卸载再装，并在日志写明原因），实时 pnpm 进度与取消，列出全部已发布版本并一键回滚，镜像缺口提醒，安装源可选并写进 profile (⭐3) · `插件`
+- [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) - 插件版本管理：插件页加「版本」标签，一键升级优先就地替换（不卸载、启用状态不丢；拿不到 profile 写入锁时退回卸载再装并写明原因），实时 pnpm 进度与取消，列出全部已发布版本一键回滚，每版先与运行的 DSH 核对、装不了的禁用按钮，回滚分清「装回未激活」与「包丢失」，镜像缺口提醒，安装源可选写进 profile (⭐3) · `插件`
 - [Zvyan/PromptForge](https://github.com/Zvyan/PromptForge) - 多平台提示词工程框架：9 大领域 56 个结构化模板、118 个预设，原生适配 DSH / Cursor / Claude / OpenAI，附 FastAPI Web UI 与 Typer CLI (⭐26) · `Skill`
 
 <a id="design-creative"></a>
