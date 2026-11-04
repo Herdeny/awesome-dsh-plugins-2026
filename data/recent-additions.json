@@ -1,5 +1,12 @@
 [
   {
+    "repo": "TLEWA/dsh-sidebar-organizer",
+    "added_on": "2026-11-04",
+    "commit": "c96a29fe56452375a8a6ff593bf05052112f5665",
+    "zh": "七区域布局排序与收纳",
+    "en": "Reordering and hiding controls across seven UI areas"
+  },
+  {
     "repo": "YEYEYEYESHIFU/dsh-session-hotkeys",
     "added_on": "2026-11-03",
     "commit": "65f38446444ef7489c39dbedeee5d5ce56ad653b",
