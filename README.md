@@ -8,10 +8,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-04](https://img.shields.io/badge/last--updated-2026--11--04-brightgreen.svg)
-![Projects: 317](https://img.shields.io/badge/projects-317-orange.svg)
+![Projects: 318](https://img.shields.io/badge/projects-318-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **317 个项目**：主目录 287 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **318 个项目**：主目录 288 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -273,6 +273,7 @@
 
 - [herdeny/dsh-qc](https://github.com/herdeny/dsh-qc) - DSH 插件质量检测 CLI，支持静态分析与动态验证 (⭐2) · `工具`
 - [liangdabiao/dsh-plugin-developer-skill](https://github.com/liangdabiao/dsh-plugin-developer-skill) - 插件开发 Skill：指导 Agent 从 0 到 1 开发、构建、安装、测试 DSH 插件，附一个已通过 Web 界面实测的天气插件作整包参考 (⭐23) · `复合项目`
+- [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) - 在 DSH 主对话中体验两版真实 Vite 应用、盲选，并结合当前项目编辑审查采用 (⭐27) · `插件`
 - [oil-oil/build-deepseek-harness-plugin](https://github.com/oil-oil/build-deepseek-harness-plugin) - 面向已安装 DSH 插件的构建 Agent Skill：slots、Typert remotes 与凭据处理 (⭐39) · `Skill`
 - [omdsh-dev/dsh-plugin-skills](https://github.com/omdsh-dev/dsh-plugin-skills) - 用于构建和测试 DSH 插件的 Agent Skills (⭐12) 🛡️QC:17 🔴 · `Skill`
 - [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill) - 将视频、音频和屏幕活动整理为带时间戳的可搜索证据，提供 MCP、CLI、REST 与 Web 入口 (⭐336) · `复合项目`
@@ -495,7 +496,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 287 个项目中，**82 个有历史评分记录（28.6%）**，205 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 288 个项目中，**82 个有历史评分记录（28.5%）**，206 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
