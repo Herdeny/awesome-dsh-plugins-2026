@@ -8,10 +8,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-04](https://img.shields.io/badge/last--updated-2026--11--04-brightgreen.svg)
-![Projects: 317](https://img.shields.io/badge/projects-317-orange.svg)
+![Projects: 318](https://img.shields.io/badge/projects-318-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **317 个项目**：主目录 287 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **318 个项目**：主目录 288 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -496,7 +496,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 287 个项目中，**82 个有历史评分记录（28.6%）**，205 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 288 个项目中，**82 个有历史评分记录（28.5%）**，206 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

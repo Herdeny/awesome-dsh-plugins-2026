@@ -8,10 +8,10 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-04](https://img.shields.io/badge/last--updated-2026--11--04-brightgreen.svg)
-![Projects: 317](https://img.shields.io/badge/projects-317-orange.svg)
+![Projects: 318](https://img.shields.io/badge/projects-318-orange.svg)
 
 <!-- catalog-summary:start -->
-**317 projects**: 287 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**318 projects**: 288 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -496,7 +496,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 287 main-catalog projects, **82 have historical scores (28.6%)** and 205 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 288 main-catalog projects, **82 have historical scores (28.5%)** and 206 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
