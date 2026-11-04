@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-03](https://img.shields.io/badge/last--updated-2026--11--03-brightgreen.svg)
-![Projects: 316](https://img.shields.io/badge/projects-316-orange.svg)
+![Last updated: 2026-11-04](https://img.shields.io/badge/last--updated-2026--11--04-brightgreen.svg)
+![Projects: 317](https://img.shields.io/badge/projects-317-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **316 个项目**：主目录 286 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **317 个项目**：主目录 287 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -206,6 +206,7 @@
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - 终末地风格工业 UI 外壳（非官方粉丝主题）：dsh plugin --profile web add 一键安装 (⭐55) · `插件`
 - [sanqi-normal/dsh-webui-market-plugin](https://github.com/sanqi-normal/dsh-webui-market-plugin) - 面向 DSH Web UI 的插件市场入口 (⭐102) 🛡️QC:61 🟡 · `插件`
 - [Tasihi89/dsh-talk-map](https://github.com/Tasihi89/dsh-talk-map) - 可视化对话地图：会话以卡片呈现在白板上，拖拽排列、双击聊天、连线分叉注入上下文 (⭐80) · `插件`
+- [TLEWA/dsh-sidebar-organizer](https://github.com/TLEWA/dsh-sidebar-organizer) - 长按拖动排序或收纳七个界面区域的控件，支持导入导出布局及在桌面端和 Web 界面之间同步（DSH ≥ 0.2.1-rc.3） (⭐1) · `插件`
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - 支持双向发送与展示表情贴纸 (⭐23) 🛡️QC:66 🟡 · `插件`
 - [xuanyuanzhifeng/dsh-plugin-agent-workflow](https://github.com/xuanyuanzhifeng/dsh-plugin-agent-workflow) - DSH Web UI 工作流标签页：按对话轮次展示模型请求、响应与工具调用的执行链路，含 Token 与缓存统计 (⭐133) · `插件`
 - [YEYEYEYESHIFU/dsh-result-only-view](https://github.com/YEYEYEYESHIFU/dsh-result-only-view) - 折叠思考与工具过程，突出最终回复，并支持展开过程痕迹和运行摘要 (⭐2) · `插件`
@@ -494,7 +495,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 286 个项目中，**82 个有历史评分记录（28.7%）**，204 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 287 个项目中，**82 个有历史评分记录（28.6%）**，205 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
