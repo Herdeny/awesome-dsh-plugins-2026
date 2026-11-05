@@ -8,10 +8,10 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-05](https://img.shields.io/badge/last--updated-2026--11--05-brightgreen.svg)
-![Projects: 320](https://img.shields.io/badge/projects-320-orange.svg)
+![Projects: 321](https://img.shields.io/badge/projects-321-orange.svg)
 
 <!-- catalog-summary:start -->
-**320 projects**: 290 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**321 projects**: 291 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -263,6 +263,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [lninghaha/dsh-coding-subscription-oauth](https://github.com/lninghaha/dsh-coding-subscription-oauth) - OAuth bridge that brings coding subscriptions (SuperGrok / Grok Build, ChatGPT Plus and more) into DSH (⭐23) · `Plugin`
 - [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider) - Unofficial DeepSeek Harness LLM provider plugin for Command Code: live model catalog, reasoning-effort support and a Models-page card; ported from pi-commandcode-provider (⭐445) · `Plugin`
 - [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) - A whale-girl widget in the DSH corner that watches your DeepSeek balance: draggable, snap-able, animated counter (⭐1811) · `Plugin`
+- [MosCloud/dsh-provider-show](https://github.com/MosCloud/dsh-provider-show) - Show the provider name beside the composer model information, deferring to providers already presented by another plugin (⭐0) · `Plugin`
 - [V1ki/dsh-plugin-subscriptions](https://github.com/V1ki/dsh-plugin-subscriptions) - Use ChatGPT (Codex), Claude and Grok (X Premium) subscriptions as DSH LLM providers — OAuth in the web UI, no API keys (⭐534) · `Plugin`
 - [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) - Brings ChatGPT / Codex subscription straight into DSH: OAuth login, models, search, quota and image generation — no API key or Codex CLI needed (⭐44) · `Plugin`
 - [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) - Injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured priority routing) (⭐6785) · `Mixed`
@@ -498,7 +499,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 290 main-catalog projects, **82 have historical scores (28.3%)** and 208 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 291 main-catalog projects, **82 have historical scores (28.2%)** and 209 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

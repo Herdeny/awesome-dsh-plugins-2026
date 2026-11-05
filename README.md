@@ -8,10 +8,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-05](https://img.shields.io/badge/last--updated-2026--11--05-brightgreen.svg)
-![Projects: 320](https://img.shields.io/badge/projects-320-orange.svg)
+![Projects: 321](https://img.shields.io/badge/projects-321-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **320 个项目**：主目录 290 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **321 个项目**：主目录 291 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -263,6 +263,7 @@
 - [lninghaha/dsh-coding-subscription-oauth](https://github.com/lninghaha/dsh-coding-subscription-oauth) - 把 SuperGrok / Grok Build、ChatGPT Plus 等编程订阅通过 OAuth 接入 DSH (⭐23) · `插件`
 - [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider) - 非官方 Command Code LLM 提供商插件：实时模型目录、推理档位支持与 Models 页卡片，移植自 pi-commandcode-provider (⭐445) · `插件`
 - [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) - 住在 DSH 界面右下角的小鲸鱼娘余额监视器：拖拽吸附、数字滚动动画，随界面自动启用 (⭐1811) · `插件`
+- [MosCloud/dsh-provider-show](https://github.com/MosCloud/dsh-provider-show) - 在输入框模型信息旁显示供应商名称，对已有插件接管显示的供应商自动让位 (⭐0) · `插件`
 - [V1ki/dsh-plugin-subscriptions](https://github.com/V1ki/dsh-plugin-subscriptions) - 把 ChatGPT (Codex)、Claude、Grok (X Premium) 订阅直接当作 DSH 的 LLM 提供商：Web UI 内 OAuth 登录，无需 API Key (⭐534) · `插件`
 - [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) - 把 ChatGPT / Codex 订阅直接接入 DSH：OAuth 登录、模型、搜索、额度与图片生成，无需 API Key 或 Codex CLI (⭐44) · `插件`
 - [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) - 注入器 + 路由标准套件：先装运行时注入器，再装任务感知的推理模式路由器预设（实测优先路由与相变证据） (⭐6785) · `复合项目`
@@ -498,7 +499,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 290 个项目中，**82 个有历史评分记录（28.3%）**，208 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 291 个项目中，**82 个有历史评分记录（28.2%）**，209 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
