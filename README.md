@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-04](https://img.shields.io/badge/last--updated-2026--11--04-brightgreen.svg)
-![Projects: 317](https://img.shields.io/badge/projects-317-orange.svg)
+![Last updated: 2026-11-05](https://img.shields.io/badge/last--updated-2026--11--05-brightgreen.svg)
+![Projects: 318](https://img.shields.io/badge/projects-318-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **317 个项目**：主目录 287 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **318 个项目**：主目录 288 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -138,6 +138,7 @@
 - [tong-io/tongflow](https://github.com/tong-io/tongflow) - 多模态工作流工作室与引擎（画布 + Python 插件引擎），含 dsh-tongflow 工作室插件 (⭐1005) 🛡️QC:30 🟠 · `复合项目`
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) - 两阶段 DSH 预设：先进行最小对齐引导，再完成标准化对齐 (⭐3731) 🛡️QC:31 🟠 · `预设`
 - [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource) - 基于 Tushare 的本地财经数据源，提供 HTTP、MCP 与 DSH Skill 接口及多渠道提醒 (⭐184) · `复合项目`
+- [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) - 在插件页管理版本、批量升级或切换版本，提供安装进度、取消、兼容性提示与安装源设置（DSH 0.2.1-rc.3 至 0.2.x） (⭐3) · `插件`
 - [Zvyan/PromptForge](https://github.com/Zvyan/PromptForge) - 多平台提示词工程框架：9 大领域 56 个结构化模板、118 个预设，原生适配 DSH / Cursor / Claude / OpenAI，附 FastAPI Web UI 与 Typer CLI (⭐26) · `Skill`
 
 <a id="design-creative"></a>
@@ -495,7 +496,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 287 个项目中，**82 个有历史评分记录（28.6%）**，205 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 288 个项目中，**82 个有历史评分记录（28.5%）**，206 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
