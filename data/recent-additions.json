@@ -1,5 +1,33 @@
 [
   {
+    "repo": "zuwenyin/dsh-plugin-upgrader",
+    "added_on": "2026-11-05",
+    "commit": "a796276851568540dc94172bcf6efe2ad0b41d55",
+    "zh": "插件版本升级与回滚",
+    "en": "Plugin version upgrades and rollback"
+  },
+  {
+    "repo": "lijiaqi-AI-Product-Manager/dsh-agent-compare",
+    "added_on": "2026-11-05",
+    "commit": "406d93adaa1f36073cf2f18510807d83e4997a2e",
+    "zh": "Vite 前端双实现比较与审查采用",
+    "en": "Compare Vite implementations and review adoption"
+  },
+  {
+    "repo": "lijiaqi-AI-Product-Manager/dsh-bug-gps",
+    "added_on": "2026-11-05",
+    "commit": "a3442a093addc31a5874850bd79b4b43738400ca",
+    "zh": "浏览器问题录制与修复复核",
+    "en": "Browser bug recording and fix verification"
+  },
+  {
+    "repo": "MosCloud/dsh-provider-show",
+    "added_on": "2026-11-05",
+    "commit": "ff39a8e92aca96a6188d4085fb7f2885d375f506",
+    "zh": "输入框模型供应商标签",
+    "en": "Composer model provider labels"
+  },
+  {
     "repo": "TLEWA/dsh-sidebar-organizer",
     "added_on": "2026-11-04",
     "commit": "c96a29fe56452375a8a6ff593bf05052112f5665",

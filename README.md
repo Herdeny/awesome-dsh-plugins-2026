@@ -37,12 +37,12 @@
 <!-- recent-additions:start -->
 | 收录日期 | 项目 | 用途 |
 | --- | --- | --- |
+| [2026-11-05](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/a796276851568540dc94172bcf6efe2ad0b41d55) | [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) | 插件版本升级与回滚 |
+| [2026-11-05](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/406d93adaa1f36073cf2f18510807d83e4997a2e) | [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) | Vite 前端双实现比较与审查采用 |
+| [2026-11-05](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/a3442a093addc31a5874850bd79b4b43738400ca) | [lijiaqi-AI-Product-Manager/dsh-bug-gps](https://github.com/lijiaqi-AI-Product-Manager/dsh-bug-gps) | 浏览器问题录制与修复复核 |
+| [2026-11-05](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/ff39a8e92aca96a6188d4085fb7f2885d375f506) | [MosCloud/dsh-provider-show](https://github.com/MosCloud/dsh-provider-show) | 输入框模型供应商标签 |
 | [2026-11-04](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/c96a29fe56452375a8a6ff593bf05052112f5665) | [TLEWA/dsh-sidebar-organizer](https://github.com/TLEWA/dsh-sidebar-organizer) | 七区域布局排序与收纳 |
 | [2026-11-03](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/65f38446444ef7489c39dbedeee5d5ce56ad653b) | [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) | 可自定义的会话快捷键 |
-| [2026-11-03](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/19f96e903d017392225487a59f14a31fbc9ee5ae) | [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) | 插件开发知识库与脚手架检查 CLI |
-| [2026-11-02](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/48e2b7dc902a73026caaf9744b0cb090de6c52ce) | [huaguoxingkong/dsh-prompt-rewriter](https://github.com/huaguoxingkong/dsh-prompt-rewriter) | 可撤销的输入草稿改写 |
-| [2026-11-02](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/48e2b7dc902a73026caaf9744b0cb090de6c52ce) | [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) | 带时间码的视频分镜与定位 |
-| [2026-11-01](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/adf02c1550df183f6dce7535d4047a960eb004e9) | [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) | 审批与任务完成提示音 |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>
