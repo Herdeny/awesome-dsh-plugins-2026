@@ -8,10 +8,10 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-05](https://img.shields.io/badge/last--updated-2026--11--05-brightgreen.svg)
-![Projects: 318](https://img.shields.io/badge/projects-318-orange.svg)
+![Projects: 319](https://img.shields.io/badge/projects-319-orange.svg)
 
 <!-- catalog-summary:start -->
-**318 projects**: 288 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**319 projects**: 289 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -274,6 +274,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 
 - [herdeny/dsh-qc](https://github.com/herdeny/dsh-qc) - DSH plugin quality checker CLI with static analysis and dynamic validation (⭐2) · `Tool`
 - [liangdabiao/dsh-plugin-developer-skill](https://github.com/liangdabiao/dsh-plugin-developer-skill) - Plugin-development Skill that walks an agent from zero to building, installing and testing DSH plugins, with a web-verified weather plugin as a full reference example (⭐23) · `Mixed`
+- [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) - Run two implementations of a root-level Vite frontend in a local Git repository, try them, choose blindly and review adoption. Uses DSH model providers, which may charge fees (⭐90) · `Plugin`
 - [oil-oil/build-deepseek-harness-plugin](https://github.com/oil-oil/build-deepseek-harness-plugin) - Agent skill for building installed DeepSeek Harness plugins (slots, Typert remotes, credentials) (⭐39) · `Skill`
 - [omdsh-dev/dsh-plugin-skills](https://github.com/omdsh-dev/dsh-plugin-skills) - Agent skills for building and testing DSH plugins (⭐12) 🛡️QC:17 🔴 · `Skill`
 - [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill) - Turn video, audio and screen activity into searchable timestamped evidence through MCP, CLI, REST and Web interfaces (⭐336) · `Mixed`
@@ -496,7 +497,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 288 main-catalog projects, **82 have historical scores (28.5%)** and 206 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 289 main-catalog projects, **82 have historical scores (28.4%)** and 207 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
