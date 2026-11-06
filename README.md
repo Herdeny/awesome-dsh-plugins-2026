@@ -37,12 +37,12 @@
 <!-- recent-additions:start -->
 | 收录日期 | 项目 | 用途 |
 | --- | --- | --- |
+| [2026-11-06](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/0567b7c72e2c9bf1e47357f90439e6a294b43bea) | [Edison-A-N/dsh-session-journal](https://github.com/Edison-A-N/dsh-session-journal) | 按任务整理会话的侧栏工作日志 |
 | [2026-11-05](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/a796276851568540dc94172bcf6efe2ad0b41d55) | [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) | 插件版本升级与回滚 |
 | [2026-11-05](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/406d93adaa1f36073cf2f18510807d83e4997a2e) | [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) | Vite 前端双实现比较与审查采用 |
 | [2026-11-05](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/a3442a093addc31a5874850bd79b4b43738400ca) | [lijiaqi-AI-Product-Manager/dsh-bug-gps](https://github.com/lijiaqi-AI-Product-Manager/dsh-bug-gps) | 浏览器问题录制与修复复核 |
 | [2026-11-05](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/ff39a8e92aca96a6188d4085fb7f2885d375f506) | [MosCloud/dsh-provider-show](https://github.com/MosCloud/dsh-provider-show) | 输入框模型供应商标签 |
 | [2026-11-04](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/c96a29fe56452375a8a6ff593bf05052112f5665) | [TLEWA/dsh-sidebar-organizer](https://github.com/TLEWA/dsh-sidebar-organizer) | 七区域布局排序与收纳 |
-| [2026-11-03](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/65f38446444ef7489c39dbedeee5d5ce56ad653b) | [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) | 可自定义的会话快捷键 |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>

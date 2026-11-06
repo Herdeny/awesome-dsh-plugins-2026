@@ -1,5 +1,12 @@
 [
   {
+    "repo": "Edison-A-N/dsh-session-journal",
+    "added_on": "2026-11-06",
+    "commit": "0567b7c72e2c9bf1e47357f90439e6a294b43bea",
+    "zh": "按任务整理会话的侧栏工作日志",
+    "en": "Sidebar work journal grouping session turns by task"
+  },
+  {
     "repo": "zuwenyin/dsh-plugin-upgrader",
     "added_on": "2026-11-05",
     "commit": "a796276851568540dc94172bcf6efe2ad0b41d55",
