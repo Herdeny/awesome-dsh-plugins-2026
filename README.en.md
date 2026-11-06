@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-05](https://img.shields.io/badge/last--updated-2026--11--05-brightgreen.svg)
-![Projects: 321](https://img.shields.io/badge/projects-321-orange.svg)
+![Last updated: 2026-11-06](https://img.shields.io/badge/last--updated-2026--11--06-brightgreen.svg)
+![Projects: 322](https://img.shields.io/badge/projects-322-orange.svg)
 
 <!-- catalog-summary:start -->
-**321 projects**: 291 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**322 projects**: 292 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -305,6 +305,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [anionex/dsh-turn-rewind](https://github.com/anionex/dsh-turn-rewind) - Rewind conversation and code state, replay historical turns (⭐113) 🛡️QC:74 🟢 · `Plugin`
 - [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) - Chimes for pending decisions and completed tasks, with system notifications, repeat reminders, quiet hours and volume controls (⭐33) · `Plugin`
 - [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) - Cross-instance message/event handoff plugins for DSH: interconnect service and tools linking multiple DSH instances (⭐35) · `Plugin`
+- [Edison-A-N/dsh-session-journal](https://github.com/Edison-A-N/dsh-session-journal) - Sidebar work journal grouping turns by task, with phases, open items and turn navigation. Optional summaries use the session model and may incur fees (DSH 0.2.2-alpha.2+) (⭐0) · `Plugin`
 - [hellodigua/dsh-emoji](https://github.com/hellodigua/dsh-emoji) - Custom emoji for AI replies: Bilibili, Xiaohongshu, Tieba and more (⭐42) 🛡️QC:77 🟢 · `Plugin`
 - [HongMing-Huang/dsh-file-upload](https://github.com/HongMing-Huang/dsh-file-upload) - File-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, MarkItDown document-to-Markdown conversion with a JS fallback, text inlining and a read_document tool (⭐24) · `Plugin`
 - [lsz-asd/dsh-plugin-session-delete](https://github.com/lsz-asd/dsh-plugin-session-delete) - Delete DeepSeek Harness sessions from the UI: header danger button + sidebar session-row menu, risk-consent dialog, stops running agents first, in-place list refresh (⭐31) · `Plugin`
@@ -499,7 +500,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 291 main-catalog projects, **82 have historical scores (28.2%)** and 209 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 292 main-catalog projects, **82 have historical scores (28.1%)** and 210 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

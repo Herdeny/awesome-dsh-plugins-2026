@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-05](https://img.shields.io/badge/last--updated-2026--11--05-brightgreen.svg)
-![Projects: 321](https://img.shields.io/badge/projects-321-orange.svg)
+![Last updated: 2026-11-06](https://img.shields.io/badge/last--updated-2026--11--06-brightgreen.svg)
+![Projects: 322](https://img.shields.io/badge/projects-322-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **321 个项目**：主目录 291 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **322 个项目**：主目录 292 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -305,6 +305,7 @@
 - [anionex/dsh-turn-rewind](https://github.com/anionex/dsh-turn-rewind) - 对话与代码状态回退插件，可重放历史回合 (⭐113) 🛡️QC:74 🟢 · `插件`
 - [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) - 审批等待与任务完成提示音，支持系统通知、重复提醒、静音时段和音量设置 (⭐33) · `插件`
 - [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) - DSH 跨实例消息/事件交接插件：interconnect 服务与工具，打通多个 DSH 实例 (⭐35) · `插件`
+- [Edison-A-N/dsh-session-journal](https://github.com/Edison-A-N/dsh-session-journal) - 侧栏工作日志：按任务整理会话、展示阶段与待办并跳转回合；摘要复用会话模型，可能产生调用费用（DSH 0.2.2-alpha.2 起） (⭐0) · `插件`
 - [hellodigua/dsh-emoji](https://github.com/hellodigua/dsh-emoji) - AI 回复自定义表情，支持 B 站、小红书、贴吧等多平台表情包 (⭐42) 🛡️QC:77 🟢 · `插件`
 - [HongMing-Huang/dsh-file-upload](https://github.com/HongMing-Huang/dsh-file-upload) - 文件消息插件：Claude 风格拖拽/回形针上传、内容嗅探、MarkItDown 文档转 Markdown（含 JS 兜底）、文本内联与 read_document 工具 (⭐24) · `插件`
 - [lsz-asd/dsh-plugin-session-delete](https://github.com/lsz-asd/dsh-plugin-session-delete) - 从 UI 删除 DSH 会话：头部危险按钮 + 侧栏会话菜单项，风险确认对话框、先停止运行中的 Agent、列表原地刷新 (⭐31) · `插件`
@@ -499,7 +500,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 291 个项目中，**82 个有历史评分记录（28.2%）**，209 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 292 个项目中，**82 个有历史评分记录（28.1%）**，210 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
