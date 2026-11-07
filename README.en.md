@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-06](https://img.shields.io/badge/last--updated-2026--11--06-brightgreen.svg)
-![Projects: 322](https://img.shields.io/badge/projects-322-orange.svg)
+![Last updated: 2026-11-07](https://img.shields.io/badge/last--updated-2026--11--07-brightgreen.svg)
+![Projects: 324](https://img.shields.io/badge/projects-324-orange.svg)
 
 <!-- catalog-summary:start -->
-**322 projects**: 292 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**324 projects**: 294 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -145,6 +145,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 
 ## 🎨 Design & creative
 
+- [439436269-ctrl/dsh-preview-stl](https://github.com/439436269-ctrl/dsh-preview-stl) - Sidebar preview for binary and ASCII STL meshes, with interactive 3D viewing, size, volume and watertightness analysis. Requires WebGL (⭐0) · `Plugin`
 - [devin-axis/deepseek-design](https://github.com/devin-axis/deepseek-design) - Editable design system: AI generation, visual editing, template marketplace and PPT (⭐1638) 🛡️QC:17 🔴 · `Plugin`
 - [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - AI novel-writing software: turns inspiration, characters, worldbuilding, outlines, drafting, review and revision into a controllable workflow; Windows/macOS desktop apps, Ollama integration and a DSH plugin preview (⭐806) · `Mixed`
 - [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh) - Cinematic product-video Agent Skill for DSH: 152 shot recipe cards, Remotion templates, code components and audio assets (⭐23) · `Skill`
@@ -200,6 +201,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [LX2000WASD/dsh-web-plugin-manager](https://github.com/LX2000WASD/dsh-web-plugin-manager) - One-click plugin management in the DSH Web UI: view, live start/stop, install/uninstall, update detection and dependency/conflict/compatibility health checks; bundle and non-bundle plugins (⭐67) · `Plugin`
 - [magian1127/deepseek-harness-zh_pro](https://github.com/magian1127/deepseek-harness-zh_pro) - Comprehensive Chinese enhancement plugin for DSH: UI Chinese completion, thinking display, session archive/delete/multi-select, service monitoring and localized model requests (⭐26) · `Plugin`
 - [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) - Codex-style sidebar, workspace session tree, global search and turn navigation for DSH Web (⭐58) · `Plugin`
+- [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - Render model-generated HTML fragments as sandboxed interactive conversation cards through the visualize tool, with charts, simulations, page mode and targeted updates (⭐336) · `Plugin`
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - Open sidebar foundation with third-party page registration; built-in file render/edit, terminal, Git and sub-agent pages (⭐4747) 🛡️QC:51 🟡 · `Plugin`
 - [pengyue-polaron/deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) - Task-specific React apps for DeepSeek Harness: the agent builds a focused interface for the current task and carries user state into the next turn (⭐106) · `Plugin`
 - [plolpl789/dsh-raw-html](https://github.com/plolpl789/dsh-raw-html) - VCP (visual-synesthesia protocol) plugin for DeepSeek Harness: renders agent HTML output (⭐59) · `Plugin`
@@ -500,7 +502,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 292 main-catalog projects, **82 have historical scores (28.1%)** and 210 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 294 main-catalog projects, **82 have historical scores (27.9%)** and 212 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

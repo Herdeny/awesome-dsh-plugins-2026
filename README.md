@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-06](https://img.shields.io/badge/last--updated-2026--11--06-brightgreen.svg)
-![Projects: 322](https://img.shields.io/badge/projects-322-orange.svg)
+![Last updated: 2026-11-07](https://img.shields.io/badge/last--updated-2026--11--07-brightgreen.svg)
+![Projects: 324](https://img.shields.io/badge/projects-324-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **322 个项目**：主目录 292 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **324 个项目**：主目录 294 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -145,6 +145,7 @@
 
 ## 🎨 设计与创意
 
+- [439436269-ctrl/dsh-preview-stl](https://github.com/439436269-ctrl/dsh-preview-stl) - 侧栏 STL 网格预览，支持二进制与 ASCII 格式、交互式 3D 视图以及尺寸、体积和闭合性分析（需要 WebGL） (⭐0) · `插件`
 - [devin-axis/deepseek-design](https://github.com/devin-axis/deepseek-design) - 可编辑设计系统，支持 AI 生成、可视化编辑、模板市场与 PPT (⭐1638) 🛡️QC:17 🔴 · `插件`
 - [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿与修稿组织成可控流程，提供 Windows/macOS 桌面版、Ollama 集成与 DSH 插件预览 (⭐806) · `复合项目`
 - [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh) - 面向 DSH 的电影感产品视频 Agent Skill：152 张镜头配方卡、Remotion 模板、代码组件与音频资产 (⭐23) · `Skill`
@@ -200,6 +201,7 @@
 - [LX2000WASD/dsh-web-plugin-manager](https://github.com/LX2000WASD/dsh-web-plugin-manager) - Web UI 一键插件管理：查看、实时启停、安装/卸载、更新检测与依赖/冲突/兼容性健康检查，bundle 与非 bundle 全覆盖 (⭐67) · `插件`
 - [magian1127/deepseek-harness-zh_pro](https://github.com/magian1127/deepseek-harness-zh_pro) - DSH 综合性中文增强插件：界面补全中文化、思考过程显示、会话归档/删除/多选管理、服务监控与模型请求中文化 (⭐26) · `插件`
 - [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) - 为 DSH Web 提供 Codex 风格侧栏、工作区会话树、全局搜索与轮次导航 (⭐58) · `插件`
+- [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - 通过 visualize 工具把模型生成的 HTML 片段显示为对话内沙箱交互卡片，支持图表、模拟器、页面模式和局部更新 (⭐336) · `插件`
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - 开放的侧边栏底座：支持三方扩展注册新侧边栏页面，内置文件渲染编辑/终端/Git/子代理页面 (⭐4747) 🛡️QC:51 🟡 · `插件`
 - [pengyue-polaron/deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) - 任务专属 React 应用生成插件：Agent 为当前任务创建聚焦界面，并把用户选择/输入的状态带入下一轮对话 (⭐106) · `插件`
 - [plolpl789/dsh-raw-html](https://github.com/plolpl789/dsh-raw-html) - VCP 视觉联觉协议插件：在 DSH 中渲染 Agent 的 HTML 输出 (⭐59) · `插件`
@@ -500,7 +502,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 292 个项目中，**82 个有历史评分记录（28.1%）**，210 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 294 个项目中，**82 个有历史评分记录（27.9%）**，212 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
