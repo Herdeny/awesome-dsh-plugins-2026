@@ -1,5 +1,19 @@
 [
   {
+    "repo": "439436269-ctrl/dsh-preview-stl",
+    "added_on": "2026-11-07",
+    "commit": "69010ee4b186b424c5a266637e4294eb06cf2d0b",
+    "zh": "侧栏 STL 网格预览与几何分析",
+    "en": "Sidebar STL mesh preview and geometry analysis"
+  },
+  {
+    "repo": "Nagi-ovo/dsh-visualize",
+    "added_on": "2026-11-07",
+    "commit": "69010ee4b186b424c5a266637e4294eb06cf2d0b",
+    "zh": "对话内沙箱交互可视化卡片",
+    "en": "Sandboxed interactive visualization cards in conversations"
+  },
+  {
     "repo": "Edison-A-N/dsh-session-journal",
     "added_on": "2026-11-06",
     "commit": "0567b7c72e2c9bf1e47357f90439e6a294b43bea",
