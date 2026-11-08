@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-07](https://img.shields.io/badge/last--updated-2026--11--07-brightgreen.svg)
-![Projects: 324](https://img.shields.io/badge/projects-324-orange.svg)
+![Last updated: 2026-11-08](https://img.shields.io/badge/last--updated-2026--11--08-brightgreen.svg)
+![Projects: 326](https://img.shields.io/badge/projects-326-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **324 个项目**：主目录 294 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **326 个项目**：主目录 296 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -97,6 +97,7 @@
 - [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) - Mimir 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表与 GPU 服务器 SSH 任务编排 (⭐223) · `插件`
 - [a735624258/dsh-skill-picker](https://github.com/a735624258/dsh-skill-picker) - WorkBuddy 同款 Skill 选择器：在输入框挑选 skill，自动插入官方 /skill-name 手势随消息一起发送 (⭐26) · `插件`
 - [akira399/dsh-godot-skill](https://github.com/akira399/dsh-godot-skill) - Godot Engine 4.x 全栈游戏开发技能插件：运行时注册 godot-4-development 技能 (⭐23) · `复合项目`
+- [chenqianyu486-sys/dsh-zju-lecture-note](https://github.com/chenqianyu486-sys/dsh-zju-lecture-note) - 将浙大智云课堂字幕整理成 Markdown 讲义，可用 Typst 生成 PDF，需 Python 3.9+ 与生成讲义的模型，受限课程需要浙大登录态 (⭐5) · `插件`
 - [christopherarter/superpowers-reasonix](https://github.com/christopherarter/superpowers-reasonix) - Superpowers 技能包移植到 Reasonix 编程 Harness（DeepSeek 原生终端代理，支持 DSH 生态） (⭐94) · `Skill`
 - [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness (⭐3419) · `工具`
 - [DCspirit-23/DSH-inspired-Code-Simplification-Skill](https://github.com/DCspirit-23/DSH-inspired-Code-Simplification-Skill) - 移植自 DSH 官方 dsh-find-simplifications 的 Codex 技能：找出并应用代码简化机会 (⭐28) · `Skill`
@@ -208,6 +209,7 @@
 - [plolpl789/dsh-raw-html-v2](https://github.com/plolpl789/dsh-raw-html-v2) - VCP 视觉联觉协议插件 v2（官方 Slot API）：raw-HTML vcp-root 卡片、流式渲染、KaTeX/Mermaid/SVG 与内置字体 (⭐24) · `插件`
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - 终末地风格工业 UI 外壳（非官方粉丝主题）：dsh plugin --profile web add 一键安装 (⭐55) · `插件`
 - [sanqi-normal/dsh-webui-market-plugin](https://github.com/sanqi-normal/dsh-webui-market-plugin) - 面向 DSH Web UI 的插件市场入口 (⭐102) 🛡️QC:61 🟡 · `插件`
+- [stallenlu/dsh-sticky-notes](https://github.com/stallenlu/dsh-sticky-notes) - 浏览器本地便签，提供拖动悬浮面板和侧栏页面，支持 Markdown 预览与粘贴图片 (⭐1) · `插件`
 - [Tasihi89/dsh-talk-map](https://github.com/Tasihi89/dsh-talk-map) - 可视化对话地图：会话以卡片呈现在白板上，拖拽排列、双击聊天、连线分叉注入上下文 (⭐80) · `插件`
 - [TLEWA/dsh-sidebar-organizer](https://github.com/TLEWA/dsh-sidebar-organizer) - 长按拖动排序或收纳七个界面区域的控件，支持导入导出布局及在桌面端和 Web 界面之间同步（DSH ≥ 0.2.1-rc.3） (⭐1) · `插件`
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - 支持双向发送与展示表情贴纸 (⭐23) 🛡️QC:66 🟡 · `插件`
@@ -502,7 +504,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 294 个项目中，**82 个有历史评分记录（27.9%）**，212 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 296 个项目中，**82 个有历史评分记录（27.7%）**，214 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-07](https://img.shields.io/badge/last--updated-2026--11--07-brightgreen.svg)
-![Projects: 324](https://img.shields.io/badge/projects-324-orange.svg)
+![Last updated: 2026-11-08](https://img.shields.io/badge/last--updated-2026--11--08-brightgreen.svg)
+![Projects: 326](https://img.shields.io/badge/projects-326-orange.svg)
 
 <!-- catalog-summary:start -->
-**324 projects**: 294 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**326 projects**: 296 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -97,6 +97,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) - Mimir all-in-one academic research workbench: LaTeX live-compile, arXiv paper management, experiment tracking, metric charts and GPU-server SSH task orchestration (⭐223) · `Plugin`
 - [a735624258/dsh-skill-picker](https://github.com/a735624258/dsh-skill-picker) - WorkBuddy-style skill picker for DeepSeek Harness: pick a skill in the composer and insert the official /skill-name gesture with your message (⭐26) · `Plugin`
 - [akira399/dsh-godot-skill](https://github.com/akira399/dsh-godot-skill) - Godot Engine 4.x full-stack game-development skill plugin that registers the godot-4-development skill at runtime (⭐23) · `Mixed`
+- [chenqianyu486-sys/dsh-zju-lecture-note](https://github.com/chenqianyu486-sys/dsh-zju-lecture-note) - Turn ZJU Classroom captions into Markdown study notes and optionally render PDFs with Typst. Requires Python 3.9+ and a model for note generation, with ZJU sign-in for restricted courses (⭐5) · `Plugin`
 - [christopherarter/superpowers-reasonix](https://github.com/christopherarter/superpowers-reasonix) - Superpowers skill port to the Reasonix coding harness (DeepSeek-native terminal agent, DSH-ecosystem ready) (⭐94) · `Skill`
 - [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - Modern, flexibly embeddable task panel supporting Codex and DeepSeek Harness (⭐3419) · `Tool`
 - [DCspirit-23/DSH-inspired-Code-Simplification-Skill](https://github.com/DCspirit-23/DSH-inspired-Code-Simplification-Skill) - Codex skill adapted from DSH's official dsh-find-simplifications: find and apply code-simplification opportunities (⭐28) · `Skill`
@@ -208,6 +209,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [plolpl789/dsh-raw-html-v2](https://github.com/plolpl789/dsh-raw-html-v2) - VCP visual-synesthesia plugin v2 (official Slot API): raw-HTML vcp-root cards, streaming render, KaTeX/Mermaid/SVG and built-in fonts (⭐24) · `Plugin`
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - Endfield-inspired industrial UI shell for DSH (unofficial fan theme): install with dsh plugin --profile web add (⭐55) · `Plugin`
 - [sanqi-normal/dsh-webui-market-plugin](https://github.com/sanqi-normal/dsh-webui-market-plugin) - Plugin market entry for DSH Web UI (⭐102) 🛡️QC:61 🟡 · `Plugin`
+- [stallenlu/dsh-sticky-notes](https://github.com/stallenlu/dsh-sticky-notes) - Browser-local sticky notes in a draggable floating panel and a sidebar page, with Markdown preview and image pasting (⭐1) · `Plugin`
 - [Tasihi89/dsh-talk-map](https://github.com/Tasihi89/dsh-talk-map) - Visual conversation map: sessions as cards on a whiteboard — drag to arrange, double-click to chat, draw an edge to fork with injected context (⭐80) · `Plugin`
 - [TLEWA/dsh-sidebar-organizer](https://github.com/TLEWA/dsh-sidebar-organizer) - Drag to reorder or tuck away controls across seven UI areas, with layout import/export and sync between desktop and Web (DSH ≥ 0.2.1-rc.3) (⭐1) · `Plugin`
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - Bidirectional sticker reactions between user and agent (⭐23) 🛡️QC:66 🟡 · `Plugin`
@@ -502,7 +504,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 294 main-catalog projects, **82 have historical scores (27.9%)** and 212 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 296 main-catalog projects, **82 have historical scores (27.7%)** and 214 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
