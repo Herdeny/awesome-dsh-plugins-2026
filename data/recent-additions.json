@@ -1,5 +1,19 @@
 [
   {
+    "repo": "stallenlu/dsh-sticky-notes",
+    "added_on": "2026-11-08",
+    "commit": "c5577d7cbd703d0e2e775007c9585ab550b114c8",
+    "zh": "带 Markdown 和图片的本地便签",
+    "en": "Local sticky notes with Markdown and images"
+  },
+  {
+    "repo": "chenqianyu486-sys/dsh-zju-lecture-note",
+    "added_on": "2026-11-08",
+    "commit": "c5577d7cbd703d0e2e775007c9585ab550b114c8",
+    "zh": "智云课堂字幕整理与 PDF 讲义",
+    "en": "ZJU Classroom caption summaries and PDF study notes"
+  },
+  {
     "repo": "439436269-ctrl/dsh-preview-stl",
     "added_on": "2026-11-07",
     "commit": "69010ee4b186b424c5a266637e4294eb06cf2d0b",
