@@ -37,12 +37,12 @@ The latest six additions. Dates link to catalog inclusion commits; this order is
 <!-- recent-additions:start -->
 | Added | Project | Purpose |
 | --- | --- | --- |
+| [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [Tranquillitatis-Lab/dsh-live-compact](https://github.com/Tranquillitatis-Lab/dsh-live-compact) | Turn-end compaction with local backups |
+| [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) | Todo timing with four views |
+| [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [379385796-sys/dsh-ai-exporter](https://github.com/379385796-sys/dsh-ai-exporter) | Conversation export for Windows Desktop |
 | [2026-11-08](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/c5577d7cbd703d0e2e775007c9585ab550b114c8) | [stallenlu/dsh-sticky-notes](https://github.com/stallenlu/dsh-sticky-notes) | Local sticky notes with Markdown and images |
 | [2026-11-08](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/c5577d7cbd703d0e2e775007c9585ab550b114c8) | [chenqianyu486-sys/dsh-zju-lecture-note](https://github.com/chenqianyu486-sys/dsh-zju-lecture-note) | ZJU Classroom caption summaries and PDF study notes |
 | [2026-11-07](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/69010ee4b186b424c5a266637e4294eb06cf2d0b) | [439436269-ctrl/dsh-preview-stl](https://github.com/439436269-ctrl/dsh-preview-stl) | Sidebar STL mesh preview and geometry analysis |
-| [2026-11-07](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/69010ee4b186b424c5a266637e4294eb06cf2d0b) | [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) | Sandboxed interactive visualization cards in conversations |
-| [2026-11-06](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/0567b7c72e2c9bf1e47357f90439e6a294b43bea) | [Edison-A-N/dsh-session-journal](https://github.com/Edison-A-N/dsh-session-journal) | Sidebar work journal grouping session turns by task |
-| [2026-11-05](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/a796276851568540dc94172bcf6efe2ad0b41d55) | [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) | Plugin version upgrades and rollback |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>

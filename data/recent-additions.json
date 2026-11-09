@@ -1,5 +1,26 @@
 [
   {
+    "repo": "Tranquillitatis-Lab/dsh-live-compact",
+    "added_on": "2026-11-09",
+    "commit": "696d7294f0d3b515a3019d477d9ac7f5706dc46d",
+    "zh": "轮后压缩长工具输出并保存原文",
+    "en": "Turn-end compaction with local backups"
+  },
+  {
+    "repo": "FantasyStarry/dsh-todo-time-log",
+    "added_on": "2026-11-09",
+    "commit": "696d7294f0d3b515a3019d477d9ac7f5706dc46d",
+    "zh": "带四种视图的待办时间日志",
+    "en": "Todo timing with four views"
+  },
+  {
+    "repo": "379385796-sys/dsh-ai-exporter",
+    "added_on": "2026-11-09",
+    "commit": "696d7294f0d3b515a3019d477d9ac7f5706dc46d",
+    "zh": "Windows 桌面端会话导出",
+    "en": "Conversation export for Windows Desktop"
+  },
+  {
     "repo": "stallenlu/dsh-sticky-notes",
     "added_on": "2026-11-08",
     "commit": "c5577d7cbd703d0e2e775007c9585ab550b114c8",
