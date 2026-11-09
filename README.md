@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-08](https://img.shields.io/badge/last--updated-2026--11--08-brightgreen.svg)
-![Projects: 326](https://img.shields.io/badge/projects-326-orange.svg)
+![Last updated: 2026-11-09](https://img.shields.io/badge/last--updated-2026--11--09-brightgreen.svg)
+![Projects: 329](https://img.shields.io/badge/projects-329-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **326 个项目**：主目录 296 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **329 个项目**：主目录 299 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -185,6 +185,7 @@
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - 官方公众号收录的 Claude Code 风 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚，npm 一键安装 (⭐6267) 🛡️QC:33 🟠 · `插件`
 - [ccch1mneyyy/working-activity](https://github.com/ccch1mneyyy/working-activity) - 为 pi CLI 与 DSH 打造的生动工作行（statusline）扩展 (⭐653) 🛡️QC:28 🔴 · `插件`
 - [dsh-tui/dsh-tui](https://github.com/dsh-tui/dsh-tui) - 基于 pi-tui 构建的 Claude Code 风格 DSH 终端 UI，out-of-tree 插件包 (⭐31) · `插件`
+- [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) - 记录待办的创建与完成时间，在表格、看板、甘特图和日历中查看，并提供智能体待办工具 (⭐2) · `插件`
 - [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel) - DSH Web UI 插件：Web 界面的 Skill 与 MCP 管理工具 (⭐117) · `复合项目`
 - [francis-xavier-code/dsh-balance-plugin](https://github.com/francis-xavier-code/dsh-balance-plugin) - 提供余额监控与用量统计能力 (⭐56) 🛡️QC:61 🟡 · `插件`
 - [GraySilver/dsh-evolve-modes](https://github.com/GraySilver/dsh-evolve-modes) - 让 Agent 的工作方式可组合、可审查、可持续改进：可组合任务控制 + 隔离的人工审查自进化 (⭐189) · `插件`
@@ -306,6 +307,7 @@
 
 ## 💬 会话与消息
 
+- [379385796-sys/dsh-ai-exporter](https://github.com/379385796-sys/dsh-ai-exporter) - 在 Windows DSH Desktop 按轮次导出当前或历史会话为 TXT、Markdown 或可搜索 PDF，PDF 需要本机 Edge 或 Chrome (⭐0) · `插件`
 - [anionex/dsh-turn-rewind](https://github.com/anionex/dsh-turn-rewind) - 对话与代码状态回退插件，可重放历史回合 (⭐113) 🛡️QC:74 🟢 · `插件`
 - [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) - 审批等待与任务完成提示音，支持系统通知、重复提醒、静音时段和音量设置 (⭐33) · `插件`
 - [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) - DSH 跨实例消息/事件交接插件：interconnect 服务与工具，打通多个 DSH 实例 (⭐35) · `插件`
@@ -392,6 +394,7 @@
 - [quqxui/dsh-memgas](https://github.com/quqxui/dsh-memgas) - 长期记忆插件：四通道检索融合 + 记忆演化闭环，记忆构建与检索方法来自 ICLR 2026 论文 MemGAS (⭐23) · `插件`
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) - 本地 Git 长期记忆插件：记忆存于本地 Git 仓库，设置页双确认清除，含空闲会话同步器与路径安全防护 (⭐184) · `插件`
 - [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public) - 代码库结构化记忆：双时态知识图谱，MCP 原生、零 LLM 调用，毫秒级查询 (⭐454) 🛡️QC:25 🔴 · `MCP`
+- [Tranquillitatis-Lab/dsh-live-compact](https://github.com/Tranquillitatis-Lab/dsh-live-compact) - 在轮次结束时就地压缩选中的长工具输出，并保留本地原文备份。适用于 Web 和 headless，替换默认压缩组件 (⭐142) · `插件`
 - [Tyan66666/billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - 模型驱动的上下文管理（Active Context Pruning / ACP）：由模型决定何时压缩什么，为 DSH 撑起超大上下文 (⭐75) · `插件`
 - [WilliamShi666/dsh-context-compression-selector](https://github.com/WilliamShi666/dsh-context-compression-selector) - 可切换的多种工具结果剪枝与上下文压缩策略 (⭐23) · `插件`
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - 面向所有 AI Agent（Claude Code / Codex / DSH 等）的持久统一记忆层，基于 Markdown 与 Milvus (⭐2503) · `工具`
@@ -504,7 +507,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 296 个项目中，**82 个有历史评分记录（27.7%）**，214 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 299 个项目中，**82 个有历史评分记录（27.4%）**，217 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

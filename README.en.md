@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-08](https://img.shields.io/badge/last--updated-2026--11--08-brightgreen.svg)
-![Projects: 326](https://img.shields.io/badge/projects-326-orange.svg)
+![Last updated: 2026-11-09](https://img.shields.io/badge/last--updated-2026--11--09-brightgreen.svg)
+![Projects: 329](https://img.shields.io/badge/projects-329-orange.svg)
 
 <!-- catalog-summary:start -->
-**326 projects**: 296 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**329 projects**: 299 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -185,6 +185,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - Claude Code-style TUI companion plugin featured by DSH official: whale bar, live status, streaming thoughts, double-Esc rollback; one-click npm install (⭐6267) 🛡️QC:33 🟠 · `Plugin`
 - [ccch1mneyyy/working-activity](https://github.com/ccch1mneyyy/working-activity) - Lively working-line (statusline) extension for pi CLI and DSH (⭐653) 🛡️QC:28 🔴 · `Plugin`
 - [dsh-tui/dsh-tui](https://github.com/dsh-tui/dsh-tui) - Claude Code-style terminal UI for DeepSeek Harness agents, installed as an out-of-tree dsh plugin bundle (built on pi-tui) (⭐31) · `Plugin`
+- [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) - Track when tasks are created and completed with table, kanban, Gantt and calendar views, plus an agent tool for managing tasks (⭐2) · `Plugin`
 - [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel) - DSH Web UI plugin: manage skills and MCP servers from the web interface (⭐117) · `Mixed`
 - [francis-xavier-code/dsh-balance-plugin](https://github.com/francis-xavier-code/dsh-balance-plugin) - Balance monitoring and usage statistics (⭐56) 🛡️QC:61 🟡 · `Plugin`
 - [GraySilver/dsh-evolve-modes](https://github.com/GraySilver/dsh-evolve-modes) - Composable, reviewable, continuously improving agent workflows: composable task controls with isolated, human-reviewed self-evolution (⭐189) · `Plugin`
@@ -306,6 +307,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 
 ## 💬 Sessions & messages
 
+- [379385796-sys/dsh-ai-exporter](https://github.com/379385796-sys/dsh-ai-exporter) - Export selected turns from current or past sessions as TXT, Markdown or searchable PDF on Windows DSH Desktop. PDF requires local Edge or Chrome (⭐0) · `Plugin`
 - [anionex/dsh-turn-rewind](https://github.com/anionex/dsh-turn-rewind) - Rewind conversation and code state, replay historical turns (⭐113) 🛡️QC:74 🟢 · `Plugin`
 - [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) - Chimes for pending decisions and completed tasks, with system notifications, repeat reminders, quiet hours and volume controls (⭐33) · `Plugin`
 - [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) - Cross-instance message/event handoff plugins for DSH: interconnect service and tools linking multiple DSH instances (⭐35) · `Plugin`
@@ -392,6 +394,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [quqxui/dsh-memgas](https://github.com/quqxui/dsh-memgas) - Long-term memory plugin: four-channel retrieval fusion plus a memory-evolution loop, with construction and retrieval methods from the ICLR 2026 MemGAS paper (⭐23) · `Plugin`
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) - Local Git-backed long-term memory: memories stored in a local Git repo, double-confirmation clear in settings, optional idle-session synchronizer and path-safety guards (⭐184) · `Plugin`
 - [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public) - Structural codebase memory: bi-temporal knowledge graph, MCP-native, zero LLM calls, millisecond queries (⭐454) 🛡️QC:25 🔴 · `MCP`
+- [Tranquillitatis-Lab/dsh-live-compact](https://github.com/Tranquillitatis-Lab/dsh-live-compact) - Compact selected long tool outputs in place at turn end and keep local backups. Replaces the default compaction component in Web and headless profiles (⭐142) · `Plugin`
 - [Tyan66666/billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - Model-driven context management (Active Context Pruning / ACP) for DSH: the model decides when and what to compress for billion-scale context (⭐75) · `Plugin`
 - [WilliamShi666/dsh-context-compression-selector](https://github.com/WilliamShi666/dsh-context-compression-selector) - Multiple selectable strategies to prune tool results and compress context (⭐23) · `Plugin`
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (Claude Code, Codex, DSH, ...), backed by Markdown and Milvus (⭐2503) · `Tool`
@@ -504,7 +507,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 296 main-catalog projects, **82 have historical scores (27.7%)** and 214 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 299 main-catalog projects, **82 have historical scores (27.4%)** and 217 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
