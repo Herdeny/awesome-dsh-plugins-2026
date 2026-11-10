@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-09](https://img.shields.io/badge/last--updated-2026--11--09-brightgreen.svg)
-![Projects: 329](https://img.shields.io/badge/projects-329-orange.svg)
+![Last updated: 2026-11-10](https://img.shields.io/badge/last--updated-2026--11--10-brightgreen.svg)
+![Projects: 332](https://img.shields.io/badge/projects-332-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **329 个项目**：主目录 299 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **332 个项目**：主目录 302 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -187,6 +187,7 @@
 - [dsh-tui/dsh-tui](https://github.com/dsh-tui/dsh-tui) - 基于 pi-tui 构建的 Claude Code 风格 DSH 终端 UI，out-of-tree 插件包 (⭐31) · `插件`
 - [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) - 记录待办的创建与完成时间，在表格、看板、甘特图和日历中查看，并提供智能体待办工具 (⭐2) · `插件`
 - [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel) - DSH Web UI 插件：Web 界面的 Skill 与 MCP 管理工具 (⭐117) · `复合项目`
+- [fotlim/dsh-plugin-offline-reasoning-translator](https://github.com/fotlim/dsh-plugin-offline-reasoning-translator) - 在 DSH Web 界面把英文思考内容翻译成中文，首次需下载本地 ONNX 模型，支持术语表 (⭐0) · `插件`
 - [francis-xavier-code/dsh-balance-plugin](https://github.com/francis-xavier-code/dsh-balance-plugin) - 提供余额监控与用量统计能力 (⭐56) 🛡️QC:61 🟡 · `插件`
 - [GraySilver/dsh-evolve-modes](https://github.com/GraySilver/dsh-evolve-modes) - 让 Agent 的工作方式可组合、可审查、可持续改进：可组合任务控制 + 隔离的人工审查自进化 (⭐189) · `插件`
 - [hsiangnianian/dsh-auto-continue](https://github.com/hsiangnianian/dsh-auto-continue) - 自动发送“继续”，恢复被中断的请求 (⭐69) 🛡️QC:72 🟢 · `插件`
@@ -204,6 +205,7 @@
 - [magian1127/deepseek-harness-zh_pro](https://github.com/magian1127/deepseek-harness-zh_pro) - DSH 综合性中文增强插件：界面补全中文化、思考过程显示、会话归档/删除/多选管理、服务监控与模型请求中文化 (⭐26) · `插件`
 - [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) - 为 DSH Web 提供 Codex 风格侧栏、工作区会话树、全局搜索与轮次导航 (⭐58) · `插件`
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - 通过 visualize 工具把模型生成的 HTML 片段显示为对话内沙箱交互卡片，支持图表、模拟器、页面模式和局部更新 (⭐336) · `插件`
+- [nico-zhuang/dsh-nav-fold](https://github.com/nico-zhuang/dsh-nav-fold) - 折叠并排序全局侧栏图标，可开启工作区、活动、收藏三栏与键盘会话导航；上游核验 DSH 0.2.1-rc.5 和 0.2.2-rc.1 (⭐9) · `插件`
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - 开放的侧边栏底座：支持三方扩展注册新侧边栏页面，内置文件渲染编辑/终端/Git/子代理页面 (⭐4747) 🛡️QC:51 🟡 · `插件`
 - [pengyue-polaron/deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) - 任务专属 React 应用生成插件：Agent 为当前任务创建聚焦界面，并把用户选择/输入的状态带入下一轮对话 (⭐106) · `插件`
 - [plolpl789/dsh-raw-html](https://github.com/plolpl789/dsh-raw-html) - VCP 视觉联觉协议插件：在 DSH 中渲染 Agent 的 HTML 输出 (⭐59) · `插件`
@@ -334,6 +336,7 @@
 - [Minglink/dsh-infinite-gen-2](https://github.com/Minglink/dsh-infinite-gen-2) - DeepSeek 专用「无限二代」插件：稳定化破甲提示词 (⭐1062) · `插件`
 - [Minglink/dsh-infinite-gen-3](https://github.com/Minglink/dsh-infinite-gen-3) - DeepSeek 专用「无限三代」破甲插件：稳定化破甲提示词 (⭐1062) · `插件`
 - [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) - 桌面宠物插件：透明动画、多宠物与自定义素材包，支持 DSH 会话状态联动和独立桌面窗口 (⭐4969) · `插件`
+- [stallenlu/dsh-game-center](https://github.com/stallenlu/dsh-game-center) - 在 DSH Web 侧栏打开小游戏库，在同一面板玩俄罗斯方块和警察抓小偷 (⭐1) · `插件`
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) - 创建 AI 角色、进入故事世界：聊天、冒险、穿书，支持 DeepSeek Harness 插件 (⭐590) 🛡️QC:38 🟠 · `插件`
 - [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme) - 表情包插件：输入框选图、按情绪与关键词搜图、AI 学图和多图库管理，可通过 dsh-im 发送原生图片 (⭐455) · `插件`
 
@@ -507,7 +510,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 299 个项目中，**82 个有历史评分记录（27.4%）**，217 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 302 个项目中，**82 个有历史评分记录（27.2%）**，220 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-09](https://img.shields.io/badge/last--updated-2026--11--09-brightgreen.svg)
-![Projects: 329](https://img.shields.io/badge/projects-329-orange.svg)
+![Last updated: 2026-11-10](https://img.shields.io/badge/last--updated-2026--11--10-brightgreen.svg)
+![Projects: 332](https://img.shields.io/badge/projects-332-orange.svg)
 
 <!-- catalog-summary:start -->
-**329 projects**: 299 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**332 projects**: 302 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -187,6 +187,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [dsh-tui/dsh-tui](https://github.com/dsh-tui/dsh-tui) - Claude Code-style terminal UI for DeepSeek Harness agents, installed as an out-of-tree dsh plugin bundle (built on pi-tui) (⭐31) · `Plugin`
 - [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) - Track when tasks are created and completed with table, kanban, Gantt and calendar views, plus an agent tool for managing tasks (⭐2) · `Plugin`
 - [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel) - DSH Web UI plugin: manage skills and MCP servers from the web interface (⭐117) · `Mixed`
+- [fotlim/dsh-plugin-offline-reasoning-translator](https://github.com/fotlim/dsh-plugin-offline-reasoning-translator) - Translate English reasoning into Chinese in the DSH Web UI. Requires a one-time local ONNX model download and supports a glossary (⭐0) · `Plugin`
 - [francis-xavier-code/dsh-balance-plugin](https://github.com/francis-xavier-code/dsh-balance-plugin) - Balance monitoring and usage statistics (⭐56) 🛡️QC:61 🟡 · `Plugin`
 - [GraySilver/dsh-evolve-modes](https://github.com/GraySilver/dsh-evolve-modes) - Composable, reviewable, continuously improving agent workflows: composable task controls with isolated, human-reviewed self-evolution (⭐189) · `Plugin`
 - [hsiangnianian/dsh-auto-continue](https://github.com/hsiangnianian/dsh-auto-continue) - Auto-sends "continue" to resume interrupted requests (⭐69) 🛡️QC:72 🟢 · `Plugin`
@@ -204,6 +205,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [magian1127/deepseek-harness-zh_pro](https://github.com/magian1127/deepseek-harness-zh_pro) - Comprehensive Chinese enhancement plugin for DSH: UI Chinese completion, thinking display, session archive/delete/multi-select, service monitoring and localized model requests (⭐26) · `Plugin`
 - [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) - Codex-style sidebar, workspace session tree, global search and turn navigation for DSH Web (⭐58) · `Plugin`
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - Render model-generated HTML fragments as sandboxed interactive conversation cards through the visualize tool, with charts, simulations, page mode and targeted updates (⭐336) · `Plugin`
+- [nico-zhuang/dsh-nav-fold](https://github.com/nico-zhuang/dsh-nav-fold) - Collapse and reorder sidebar icons, with optional Workspace, Activity and Favorites views and keyboard session navigation. Upstream verified DSH 0.2.1-rc.5 and 0.2.2-rc.1 (⭐9) · `Plugin`
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - Open sidebar foundation with third-party page registration; built-in file render/edit, terminal, Git and sub-agent pages (⭐4747) 🛡️QC:51 🟡 · `Plugin`
 - [pengyue-polaron/deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) - Task-specific React apps for DeepSeek Harness: the agent builds a focused interface for the current task and carries user state into the next turn (⭐106) · `Plugin`
 - [plolpl789/dsh-raw-html](https://github.com/plolpl789/dsh-raw-html) - VCP (visual-synesthesia protocol) plugin for DeepSeek Harness: renders agent HTML output (⭐59) · `Plugin`
@@ -334,6 +336,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [Minglink/dsh-infinite-gen-2](https://github.com/Minglink/dsh-infinite-gen-2) - "Infinite Gen 2" armor-breaking plugin for DeepSeek: stabilized jailbreak prompting (⭐1062) · `Plugin`
 - [Minglink/dsh-infinite-gen-3](https://github.com/Minglink/dsh-infinite-gen-3) - "Infinite Gen 3" armor-breaking plugin for DeepSeek: stabilized jailbreak prompting (⭐1062) · `Plugin`
 - [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) - Animated desktop pets with multiple characters, custom pet packs and DSH session-state integration; supports browser overlays and standalone desktop windows (⭐4969) · `Plugin`
+- [stallenlu/dsh-game-center](https://github.com/stallenlu/dsh-game-center) - Open a game library from the DSH Web sidebar and play Tetris or Cops & Robbers in the same panel (⭐1) · `Plugin`
 - [yejiming/MuseAI](https://github.com/yejiming/MuseAI) - Create AI characters and step into story worlds — chat, adventure, transmigrate; supports DeepSeek Harness plugins (⭐590) 🛡️QC:38 🟠 · `Plugin`
 - [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme) - Meme plugin with a composer picker, emotion and keyword search, AI-assisted image cataloging and multiple packs; native image delivery through dsh-im (⭐455) · `Plugin`
 
@@ -507,7 +510,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 299 main-catalog projects, **82 have historical scores (27.4%)** and 217 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 302 main-catalog projects, **82 have historical scores (27.2%)** and 220 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
