@@ -1,5 +1,26 @@
 [
   {
+    "repo": "fotlim/dsh-plugin-offline-reasoning-translator",
+    "added_on": "2026-11-10",
+    "commit": "fc3b1e4ca6bca67310a799ea6737978c62ff9f87",
+    "zh": "本地模型翻译英文思考内容",
+    "en": "Local English-to-Chinese reasoning translation"
+  },
+  {
+    "repo": "nico-zhuang/dsh-nav-fold",
+    "added_on": "2026-11-10",
+    "commit": "fc3b1e4ca6bca67310a799ea6737978c62ff9f87",
+    "zh": "侧栏折叠与会话键盘导航",
+    "en": "Sidebar folding and keyboard session navigation"
+  },
+  {
+    "repo": "stallenlu/dsh-game-center",
+    "added_on": "2026-11-10",
+    "commit": "fc3b1e4ca6bca67310a799ea6737978c62ff9f87",
+    "zh": "DSH 侧栏内置小游戏库",
+    "en": "Mini-game library in the DSH sidebar"
+  },
+  {
     "repo": "Tranquillitatis-Lab/dsh-live-compact",
     "added_on": "2026-11-09",
     "commit": "696d7294f0d3b515a3019d477d9ac7f5706dc46d",

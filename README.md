@@ -37,12 +37,12 @@
 <!-- recent-additions:start -->
 | 收录日期 | 项目 | 用途 |
 | --- | --- | --- |
+| [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [fotlim/dsh-plugin-offline-reasoning-translator](https://github.com/fotlim/dsh-plugin-offline-reasoning-translator) | 本地模型翻译英文思考内容 |
+| [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [nico-zhuang/dsh-nav-fold](https://github.com/nico-zhuang/dsh-nav-fold) | 侧栏折叠与会话键盘导航 |
+| [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [stallenlu/dsh-game-center](https://github.com/stallenlu/dsh-game-center) | DSH 侧栏内置小游戏库 |
 | [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [Tranquillitatis-Lab/dsh-live-compact](https://github.com/Tranquillitatis-Lab/dsh-live-compact) | 轮后压缩长工具输出并保存原文 |
 | [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) | 带四种视图的待办时间日志 |
 | [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [379385796-sys/dsh-ai-exporter](https://github.com/379385796-sys/dsh-ai-exporter) | Windows 桌面端会话导出 |
-| [2026-11-08](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/c5577d7cbd703d0e2e775007c9585ab550b114c8) | [stallenlu/dsh-sticky-notes](https://github.com/stallenlu/dsh-sticky-notes) | 带 Markdown 和图片的本地便签 |
-| [2026-11-08](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/c5577d7cbd703d0e2e775007c9585ab550b114c8) | [chenqianyu486-sys/dsh-zju-lecture-note](https://github.com/chenqianyu486-sys/dsh-zju-lecture-note) | 智云课堂字幕整理与 PDF 讲义 |
-| [2026-11-07](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/69010ee4b186b424c5a266637e4294eb06cf2d0b) | [439436269-ctrl/dsh-preview-stl](https://github.com/439436269-ctrl/dsh-preview-stl) | 侧栏 STL 网格预览与几何分析 |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>
