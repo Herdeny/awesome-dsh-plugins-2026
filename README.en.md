@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-10](https://img.shields.io/badge/last--updated-2026--11--10-brightgreen.svg)
-![Projects: 332](https://img.shields.io/badge/projects-332-orange.svg)
+![Last updated: 2026-11-11](https://img.shields.io/badge/last--updated-2026--11--11-brightgreen.svg)
+![Projects: 333](https://img.shields.io/badge/projects-333-orange.svg)
 
 <!-- catalog-summary:start -->
-**332 projects**: 302 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**333 projects**: 303 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -400,6 +400,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [Tranquillitatis-Lab/dsh-live-compact](https://github.com/Tranquillitatis-Lab/dsh-live-compact) - Compact selected long tool outputs in place at turn end and keep local backups. Replaces the default compaction component in Web and headless profiles (⭐142) · `Plugin`
 - [Tyan66666/billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - Model-driven context management (Active Context Pruning / ACP) for DSH: the model decides when and what to compress for billion-scale context (⭐75) · `Plugin`
 - [WilliamShi666/dsh-context-compression-selector](https://github.com/WilliamShi666/dsh-context-compression-selector) - Multiple selectable strategies to prune tool results and compress context (⭐23) · `Plugin`
+- [xyzOvO/dsh-wiki-notes](https://github.com/xyzOvO/dsh-wiki-notes) - Search local Markdown notes and return matching sections with citations. Requires a configured notes folder, with an external Python bridge for the extended evidence tools (⭐1) · `Plugin`
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (Claude Code, Codex, DSH, ...), backed by Markdown and Milvus (⭐2503) · `Tool`
 - [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) - Noema long-term memory: durable, inspectable agent memory with recall tools and a settings page (⭐126) 🛡️QC:64 🟡 · `Plugin`
 
@@ -510,7 +511,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 302 main-catalog projects, **82 have historical scores (27.2%)** and 220 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 303 main-catalog projects, **82 have historical scores (27.1%)** and 221 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

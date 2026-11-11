@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-10](https://img.shields.io/badge/last--updated-2026--11--10-brightgreen.svg)
-![Projects: 332](https://img.shields.io/badge/projects-332-orange.svg)
+![Last updated: 2026-11-11](https://img.shields.io/badge/last--updated-2026--11--11-brightgreen.svg)
+![Projects: 333](https://img.shields.io/badge/projects-333-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **332 个项目**：主目录 302 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **333 个项目**：主目录 303 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -400,6 +400,7 @@
 - [Tranquillitatis-Lab/dsh-live-compact](https://github.com/Tranquillitatis-Lab/dsh-live-compact) - 在轮次结束时就地压缩选中的长工具输出，并保留本地原文备份。适用于 Web 和 headless，替换默认压缩组件 (⭐142) · `插件`
 - [Tyan66666/billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - 模型驱动的上下文管理（Active Context Pruning / ACP）：由模型决定何时压缩什么，为 DSH 撑起超大上下文 (⭐75) · `插件`
 - [WilliamShi666/dsh-context-compression-selector](https://github.com/WilliamShi666/dsh-context-compression-selector) - 可切换的多种工具结果剪枝与上下文压缩策略 (⭐23) · `插件`
+- [xyzOvO/dsh-wiki-notes](https://github.com/xyzOvO/dsh-wiki-notes) - 检索本地 Markdown 笔记并返回命中小节与出处，需配置笔记目录；扩展的证据核验工具需外部 Python 网关 (⭐1) · `插件`
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - 面向所有 AI Agent（Claude Code / Codex / DSH 等）的持久统一记忆层，基于 Markdown 与 Milvus (⭐2503) · `工具`
 - [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) - Noema 长期记忆插件：持久、可检视的 Agent 记忆，带召回工具与设置页 (⭐126) 🛡️QC:64 🟡 · `插件`
 
@@ -510,7 +511,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 302 个项目中，**82 个有历史评分记录（27.2%）**，220 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 303 个项目中，**82 个有历史评分记录（27.1%）**，221 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
