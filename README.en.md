@@ -37,12 +37,12 @@ The latest six additions. Dates link to catalog inclusion commits; this order is
 <!-- recent-additions:start -->
 | Added | Project | Purpose |
 | --- | --- | --- |
+| [2026-11-11](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/0465287a0351ea02ba29109db617f872864a4ac9) | [xyzOvO/dsh-wiki-notes](https://github.com/xyzOvO/dsh-wiki-notes) | Local Markdown retrieval with section citations |
 | [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [fotlim/dsh-plugin-offline-reasoning-translator](https://github.com/fotlim/dsh-plugin-offline-reasoning-translator) | Local English-to-Chinese reasoning translation |
 | [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [nico-zhuang/dsh-nav-fold](https://github.com/nico-zhuang/dsh-nav-fold) | Sidebar folding and keyboard session navigation |
 | [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [stallenlu/dsh-game-center](https://github.com/stallenlu/dsh-game-center) | Mini-game library in the DSH sidebar |
 | [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [Tranquillitatis-Lab/dsh-live-compact](https://github.com/Tranquillitatis-Lab/dsh-live-compact) | Turn-end compaction with local backups |
 | [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) | Todo timing with four views |
-| [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [379385796-sys/dsh-ai-exporter](https://github.com/379385796-sys/dsh-ai-exporter) | Conversation export for Windows Desktop |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>

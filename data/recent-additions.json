@@ -1,5 +1,12 @@
 [
   {
+    "repo": "xyzOvO/dsh-wiki-notes",
+    "added_on": "2026-11-11",
+    "commit": "0465287a0351ea02ba29109db617f872864a4ac9",
+    "zh": "带小节出处的本地 Markdown 检索",
+    "en": "Local Markdown retrieval with section citations"
+  },
+  {
     "repo": "fotlim/dsh-plugin-offline-reasoning-translator",
     "added_on": "2026-11-10",
     "commit": "fc3b1e4ca6bca67310a799ea6737978c62ff9f87",

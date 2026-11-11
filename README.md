@@ -37,12 +37,12 @@
 <!-- recent-additions:start -->
 | 收录日期 | 项目 | 用途 |
 | --- | --- | --- |
+| [2026-11-11](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/0465287a0351ea02ba29109db617f872864a4ac9) | [xyzOvO/dsh-wiki-notes](https://github.com/xyzOvO/dsh-wiki-notes) | 带小节出处的本地 Markdown 检索 |
 | [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [fotlim/dsh-plugin-offline-reasoning-translator](https://github.com/fotlim/dsh-plugin-offline-reasoning-translator) | 本地模型翻译英文思考内容 |
 | [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [nico-zhuang/dsh-nav-fold](https://github.com/nico-zhuang/dsh-nav-fold) | 侧栏折叠与会话键盘导航 |
 | [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [stallenlu/dsh-game-center](https://github.com/stallenlu/dsh-game-center) | DSH 侧栏内置小游戏库 |
 | [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [Tranquillitatis-Lab/dsh-live-compact](https://github.com/Tranquillitatis-Lab/dsh-live-compact) | 轮后压缩长工具输出并保存原文 |
 | [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) | 带四种视图的待办时间日志 |
-| [2026-11-09](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/696d7294f0d3b515a3019d477d9ac7f5706dc46d) | [379385796-sys/dsh-ai-exporter](https://github.com/379385796-sys/dsh-ai-exporter) | Windows 桌面端会话导出 |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>
