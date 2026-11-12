@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-11](https://img.shields.io/badge/last--updated-2026--11--11-brightgreen.svg)
-![Projects: 333](https://img.shields.io/badge/projects-333-orange.svg)
+![Last updated: 2026-11-12](https://img.shields.io/badge/last--updated-2026--11--12-brightgreen.svg)
+![Projects: 335](https://img.shields.io/badge/projects-335-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **333 个项目**：主目录 303 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **335 个项目**：主目录 305 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -204,6 +204,7 @@
 - [LX2000WASD/dsh-web-plugin-manager](https://github.com/LX2000WASD/dsh-web-plugin-manager) - Web UI 一键插件管理：查看、实时启停、安装/卸载、更新检测与依赖/冲突/兼容性健康检查，bundle 与非 bundle 全覆盖 (⭐67) · `插件`
 - [magian1127/deepseek-harness-zh_pro](https://github.com/magian1127/deepseek-harness-zh_pro) - DSH 综合性中文增强插件：界面补全中文化、思考过程显示、会话归档/删除/多选管理、服务监控与模型请求中文化 (⭐26) · `插件`
 - [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) - 为 DSH Web 提供 Codex 风格侧栏、工作区会话树、全局搜索与轮次导航 (⭐58) · `插件`
+- [Moh114514/dsh-image-context-menu](https://github.com/Moh114514/dsh-image-context-menu) - 为 Codex 生成的图像添加打开、复制、插入输入框和下载原图等右键操作，依赖兼容版本的 dsh-codex-subscription 和 ChatGPT Plus 或 Pro (⭐0) · `插件`
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - 通过 visualize 工具把模型生成的 HTML 片段显示为对话内沙箱交互卡片，支持图表、模拟器、页面模式和局部更新 (⭐336) · `插件`
 - [nico-zhuang/dsh-nav-fold](https://github.com/nico-zhuang/dsh-nav-fold) - 折叠并排序全局侧栏图标，可开启工作区、活动、收藏三栏与键盘会话导航；上游核验 DSH 0.2.1-rc.5 和 0.2.2-rc.1 (⭐9) · `插件`
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - 开放的侧边栏底座：支持三方扩展注册新侧边栏页面，内置文件渲染编辑/终端/Git/子代理页面 (⭐4747) 🛡️QC:51 🟡 · `插件`
@@ -230,6 +231,7 @@
 - [147228/dsh-xiaoyao-skins](https://github.com/147228/dsh-xiaoyao-skins) - 夕小瑶 × DSH Web 皮肤合集、安装器与社区创作工具链 (⭐24) 🛡️QC:33 🟠 · `主题`
 - [chouxiaohuai/dsh-uiskin-theme](https://github.com/chouxiaohuai/dsh-uiskin-theme) - 海洋幻想「蓝玻璃」主题：海洋背景、玻璃气泡、海洋侧边栏、鲸鱼设置按钮与炫彩模型文字，静态 profile 一键安装 (⭐23) · `主题`
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) - WebGPU 海洋皮肤：DSH 专属 Chrome/Edge 扩展、静态安装器与原生集成 (⭐385) 🛡️QC:58 🟡 · `复合项目`
+- [DaSea/dsh-card-theme](https://github.com/DaSea/dsh-card-theme) - 为 DSH Web 提供 Nord、Solarized、One Dark 三套配色，可调整明暗模式、卡片布局、壁纸和对话内容宽度 (⭐0) · `主题`
 - [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine) - 把本机 Wallpaper Engine 壁纸变成 DSH 网页界面背景：Video 动态播放、Web 以 iframe 加载、Scene 壁纸静态帧 (⭐4016) · `主题`
 - [Ewnscat-ya/dsh-client-ui-skin-denia](https://github.com/Ewnscat-ya/dsh-client-ui-skin-denia) - 鸣潮·达妮娅 (Denia) DSH Web GUI 皮肤「虚无之泡」：双形态亮/暗、侧边立绘、玻璃卡片与浮动泡泡粒子 (⭐32) · `主题`
 - [FeatherHunter/dsh-opencode-palette](https://github.com/FeatherHunter/dsh-opencode-palette) - 为长时间编程准备的 38 款 opencode 护眼配色，一键换上 DSH (⭐23) · `主题`
@@ -511,7 +513,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 303 个项目中，**82 个有历史评分记录（27.1%）**，221 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 305 个项目中，**82 个有历史评分记录（26.9%）**，223 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
