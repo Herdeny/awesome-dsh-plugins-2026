@@ -1,5 +1,19 @@
 [
   {
+    "repo": "DaSea/dsh-card-theme",
+    "added_on": "2026-11-12",
+    "commit": "f45c02c480991f7a9db503781d2550bd4b41dea6",
+    "zh": "三套配色与可选卡片布局",
+    "en": "Three palettes and an optional card layout"
+  },
+  {
+    "repo": "Moh114514/dsh-image-context-menu",
+    "added_on": "2026-11-12",
+    "commit": "f45c02c480991f7a9db503781d2550bd4b41dea6",
+    "zh": "Codex 生成图像的原图菜单",
+    "en": "Original-image menu for Codex outputs"
+  },
+  {
     "repo": "xyzOvO/dsh-wiki-notes",
     "added_on": "2026-11-11",
     "commit": "0465287a0351ea02ba29109db617f872864a4ac9",
