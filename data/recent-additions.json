@@ -1,5 +1,12 @@
 [
   {
+    "repo": "dsh-plugin-collection/dsh-group-status",
+    "added_on": "2026-11-13",
+    "commit": "3487f5d94f8cc217276b46bf1b334634572171bc",
+    "zh": "折叠分组的会话状态徽标",
+    "en": "Session status badges for collapsed groups"
+  },
+  {
     "repo": "DaSea/dsh-card-theme",
     "added_on": "2026-11-12",
     "commit": "f45c02c480991f7a9db503781d2550bd4b41dea6",

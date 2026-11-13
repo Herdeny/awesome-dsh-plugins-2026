@@ -37,12 +37,12 @@
 <!-- recent-additions:start -->
 | 收录日期 | 项目 | 用途 |
 | --- | --- | --- |
+| [2026-11-13](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/3487f5d94f8cc217276b46bf1b334634572171bc) | [dsh-plugin-collection/dsh-group-status](https://github.com/dsh-plugin-collection/dsh-group-status) | 折叠分组的会话状态徽标 |
 | [2026-11-12](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/f45c02c480991f7a9db503781d2550bd4b41dea6) | [DaSea/dsh-card-theme](https://github.com/DaSea/dsh-card-theme) | 三套配色与可选卡片布局 |
 | [2026-11-12](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/f45c02c480991f7a9db503781d2550bd4b41dea6) | [Moh114514/dsh-image-context-menu](https://github.com/Moh114514/dsh-image-context-menu) | Codex 生成图像的原图菜单 |
 | [2026-11-11](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/0465287a0351ea02ba29109db617f872864a4ac9) | [xyzOvO/dsh-wiki-notes](https://github.com/xyzOvO/dsh-wiki-notes) | 带小节出处的本地 Markdown 检索 |
 | [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [fotlim/dsh-plugin-offline-reasoning-translator](https://github.com/fotlim/dsh-plugin-offline-reasoning-translator) | 本地模型翻译英文思考内容 |
 | [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [nico-zhuang/dsh-nav-fold](https://github.com/nico-zhuang/dsh-nav-fold) | 侧栏折叠与会话键盘导航 |
-| [2026-11-10](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/fc3b1e4ca6bca67310a799ea6737978c62ff9f87) | [stallenlu/dsh-game-center](https://github.com/stallenlu/dsh-game-center) | DSH 侧栏内置小游戏库 |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>
