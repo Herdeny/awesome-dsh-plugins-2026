@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-12](https://img.shields.io/badge/last--updated-2026--11--12-brightgreen.svg)
-![Projects: 335](https://img.shields.io/badge/projects-335-orange.svg)
+![Last updated: 2026-11-13](https://img.shields.io/badge/last--updated-2026--11--13-brightgreen.svg)
+![Projects: 336](https://img.shields.io/badge/projects-336-orange.svg)
 
 <!-- catalog-summary:start -->
-**335 projects**: 305 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**336 projects**: 306 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -139,7 +139,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [tong-io/tongflow](https://github.com/tong-io/tongflow) - Multimodal workflow studio & engine (canvas + Python plugin engine) with the dsh-tongflow studio plugin (⭐1005) 🛡️QC:30 🟠 · `Mixed`
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) - Two-phase DSH preset: minimal-aligned bootstrap then full-standard alignment (⭐3731) 🛡️QC:31 🟠 · `Preset`
 - [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource) - Local Tushare financial data source with HTTP, MCP and DSH skill interfaces and multichannel alerts (⭐184) · `Mixed`
-- [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) - Manage plugin versions, batch upgrades and version switches, with progress, cancellation, compatibility hints and registry settings (DSH 0.2.1-rc.3 through 0.2.x) (⭐3) · `Plugin`
+- [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) - Manage plugin versions, batch upgrades and version switches with progress, cancellation and registry settings. Flags build scripts awaiting user approval. Upstream verified DSH 0.2.1-rc.5 (⭐3) · `Plugin`
 - [Zvyan/PromptForge](https://github.com/Zvyan/PromptForge) - Multi-platform prompt-engineering framework: 56 structured templates across 9 domains, 118 presets and native DSH / Cursor / Claude / OpenAI adapters, with a FastAPI Web UI and Typer CLI (⭐26) · `Skill`
 
 <a id="design-creative"></a>
@@ -184,6 +184,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [buhuikongpan/dsh-pluginmanager](https://github.com/buhuikongpan/dsh-pluginmanager) - Layered plugin manager for DSH (⭐9) 🛡️QC:61 🟡 · `Plugin`
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - Claude Code-style TUI companion plugin featured by DSH official: whale bar, live status, streaming thoughts, double-Esc rollback; one-click npm install (⭐6267) 🛡️QC:33 🟠 · `Plugin`
 - [ccch1mneyyy/working-activity](https://github.com/ccch1mneyyy/working-activity) - Lively working-line (statusline) extension for pi CLI and DSH (⭐653) 🛡️QC:28 🔴 · `Plugin`
+- [dsh-plugin-collection/dsh-group-status](https://github.com/dsh-plugin-collection/dsh-group-status) - Show counts and hover details for pending approval, running and completed sessions in collapsed groups by replacing the workspace sidebar component in the Web profile (⭐1) · `Plugin`
 - [dsh-tui/dsh-tui](https://github.com/dsh-tui/dsh-tui) - Claude Code-style terminal UI for DeepSeek Harness agents, installed as an out-of-tree dsh plugin bundle (built on pi-tui) (⭐31) · `Plugin`
 - [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) - Track when tasks are created and completed with table, kanban, Gantt and calendar views, plus an agent tool for managing tasks (⭐2) · `Plugin`
 - [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel) - DSH Web UI plugin: manage skills and MCP servers from the web interface (⭐117) · `Mixed`
@@ -513,7 +514,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 305 main-catalog projects, **82 have historical scores (26.9%)** and 223 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 306 main-catalog projects, **82 have historical scores (26.8%)** and 224 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-12](https://img.shields.io/badge/last--updated-2026--11--12-brightgreen.svg)
-![Projects: 335](https://img.shields.io/badge/projects-335-orange.svg)
+![Last updated: 2026-11-13](https://img.shields.io/badge/last--updated-2026--11--13-brightgreen.svg)
+![Projects: 336](https://img.shields.io/badge/projects-336-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **335 个项目**：主目录 305 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **336 个项目**：主目录 306 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -139,7 +139,7 @@
 - [tong-io/tongflow](https://github.com/tong-io/tongflow) - 多模态工作流工作室与引擎（画布 + Python 插件引擎），含 dsh-tongflow 工作室插件 (⭐1005) 🛡️QC:30 🟠 · `复合项目`
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) - 两阶段 DSH 预设：先进行最小对齐引导，再完成标准化对齐 (⭐3731) 🛡️QC:31 🟠 · `预设`
 - [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource) - 基于 Tushare 的本地财经数据源，提供 HTTP、MCP 与 DSH Skill 接口及多渠道提醒 (⭐184) · `复合项目`
-- [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) - 在插件页管理版本、批量升级或切换版本，提供安装进度、取消、兼容性提示与安装源设置（DSH 0.2.1-rc.3 至 0.2.x） (⭐3) · `插件`
+- [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) - 在插件页管理版本、批量升级或切换版本，提供进度、取消和安装源设置，并标出待用户批准的构建脚本（上游验证 DSH 0.2.1-rc.5） (⭐3) · `插件`
 - [Zvyan/PromptForge](https://github.com/Zvyan/PromptForge) - 多平台提示词工程框架：9 大领域 56 个结构化模板、118 个预设，原生适配 DSH / Cursor / Claude / OpenAI，附 FastAPI Web UI 与 Typer CLI (⭐26) · `Skill`
 
 <a id="design-creative"></a>
@@ -184,6 +184,7 @@
 - [buhuikongpan/dsh-pluginmanager](https://github.com/buhuikongpan/dsh-pluginmanager) - 面向 DSH 的分层插件管理器 (⭐9) 🛡️QC:61 🟡 · `插件`
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - 官方公众号收录的 Claude Code 风 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚，npm 一键安装 (⭐6267) 🛡️QC:33 🟠 · `插件`
 - [ccch1mneyyy/working-activity](https://github.com/ccch1mneyyy/working-activity) - 为 pi CLI 与 DSH 打造的生动工作行（statusline）扩展 (⭐653) 🛡️QC:28 🔴 · `插件`
+- [dsh-plugin-collection/dsh-group-status](https://github.com/dsh-plugin-collection/dsh-group-status) - 为折叠的侧栏分组显示待审批、运行中和已完成会话的计数及悬停明细，通过替换 Web profile 的工作区侧栏组件实现 (⭐1) · `插件`
 - [dsh-tui/dsh-tui](https://github.com/dsh-tui/dsh-tui) - 基于 pi-tui 构建的 Claude Code 风格 DSH 终端 UI，out-of-tree 插件包 (⭐31) · `插件`
 - [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) - 记录待办的创建与完成时间，在表格、看板、甘特图和日历中查看，并提供智能体待办工具 (⭐2) · `插件`
 - [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel) - DSH Web UI 插件：Web 界面的 Skill 与 MCP 管理工具 (⭐117) · `复合项目`
@@ -513,7 +514,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 305 个项目中，**82 个有历史评分记录（26.9%）**，223 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 306 个项目中，**82 个有历史评分记录（26.8%）**，224 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
