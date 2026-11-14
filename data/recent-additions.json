@@ -1,5 +1,12 @@
 [
   {
+    "repo": "superltmajor-pixel/dsh-minimal-ui",
+    "added_on": "2026-11-14",
+    "commit": "22336e559f1c0fa179bff49fbb83001bf1e335ca",
+    "zh": "面向阅读的布局与会话统计",
+    "en": "Reading-focused layout and session stats"
+  },
+  {
     "repo": "dsh-plugin-collection/dsh-group-status",
     "added_on": "2026-11-13",
     "commit": "3487f5d94f8cc217276b46bf1b334634572171bc",
