@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-13](https://img.shields.io/badge/last--updated-2026--11--13-brightgreen.svg)
-![Projects: 336](https://img.shields.io/badge/projects-336-orange.svg)
+![Last updated: 2026-11-14](https://img.shields.io/badge/last--updated-2026--11--14-brightgreen.svg)
+![Projects: 337](https://img.shields.io/badge/projects-337-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **336 个项目**：主目录 306 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **337 个项目**：主目录 307 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -215,6 +215,7 @@
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - 终末地风格工业 UI 外壳（非官方粉丝主题）：dsh plugin --profile web add 一键安装 (⭐55) · `插件`
 - [sanqi-normal/dsh-webui-market-plugin](https://github.com/sanqi-normal/dsh-webui-market-plugin) - 面向 DSH Web UI 的插件市场入口 (⭐102) 🛡️QC:61 🟡 · `插件`
 - [stallenlu/dsh-sticky-notes](https://github.com/stallenlu/dsh-sticky-notes) - 浏览器本地便签，提供拖动悬浮面板和侧栏页面，支持 Markdown 预览与粘贴图片 (⭐1) · `插件`
+- [superltmajor-pixel/dsh-minimal-ui](https://github.com/superltmajor-pixel/dsh-minimal-ui) - 收紧 DSH Web 的侧栏和对话排版，隐藏闲置控件，并在输入工具栏显示生成速度、缓存命中率和上下文占用 (⭐2) · `插件`
 - [Tasihi89/dsh-talk-map](https://github.com/Tasihi89/dsh-talk-map) - 可视化对话地图：会话以卡片呈现在白板上，拖拽排列、双击聊天、连线分叉注入上下文 (⭐80) · `插件`
 - [TLEWA/dsh-sidebar-organizer](https://github.com/TLEWA/dsh-sidebar-organizer) - 长按拖动排序或收纳七个界面区域的控件，支持导入导出布局及在桌面端和 Web 界面之间同步（DSH ≥ 0.2.1-rc.3） (⭐1) · `插件`
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - 支持双向发送与展示表情贴纸 (⭐23) 🛡️QC:66 🟡 · `插件`
@@ -514,7 +515,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 306 个项目中，**82 个有历史评分记录（26.8%）**，224 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 307 个项目中，**82 个有历史评分记录（26.7%）**，225 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

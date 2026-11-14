@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-13](https://img.shields.io/badge/last--updated-2026--11--13-brightgreen.svg)
-![Projects: 336](https://img.shields.io/badge/projects-336-orange.svg)
+![Last updated: 2026-11-14](https://img.shields.io/badge/last--updated-2026--11--14-brightgreen.svg)
+![Projects: 337](https://img.shields.io/badge/projects-337-orange.svg)
 
 <!-- catalog-summary:start -->
-**336 projects**: 306 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**337 projects**: 307 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -215,6 +215,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - Endfield-inspired industrial UI shell for DSH (unofficial fan theme): install with dsh plugin --profile web add (⭐55) · `Plugin`
 - [sanqi-normal/dsh-webui-market-plugin](https://github.com/sanqi-normal/dsh-webui-market-plugin) - Plugin market entry for DSH Web UI (⭐102) 🛡️QC:61 🟡 · `Plugin`
 - [stallenlu/dsh-sticky-notes](https://github.com/stallenlu/dsh-sticky-notes) - Browser-local sticky notes in a draggable floating panel and a sidebar page, with Markdown preview and image pasting (⭐1) · `Plugin`
+- [superltmajor-pixel/dsh-minimal-ui](https://github.com/superltmajor-pixel/dsh-minimal-ui) - Tighten the DSH Web sidebar and chat layout, hide idle controls, and show generation speed, cache hit rate and context usage in the composer toolbar (⭐2) · `Plugin`
 - [Tasihi89/dsh-talk-map](https://github.com/Tasihi89/dsh-talk-map) - Visual conversation map: sessions as cards on a whiteboard — drag to arrange, double-click to chat, draw an edge to fork with injected context (⭐80) · `Plugin`
 - [TLEWA/dsh-sidebar-organizer](https://github.com/TLEWA/dsh-sidebar-organizer) - Drag to reorder or tuck away controls across seven UI areas, with layout import/export and sync between desktop and Web (DSH ≥ 0.2.1-rc.3) (⭐1) · `Plugin`
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - Bidirectional sticker reactions between user and agent (⭐23) 🛡️QC:66 🟡 · `Plugin`
@@ -514,7 +515,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 306 main-catalog projects, **82 have historical scores (26.8%)** and 224 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 307 main-catalog projects, **82 have historical scores (26.7%)** and 225 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
