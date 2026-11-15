@@ -8,10 +8,10 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-15](https://img.shields.io/badge/last--updated-2026--11--15-brightgreen.svg)
-![Projects: 337](https://img.shields.io/badge/projects-337-orange.svg)
+![Projects: 338](https://img.shields.io/badge/projects-338-orange.svg)
 
 <!-- catalog-summary:start -->
-**337 projects**: 307 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**338 projects**: 308 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -266,6 +266,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [Axiaohungry/dsh-llm-workbuddy](https://github.com/Axiaohungry/dsh-llm-workbuddy) - Use the WorkBuddy API as an LLM provider inside DeepSeek Harness (for when your company only provides WorkBuddy credits) (⭐28) · `Plugin`
 - [BeforeWave/dsh-with-chatgpt](https://github.com/BeforeWave/dsh-with-chatgpt) - Bring ChatGPT's reasoning to your local codebase: work directly, or delegate larger tasks to DSH (⭐47) · `Plugin`
 - [ClapEcho233/dsh-cli-provider](https://github.com/ClapEcho233/dsh-cli-provider) - Plugs your locally logged-in Codex CLI and Claude Code into DSH: reuses subscription sessions with no API key, plus model discovery, reasoning-effort control and tool-call adaptation (⭐42) · `Plugin`
+- [ethan741205/dsh-strata-sync](https://github.com/ethan741205/dsh-strata-sync) - Preview and sync context size, output limits, and compaction budgets for the loaded Strata Server model in DSH Desktop, with a settings backup before applying changes. Requires a configured Strata Server (⭐2) · `Plugin`
 - [feibi-mochi/deepseek-harness-wallet](https://github.com/feibi-mochi/deepseek-harness-wallet) - Balance monitoring, per-session spend and token tracking (⭐65) 🛡️QC:58 🟡 · `Plugin`
 - [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh) - Free OpenCode Zen models inside DeepSeek Harness: free LLM API, no API key required (⭐380) · `Plugin`
 - [franksong2702/dsh-codex-connect](https://github.com/franksong2702/dsh-codex-connect) - ChatGPT OAuth and Codex models for DSH (⭐89) 🛡️QC:68 🟡 · `Plugin`
@@ -515,7 +516,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 307 main-catalog projects, **82 have historical scores (26.7%)** and 225 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 308 main-catalog projects, **82 have historical scores (26.6%)** and 226 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

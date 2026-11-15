@@ -8,10 +8,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-15](https://img.shields.io/badge/last--updated-2026--11--15-brightgreen.svg)
-![Projects: 337](https://img.shields.io/badge/projects-337-orange.svg)
+![Projects: 338](https://img.shields.io/badge/projects-338-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **337 个项目**：主目录 307 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **338 个项目**：主目录 308 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -266,6 +266,7 @@
 - [Axiaohungry/dsh-llm-workbuddy](https://github.com/Axiaohungry/dsh-llm-workbuddy) - 在 DSH 中使用 WorkBuddy API 作为 LLM 提供商（当公司只提供 WorkBuddy 积分时的选择） (⭐28) · `插件`
 - [BeforeWave/dsh-with-chatgpt](https://github.com/BeforeWave/dsh-with-chatgpt) - 把 ChatGPT 的推理能力带到本地代码库：直接工作，或把大型任务委派给 DSH (⭐47) · `插件`
 - [ClapEcho233/dsh-cli-provider](https://github.com/ClapEcho233/dsh-cli-provider) - 把本机已登录的 Codex CLI 与 Claude Code 接入 DSH：复用订阅登录态、无需 API Key，支持模型发现、推理强度设置与工具调用适配 (⭐42) · `插件`
+- [ethan741205/dsh-strata-sync](https://github.com/ethan741205/dsh-strata-sync) - 在 DSH Desktop 中预览并同步 Strata Server 已加载模型的上下文、输出上限和压缩预算，应用前备份设置。需要已配置的 Strata Server (⭐2) · `插件`
 - [feibi-mochi/deepseek-harness-wallet](https://github.com/feibi-mochi/deepseek-harness-wallet) - 余额监控、会话级花费与 Token 追踪 (⭐65) 🛡️QC:58 🟡 · `插件`
 - [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh) - 在 DSH 里直接使用 OpenCode Zen 免费模型：免费 LLM API，无需 API Key (⭐380) · `插件`
 - [franksong2702/dsh-codex-connect](https://github.com/franksong2702/dsh-codex-connect) - ChatGPT OAuth 与 Codex 模型接入 (⭐89) 🛡️QC:68 🟡 · `插件`
@@ -515,7 +516,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 307 个项目中，**82 个有历史评分记录（26.7%）**，225 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 308 个项目中，**82 个有历史评分记录（26.6%）**，226 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
