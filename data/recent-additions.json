@@ -1,5 +1,12 @@
 [
   {
+    "repo": "ethan741205/dsh-strata-sync",
+    "added_on": "2026-11-15",
+    "commit": "0b72e73e93d2bf65114272ea2a53f464ea60d628",
+    "zh": "同步 Strata 模型与压缩预算",
+    "en": "Sync Strata model and compaction budgets"
+  },
+  {
     "repo": "superltmajor-pixel/dsh-minimal-ui",
     "added_on": "2026-11-14",
     "commit": "22336e559f1c0fa179bff49fbb83001bf1e335ca",
