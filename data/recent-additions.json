@@ -1,5 +1,12 @@
 [
   {
+    "repo": "shiyan688/dsh-attune",
+    "added_on": "2026-11-15",
+    "commit": "2ff7b0b15127de438139a71271f3c7b2a227f83c",
+    "zh": "用情境小测试收集协作偏好",
+    "en": "Learn preferences through situational quizzes"
+  },
+  {
     "repo": "ethan741205/dsh-strata-sync",
     "added_on": "2026-11-15",
     "commit": "0b72e73e93d2bf65114272ea2a53f464ea60d628",
