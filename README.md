@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-14](https://img.shields.io/badge/last--updated-2026--11--14-brightgreen.svg)
+![Last updated: 2026-11-15](https://img.shields.io/badge/last--updated-2026--11--15-brightgreen.svg)
 ![Projects: 337](https://img.shields.io/badge/projects-337-orange.svg)
 
 <!-- catalog-summary:start -->
@@ -437,7 +437,7 @@
 - [DSH-EAC/DSH-Desktop-EAC](https://github.com/DSH-EAC/DSH-Desktop-EAC) - DSH Windows/Linux 桌面客户端：内置 Node.js 与完整 dsh CLI 内核，一键启动，10 款内置 UI 主题 (⭐1649) 🛡️QC:0 🔴 · `客户端`
 - [dsh-tauri-desk/deepseek-harness-desktop](https://github.com/dsh-tauri-desk/deepseek-harness-desktop) - DeepSeek Harness Tauri 桌面版：仅 5MB 安装包、零环境配置、预置插件，支持 Windows/macOS/Linux (⭐1735) 🛡️QC:38 🟠 · `客户端`
 - [FlashingChen/dsh-desktop-hub](https://github.com/FlashingChen/dsh-desktop-hub) - DSH Desktop Hub 桌面管理控制台（Electron + TypeScript）：多 Tab 管理 Harness / Plugin / MCP / Skills，双击即用 (⭐56) · `客户端`
-- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) - DSH 的 SSH 远程工作区：多主机项目并行、文件浏览与编辑、递归搜索、终端、Git 差异，以及 Agent 远程编辑、构建与测试；可选 IDE 布局。 (⭐286) · `插件`
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) - DSH 的 SSH 远程工作区：多主机项目并行、文件浏览与编辑、递归搜索、终端、Git 差异，以及 Agent 远程编辑、构建与测试，可选 IDE 布局。默认发送可关闭的使用统计 (⭐289) · `插件`
 - [lencx/Minke](https://github.com/lencx/Minke) - 🐳 DeepSeek Harness 桌面客户端 (⭐622) 🛡️QC:28 🔴 · `客户端`
 - [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote) - 基于 DSH 插件机制的多端远程访问方案：桌面端与 Android 端安全连接并操作远程 Harness (⭐995) · `客户端`
 - [liguobao/dsh-desktop](https://github.com/liguobao/dsh-desktop) - 独立开源 DSH 桌面包装器：本地启动官方 Web UI，并以加固的 Electron 窗口加载，支持 Linux/macOS/Windows (⭐28) · `客户端`
