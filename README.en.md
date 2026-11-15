@@ -8,10 +8,10 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-15](https://img.shields.io/badge/last--updated-2026--11--15-brightgreen.svg)
-![Projects: 338](https://img.shields.io/badge/projects-338-orange.svg)
+![Projects: 339](https://img.shields.io/badge/projects-339-orange.svg)
 
 <!-- catalog-summary:start -->
-**338 projects**: 308 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**339 projects**: 309 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -401,6 +401,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [Qinling-Melon-Farmers/dsh-memoir](https://github.com/Qinling-Melon-Farmers/dsh-memoir) - Local-first cross-session project memory for DSH: zero bundled runtime deps, bounded Hot Memory, BM25 recall/cache, provenance and a bilingual Web GUI (⭐24) · `Plugin`
 - [quqxui/dsh-memgas](https://github.com/quqxui/dsh-memgas) - Long-term memory plugin: four-channel retrieval fusion plus a memory-evolution loop, with construction and retrieval methods from the ICLR 2026 MemGAS paper (⭐23) · `Plugin`
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) - Local Git-backed long-term memory: memories stored in a local Git repo, double-confirmation clear in settings, optional idle-session synchronizer and path-safety guards (⭐184) · `Plugin`
+- [shiyan688/dsh-attune](https://github.com/shiyan688/dsh-attune) - Use the configured DSH model to generate situational quizzes and turn answers into editable, removable preferences that apply to future model requests after user confirmation (⭐1) · `Plugin`
 - [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public) - Structural codebase memory: bi-temporal knowledge graph, MCP-native, zero LLM calls, millisecond queries (⭐454) 🛡️QC:25 🔴 · `MCP`
 - [Tranquillitatis-Lab/dsh-live-compact](https://github.com/Tranquillitatis-Lab/dsh-live-compact) - Compact selected long tool outputs in place at turn end and keep local backups. Replaces the default compaction component in Web and headless profiles (⭐142) · `Plugin`
 - [Tyan66666/billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - Model-driven context management (Active Context Pruning / ACP) for DSH: the model decides when and what to compress for billion-scale context (⭐75) · `Plugin`
@@ -516,7 +517,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 308 main-catalog projects, **82 have historical scores (26.6%)** and 226 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 309 main-catalog projects, **82 have historical scores (26.5%)** and 227 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

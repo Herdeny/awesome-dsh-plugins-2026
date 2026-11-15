@@ -8,10 +8,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-15](https://img.shields.io/badge/last--updated-2026--11--15-brightgreen.svg)
-![Projects: 338](https://img.shields.io/badge/projects-338-orange.svg)
+![Projects: 339](https://img.shields.io/badge/projects-339-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **338 个项目**：主目录 308 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **339 个项目**：主目录 309 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -401,6 +401,7 @@
 - [Qinling-Melon-Farmers/dsh-memoir](https://github.com/Qinling-Melon-Farmers/dsh-memoir) - DSH 本地优先跨会话项目记忆：零内置运行时依赖、有界 Hot Memory、BM25 召回/缓存、来源溯源与双语 Web GUI (⭐24) · `插件`
 - [quqxui/dsh-memgas](https://github.com/quqxui/dsh-memgas) - 长期记忆插件：四通道检索融合 + 记忆演化闭环，记忆构建与检索方法来自 ICLR 2026 论文 MemGAS (⭐23) · `插件`
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) - 本地 Git 长期记忆插件：记忆存于本地 Git 仓库，设置页双确认清除，含空闲会话同步器与路径安全防护 (⭐184) · `插件`
+- [shiyan688/dsh-attune](https://github.com/shiyan688/dsh-attune) - 调用 DSH 已配置的模型生成情境小测试，将答题结果整理为可编辑、可删除的偏好，用户确认后才用于后续模型请求 (⭐1) · `插件`
 - [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public) - 代码库结构化记忆：双时态知识图谱，MCP 原生、零 LLM 调用，毫秒级查询 (⭐454) 🛡️QC:25 🔴 · `MCP`
 - [Tranquillitatis-Lab/dsh-live-compact](https://github.com/Tranquillitatis-Lab/dsh-live-compact) - 在轮次结束时就地压缩选中的长工具输出，并保留本地原文备份。适用于 Web 和 headless，替换默认压缩组件 (⭐142) · `插件`
 - [Tyan66666/billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - 模型驱动的上下文管理（Active Context Pruning / ACP）：由模型决定何时压缩什么，为 DSH 撑起超大上下文 (⭐75) · `插件`
@@ -516,7 +517,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 308 个项目中，**82 个有历史评分记录（26.6%）**，226 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 309 个项目中，**82 个有历史评分记录（26.5%）**，227 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
