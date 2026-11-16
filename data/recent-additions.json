@@ -1,5 +1,19 @@
 [
   {
+    "repo": "BearingSteel/dsh-inline-download",
+    "added_on": "2026-11-16",
+    "commit": "828adc4a06b0b5a6ff528ea9b7275a86a51efa28",
+    "zh": "从会话文件卡片下载原件",
+    "en": "Download originals from conversation file cards"
+  },
+  {
+    "repo": "zebbkira/dsh-browser-context",
+    "added_on": "2026-11-16",
+    "commit": "828adc4a06b0b5a6ff528ea9b7275a86a51efa28",
+    "zh": "把网页资料带入会话草稿",
+    "en": "Quote web material in a conversation draft"
+  },
+  {
     "repo": "shiyan688/dsh-attune",
     "added_on": "2026-11-15",
     "commit": "2ff7b0b15127de438139a71271f3c7b2a227f83c",
