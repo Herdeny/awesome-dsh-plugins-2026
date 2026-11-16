@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-15](https://img.shields.io/badge/last--updated-2026--11--15-brightgreen.svg)
-![Projects: 339](https://img.shields.io/badge/projects-339-orange.svg)
+![Last updated: 2026-11-16](https://img.shields.io/badge/last--updated-2026--11--16-brightgreen.svg)
+![Projects: 341](https://img.shields.io/badge/projects-341-orange.svg)
 
 <!-- catalog-summary:start -->
-**339 projects**: 309 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**341 projects**: 311 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -223,6 +223,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [YEYEYEYESHIFU/dsh-result-only-view](https://github.com/YEYEYEYESHIFU/dsh-result-only-view) - Collapse reasoning and tool activity to emphasize final replies, with expandable traces and live summaries (⭐2) · `Plugin`
 - [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) - Configurable shortcuts for switching, pinning and managing sessions, with Windows and macOS presets (tested upstream on DSH 0.1.5-rc.2 and 0.2.0-rc.2) (⭐3) · `Plugin`
 - [yyyyukari/dsh-plugin-workshop](https://github.com/yyyyukari/dsh-plugin-workshop) - Steam Workshop-style plugin browser for the DSH Web UI: zero-server GitHub-powered search, trending windows, bilingual translation and tiered one-click install/update/uninstall (⭐25) · `Plugin`
+- [zebbkira/dsh-browser-context](https://github.com/zebbkira/dsh-browser-context) - Browse sources in the DSH Desktop sidebar and add article text, WeCom selections, accessible Bilibili subtitles, or screenshots to the conversation draft with source details for review before sending (⭐0) · `Plugin`
 - [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager) - "Skills & MCP" card for the DSH Web GUI: manage skills and MCP servers from the browser inside the Web UI plugins settings group (⭐23) · `Plugin`
 
 <a id="themes-appearance"></a>
@@ -316,6 +317,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 
 - [379385796-sys/dsh-ai-exporter](https://github.com/379385796-sys/dsh-ai-exporter) - Export selected turns from current or past sessions as TXT, Markdown or searchable PDF on Windows DSH Desktop. PDF requires local Edge or Chrome (⭐0) · `Plugin`
 - [anionex/dsh-turn-rewind](https://github.com/anionex/dsh-turn-rewind) - Rewind conversation and code state, replay historical turns (⭐113) 🛡️QC:74 🟢 · `Plugin`
+- [BearingSteel/dsh-inline-download](https://github.com/BearingSteel/dsh-inline-download) - Add download buttons to deliverable and sent attachment cards in DSH Web conversations and save the original files through the browser (⭐0) · `Plugin`
 - [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) - Chimes for pending decisions and completed tasks, with system notifications, repeat reminders, quiet hours and volume controls (⭐33) · `Plugin`
 - [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) - Cross-instance message/event handoff plugins for DSH: interconnect service and tools linking multiple DSH instances (⭐35) · `Plugin`
 - [Edison-A-N/dsh-session-journal](https://github.com/Edison-A-N/dsh-session-journal) - Sidebar work journal grouping turns by task, with phases, open items and turn navigation. Optional summaries use the session model and may incur fees (DSH 0.2.2-alpha.2+) (⭐0) · `Plugin`
@@ -517,7 +519,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 309 main-catalog projects, **82 have historical scores (26.5%)** and 227 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 311 main-catalog projects, **82 have historical scores (26.4%)** and 229 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

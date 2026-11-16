@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-15](https://img.shields.io/badge/last--updated-2026--11--15-brightgreen.svg)
-![Projects: 339](https://img.shields.io/badge/projects-339-orange.svg)
+![Last updated: 2026-11-16](https://img.shields.io/badge/last--updated-2026--11--16-brightgreen.svg)
+![Projects: 341](https://img.shields.io/badge/projects-341-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **339 个项目**：主目录 309 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **341 个项目**：主目录 311 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -223,6 +223,7 @@
 - [YEYEYEYESHIFU/dsh-result-only-view](https://github.com/YEYEYEYESHIFU/dsh-result-only-view) - 折叠思考与工具过程，突出最终回复，并支持展开过程痕迹和运行摘要 (⭐2) · `插件`
 - [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) - 可自定义快捷键，用于切换、固定及管理会话，提供 Windows 和 macOS 预设（上游已验证 DSH 0.1.5-rc.2 与 0.2.0-rc.2） (⭐3) · `插件`
 - [yyyyukari/dsh-plugin-workshop](https://github.com/yyyyukari/dsh-plugin-workshop) - Steam 创意工坊式 DSH Web UI 插件浏览器：零服务器、GitHub 驱动搜索、热度/飙升窗口、双语翻译与分级预检的一键安装/更新/卸载 (⭐25) · `插件`
+- [zebbkira/dsh-browser-context](https://github.com/zebbkira/dsh-browser-context) - 在 DSH Desktop 侧栏浏览资料，将网页正文、企微选区、可访问的 B 站字幕或截图连同来源加入会话草稿，发送前可预览 (⭐0) · `插件`
 - [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager) - DSH Web GUI 的「技能与 MCP」管理卡片：在设置页的 Web UI 插件分组内于浏览器里管理技能与 MCP (⭐23) · `插件`
 
 <a id="themes-appearance"></a>
@@ -316,6 +317,7 @@
 
 - [379385796-sys/dsh-ai-exporter](https://github.com/379385796-sys/dsh-ai-exporter) - 在 Windows DSH Desktop 按轮次导出当前或历史会话为 TXT、Markdown 或可搜索 PDF，PDF 需要本机 Edge 或 Chrome (⭐0) · `插件`
 - [anionex/dsh-turn-rewind](https://github.com/anionex/dsh-turn-rewind) - 对话与代码状态回退插件，可重放历史回合 (⭐113) 🛡️QC:74 🟢 · `插件`
+- [BearingSteel/dsh-inline-download](https://github.com/BearingSteel/dsh-inline-download) - 为 DSH Web 会话中的交付文件和已发送附件卡片添加下载按钮，通过浏览器保存原始文件 (⭐0) · `插件`
 - [BillCx330/dsh-plugin-notify-sounds](https://github.com/BillCx330/dsh-plugin-notify-sounds) - 审批等待与任务完成提示音，支持系统通知、重复提醒、静音时段和音量设置 (⭐33) · `插件`
 - [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) - DSH 跨实例消息/事件交接插件：interconnect 服务与工具，打通多个 DSH 实例 (⭐35) · `插件`
 - [Edison-A-N/dsh-session-journal](https://github.com/Edison-A-N/dsh-session-journal) - 侧栏工作日志：按任务整理会话、展示阶段与待办并跳转回合；摘要复用会话模型，可能产生调用费用（DSH 0.2.2-alpha.2 起） (⭐0) · `插件`
@@ -517,7 +519,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 309 个项目中，**82 个有历史评分记录（26.5%）**，227 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 311 个项目中，**82 个有历史评分记录（26.4%）**，229 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
