@@ -288,7 +288,7 @@
 
 - [herdeny/dsh-qc](https://github.com/herdeny/dsh-qc) - DSH 插件质量检测 CLI，支持静态分析与动态验证 (⭐2) · `工具`
 - [liangdabiao/dsh-plugin-developer-skill](https://github.com/liangdabiao/dsh-plugin-developer-skill) - 插件开发 Skill：指导 Agent 从 0 到 1 开发、构建、安装、测试 DSH 插件，附一个已通过 Web 界面实测的天气插件作整包参考 (⭐23) · `复合项目`
-- [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) - 为本地 Git 仓库中的根目录 Vite 前端运行两份实现，体验、盲选并审查采用；复用 DSH 模型，模型服务可能收费 (⭐90) · `插件`
+- [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) - 鲸挑细选 AgentCompare：在 DSH Desktop/Web 主对话中比较 2–4 版回答、文件或网页；中英双语，同步主对话上下文，保留选择理由并审查采用。 复用已配置模型，模型服务可能收费。 (⭐426) · `插件`
 - [lijiaqi-AI-Product-Manager/dsh-bug-gps](https://github.com/lijiaqi-AI-Product-Manager/dsh-bug-gps) - 录制浏览器问题、固定预期，并以原代码对照复核修复。支持 Windows 上的 DSH 0.2.1-rc.5 headless/web (⭐1) · `插件`
 - [oil-oil/build-deepseek-harness-plugin](https://github.com/oil-oil/build-deepseek-harness-plugin) - 面向已安装 DSH 插件的构建 Agent Skill：slots、Typert remotes 与凭据处理 (⭐39) · `Skill`
 - [omdsh-dev/dsh-plugin-skills](https://github.com/omdsh-dev/dsh-plugin-skills) - 用于构建和测试 DSH 插件的 Agent Skills (⭐12) 🛡️QC:17 🔴 · `Skill`
