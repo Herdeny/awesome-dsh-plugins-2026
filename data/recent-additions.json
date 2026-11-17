@@ -1,5 +1,12 @@
 [
   {
+    "repo": "WinterOne-hub/dsh-voice-notes",
+    "added_on": "2026-11-17",
+    "commit": "2e6b334f9954c3059c41fd856eb1b3c82dfce50d",
+    "zh": "本地录音转写与听写",
+    "en": "Local recording transcription and dictation"
+  },
+  {
     "repo": "BearingSteel/dsh-inline-download",
     "added_on": "2026-11-16",
     "commit": "828adc4a06b0b5a6ff528ea9b7275a86a51efa28",
