@@ -8,10 +8,10 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-17](https://img.shields.io/badge/last--updated-2026--11--17-brightgreen.svg)
-![Projects: 341](https://img.shields.io/badge/projects-341-orange.svg)
+![Projects: 342](https://img.shields.io/badge/projects-342-orange.svg)
 
 <!-- catalog-summary:start -->
-**341 projects**: 311 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**342 projects**: 312 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -171,6 +171,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) - Shot-based storyboards with timestamps, segment zoom, transcript lookup and subtitle extraction; requires ffmpeg and ffprobe (⭐351) · `Plugin`
 - [tianmingwan/dsh-vision-any](https://github.com/tianmingwan/dsh-vision-any) - Paste images into text-only DSH agents; any OpenAI-compatible, Anthropic or Gemini vision API (⭐22) 🛡️QC:61 🟡 · `Plugin`
 - [william-jin-cmu/dsh-vision](https://github.com/william-jin-cmu/dsh-vision) - view_image tool bridging any OpenAI-compatible VLM (free Zhipu tier by default; 4 vendors, 10 models tested) (⭐32) 🛡️QC:47 🟠 · `Plugin`
+- [WinterOne-hub/dsh-voice-notes](https://github.com/WinterOne-hub/dsh-voice-notes) - Transcribe recordings and dictation locally with SenseVoice in DSH Desktop, replay recording history, and insert text into drafts. Supports macOS and offers a Windows x64 preview. Optional cleanup and translation call the selected model (⭐0) · `Plugin`
 - [xiincs/claude-code-vision-skill](https://github.com/xiincs/claude-code-vision-skill) - Doubao/Qwen/GPT-4o vision for screenshot, UI and chart analysis (⭐165) 🛡️QC:17 🔴 · `Plugin`
 - [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router) - Built-in free vision chain for text-only DSH agents (⭐998) 🛡️QC:52 🟡 · `Plugin`
 - [Yts1919/dsh-vision-complete](https://github.com/Yts1919/dsh-vision-complete) - Multimodal plugin: image, OCR, object detection, video understanding, speech-to-text and screenshots (⭐42) 🛡️QC:25 🔴 · `Plugin`
@@ -519,7 +520,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 311 main-catalog projects, **82 have historical scores (26.4%)** and 229 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 312 main-catalog projects, **82 have historical scores (26.3%)** and 230 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

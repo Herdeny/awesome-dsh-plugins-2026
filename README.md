@@ -8,10 +8,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-17](https://img.shields.io/badge/last--updated-2026--11--17-brightgreen.svg)
-![Projects: 341](https://img.shields.io/badge/projects-341-orange.svg)
+![Projects: 342](https://img.shields.io/badge/projects-342-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **341 个项目**：主目录 311 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **342 个项目**：主目录 312 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -171,6 +171,7 @@
 - [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) - 按镜头生成带时间码的分镜图，支持局部放大、台词定位与字幕提取；需 ffmpeg 和 ffprobe (⭐351) · `插件`
 - [tianmingwan/dsh-vision-any](https://github.com/tianmingwan/dsh-vision-any) - 让纯文本 DSH Agent 直接粘贴图片，支持任意 OpenAI 兼容 / Anthropic / Gemini 视觉 API (⭐22) 🛡️QC:61 🟡 · `插件`
 - [william-jin-cmu/dsh-vision](https://github.com/william-jin-cmu/dsh-vision) - view_image 工具桥接任意 OpenAI 兼容 VLM（默认智谱免费档，实测 4 厂商 10 模型） (⭐32) 🛡️QC:47 🟠 · `插件`
+- [WinterOne-hub/dsh-voice-notes](https://github.com/WinterOne-hub/dsh-voice-notes) - 在 DSH Desktop 用 SenseVoice 本地转写录音和听写，支持回放历史及插入草稿。支持 macOS，Windows x64 为预览版。可选整理和翻译会调用所选模型 (⭐0) · `插件`
 - [xiincs/claude-code-vision-skill](https://github.com/xiincs/claude-code-vision-skill) - 接入豆包、通义千问与 GPT-4o，支持截图、UI 和图表分析 (⭐165) 🛡️QC:17 🔴 · `插件`
 - [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router) - 为纯文本 DSH Agent 提供内置免费视觉链路 (⭐998) 🛡️QC:52 🟡 · `插件`
 - [Yts1919/dsh-vision-complete](https://github.com/Yts1919/dsh-vision-complete) - 多模态「眼睛和耳朵」插件：看图/OCR/物体检测/视频理解/语音转写/截图直读 (⭐42) 🛡️QC:25 🔴 · `插件`
@@ -519,7 +520,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 311 个项目中，**82 个有历史评分记录（26.4%）**，229 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 312 个项目中，**82 个有历史评分记录（26.3%）**，230 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
