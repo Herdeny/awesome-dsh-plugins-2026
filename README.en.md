@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-17](https://img.shields.io/badge/last--updated-2026--11--17-brightgreen.svg)
-![Projects: 342](https://img.shields.io/badge/projects-342-orange.svg)
+![Last updated: 2026-11-18](https://img.shields.io/badge/last--updated-2026--11--18-brightgreen.svg)
+![Projects: 343](https://img.shields.io/badge/projects-343-orange.svg)
 
 <!-- catalog-summary:start -->
-**342 projects**: 312 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**343 projects**: 313 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -81,7 +81,7 @@ The examples below have had their installation documentation and entry points ch
 | Project | Installation source | Scope & requirements | Docs checked |
 | --- | --- | --- | --- |
 | Notification sounds | Enter `dsh-plugin-notify-sounds@1.9.2` in the plugin manager; [docs](https://github.com/BillCx330/dsh-plugin-notify-sounds) | Web interface and desktop host; browser audio and system notifications depend on permission settings | 2026-11-01 |
-| Harbor | Enter `@zseven-w/dsh-harbor@next` in the plugin manager; [docs](https://github.com/ZSeven-W/dsh-harbor) | Installed-plugin inventory; optional upgrade preflight downloads a target host and imports plugin entry points | 2026-11-01 |
+| Harbor | Enter `@zseven-w/dsh-harbor@0.1.0-rc.4` in the plugin manager; [docs](https://github.com/ZSeven-W/dsh-harbor) | Installed-plugin inventory; optional upgrade preflight downloads a target host and imports plugin entry points | 2026-11-18 |
 | StudyHub | Complete [v4.1.0 release package](https://github.com/EricWang1358/dsh-web-studyhub/releases/tag/v4.1.0); add the tgz as documented | DSH 0.2; question generation needs a configured model, transcription needs its service, and provider charges may apply | 2026-11-01 |
 | Zotero | Enter `dsh-zotero` in the plugin manager; [docs](https://github.com/Vncntvx/dsh-zotero) | Running Zotero 7+ with its local API enabled; writes require Zotero 10 | 2026-11-01 |
 
@@ -112,6 +112,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) - DSH bot-team workspace with a coordinating main bot, inter-bot messages, group chats and persistent memory; available as a plugin and desktop app (⭐4593) · `Mixed`
 - [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - General-purpose Skill router that auto-routes local Skills and orchestrates harness workflows, DSH included (⭐3783) 🛡️QC:0 🔴 · `Mixed`
 - [HiWhaleW/dsh-toolbox](https://github.com/HiWhaleW/dsh-toolbox) - Local-first DSH toolbox: product research, context switching, plugin preflight and compatibility monitoring in a safety-focused visual control panel (⭐29) · `Plugin`
+- [hluica/dsh-parent-instructions](https://github.com/hluica/dsh-parent-instructions) - Use a parent-root marker to add ancestor AGENTS.md guidance to nested Git workspaces, with source paths and size limits. Requires a local dependency build and targets DSH 0.2.2-rc.3 onward (⭐0) · `Plugin`
 - [JingHao-Leon/dsh-alpha-desk](https://github.com/JingHao-Leon/dsh-alpha-desk) - Alpha Desk: a compliance-first AI investment desk skill pack turning an agent session into multi-strategy fund backtesting & research (⭐39) · `Skill`
 - [KelaoHu/dsh-lowtide](https://github.com/KelaoHu/dsh-lowtide) - Time-shifting task delegation for DSH: plan tasks at leisure, let them run unattended off-peak and come back to a report; human-adjudicated, desktop + web (⭐157) · `Plugin`
 - [LayneChai/superpowers-dsh](https://github.com/LayneChai/superpowers-dsh) - Superpowers skills for DeepSeek Harness: TDD, debugging, planning and collaboration skills adapted from obra/superpowers (⭐88) · `Skill`
@@ -425,7 +426,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) - Claude Code-style declarative permission rules for DSH: ordered allow/deny/ask rules with tool, argument (glob/regex) and workspace-path matching, session-log audit and HMR reload (⭐113) · `Plugin`
 - [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) - DSH backup & restore plugin: export, import, migrate and sync full config, plugins, MCP servers, skills and workspace; one-click migration to another machine (⭐277) · `Plugin`
 - [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) - DSH context-injection audit plugin: token cost of AGENTS.md chains / skill catalogs / tool schemas, duplicate & conflict detection, Web UI donut panel + context_audit tool (⭐28) · `Plugin`
-- [ZSeven-W/dsh-harbor](https://github.com/ZSeven-W/dsh-harbor) - Installed-plugin capability inventory with source evidence, declared-versus-detected comparison, cross-profile version drift, change snapshots and upgrade preflight (⭐25) · `Plugin`
+- [ZSeven-W/dsh-harbor](https://github.com/ZSeven-W/dsh-harbor) - Installed-plugin capability inventory with source evidence, declared-versus-detected comparison, cross-profile version drift, change snapshots and upgrade preflight (⭐29) · `Plugin`
 
 <a id="desktop-clients"></a>
 
@@ -520,7 +521,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 312 main-catalog projects, **82 have historical scores (26.3%)** and 230 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 313 main-catalog projects, **82 have historical scores (26.2%)** and 231 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

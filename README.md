@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-17](https://img.shields.io/badge/last--updated-2026--11--17-brightgreen.svg)
-![Projects: 342](https://img.shields.io/badge/projects-342-orange.svg)
+![Last updated: 2026-11-18](https://img.shields.io/badge/last--updated-2026--11--18-brightgreen.svg)
+![Projects: 343](https://img.shields.io/badge/projects-343-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **342 个项目**：主目录 312 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **343 个项目**：主目录 313 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -81,7 +81,7 @@
 | 项目 | 安装入口 | 适用范围与依赖 | 资料核验日期 |
 | --- | --- | --- | --- |
 | 提示音 | 插件管理器输入 `dsh-plugin-notify-sounds@1.9.2`；[说明](https://github.com/BillCx330/dsh-plugin-notify-sounds) | Web 界面与桌面宿主；浏览器声音和系统通知受权限设置影响 | 2026-11-01 |
-| Harbor | 插件管理器输入 `@zseven-w/dsh-harbor@next`；[说明](https://github.com/ZSeven-W/dsh-harbor) | 已安装插件的能力清单；可选升级预检会下载目标宿主并导入插件入口 | 2026-11-01 |
+| Harbor | 插件管理器输入 `@zseven-w/dsh-harbor@0.1.0-rc.4`；[说明](https://github.com/ZSeven-W/dsh-harbor) | 已安装插件的能力清单；可选升级预检会下载目标宿主并导入插件入口 | 2026-11-18 |
 | StudyHub | [v4.1.0 完整发布包](https://github.com/EricWang1358/dsh-web-studyhub/releases/tag/v4.1.0)，按上游步骤添加 tgz | DSH 0.2；生成题目需配置模型，转写需相应服务，费用由提供商决定 | 2026-11-01 |
 | Zotero | 插件管理器输入 `dsh-zotero`；[说明](https://github.com/Vncntvx/dsh-zotero) | 需运行 Zotero 7+ 并开启本地 API；写入功能需 Zotero 10 | 2026-11-01 |
 
@@ -112,6 +112,7 @@
 - [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) - 基于 DSH 的多 Bot 工作台：主 Bot 调度、Bot 间消息、群聊与持久记忆，提供插件和桌面应用 (⭐4593) · `复合项目`
 - [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - 通用 Skill 路由器：自动路由本地 Skills，智能编排 Harness 工作流（含 DSH） (⭐3783) 🛡️QC:0 🔴 · `复合项目`
 - [HiWhaleW/dsh-toolbox](https://github.com/HiWhaleW/dsh-toolbox) - 本地优先 DSH 工具箱：产品研究、上下文切换、插件预检与兼容性监控，安全导向的可视化控制面板 (⭐29) · `插件`
+- [hluica/dsh-parent-instructions](https://github.com/hluica/dsh-parent-instructions) - 按父根标记为嵌套 Git 工作区补充父级 AGENTS.md 等指导文件，并保留来源和长度限制。需先本地构建依赖，面向 DSH 0.2.2-rc.3 起 (⭐0) · `插件`
 - [JingHao-Leon/dsh-alpha-desk](https://github.com/JingHao-Leon/dsh-alpha-desk) - Alpha Desk：合规优先的 AI 投资台技能包，把 Agent 会话变成多策略基金回测与研究台 (⭐39) · `Skill`
 - [KelaoHu/dsh-lowtide](https://github.com/KelaoHu/dsh-lowtide) - 错峰任务委派插件：闲时把任务排好，让它们无人值守地在低峰时段跑完并交回报告，支持人工裁决，桌面端 + Web 端 (⭐157) · `插件`
 - [LayneChai/superpowers-dsh](https://github.com/LayneChai/superpowers-dsh) - Superpowers 技能包移植到 DSH：TDD、调试、规划与协作技能 (⭐88) · `Skill`
@@ -425,7 +426,7 @@
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) - Claude Code 风格声明式权限规则：有序 allow/deny/ask + 工具/参数/路径匹配，会话日志审计与热重载 (⭐113) · `插件`
 - [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) - DSH 备份与恢复插件：导出/导入/迁移/同步完整配置、插件、MCP 服务器、技能与工作区，一键迁移到新机器 (⭐277) · `插件`
 - [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) - DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具 (⭐28) · `插件`
-- [ZSeven-W/dsh-harbor](https://github.com/ZSeven-W/dsh-harbor) - 已安装插件能力清单：源码定位、声明与检测结果比对、跨配置版本差异和变更快照，并提供升级预检 (⭐25) · `插件`
+- [ZSeven-W/dsh-harbor](https://github.com/ZSeven-W/dsh-harbor) - 已安装插件能力清单：源码定位、声明与检测结果比对、跨配置版本差异和变更快照，并提供升级预检 (⭐29) · `插件`
 
 <a id="desktop-clients"></a>
 
@@ -520,7 +521,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 312 个项目中，**82 个有历史评分记录（26.3%）**，230 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 313 个项目中，**82 个有历史评分记录（26.2%）**，231 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
