@@ -1,5 +1,12 @@
 [
   {
+    "repo": "hluica/dsh-parent-instructions",
+    "added_on": "2026-11-18",
+    "commit": "3a5daa6bf1ae3e85870bc470a0d9ba71d7bbc08a",
+    "zh": "为嵌套工作区补充父级指导",
+    "en": "Add parent guidance to nested workspaces"
+  },
+  {
     "repo": "WinterOne-hub/dsh-voice-notes",
     "added_on": "2026-11-17",
     "commit": "2e6b334f9954c3059c41fd856eb1b3c82dfce50d",
