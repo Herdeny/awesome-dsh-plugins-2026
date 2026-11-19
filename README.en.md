@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-18](https://img.shields.io/badge/last--updated-2026--11--18-brightgreen.svg)
-![Projects: 343](https://img.shields.io/badge/projects-343-orange.svg)
+![Last updated: 2026-11-19](https://img.shields.io/badge/last--updated-2026--11--19-brightgreen.svg)
+![Projects: 345](https://img.shields.io/badge/projects-345-orange.svg)
 
 <!-- catalog-summary:start -->
-**343 projects**: 313 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**345 projects**: 315 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -211,9 +211,11 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - Render model-generated HTML fragments as sandboxed interactive conversation cards through the visualize tool, with charts, simulations, page mode and targeted updates (⭐336) · `Plugin`
 - [nico-zhuang/dsh-nav-fold](https://github.com/nico-zhuang/dsh-nav-fold) - Collapse and reorder sidebar icons, with optional Workspace, Activity and Favorites views and keyboard session navigation. Upstream verified DSH 0.2.1-rc.5 and 0.2.2-rc.1 (⭐9) · `Plugin`
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - Open sidebar foundation with third-party page registration; built-in file render/edit, terminal, Git and sub-agent pages (⭐4747) 🛡️QC:51 🟡 · `Plugin`
+- [Panther-w/dsh-inline-attachments](https://github.com/Panther-w/dsh-inline-attachments) - Insert image and file chips in the composer, reorder message attachments to their chip positions on send, and sync previews and deletions; depends on DSH composer internals (⭐0) · `Plugin`
 - [pengyue-polaron/deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) - Task-specific React apps for DeepSeek Harness: the agent builds a focused interface for the current task and carries user state into the next turn (⭐106) · `Plugin`
 - [plolpl789/dsh-raw-html](https://github.com/plolpl789/dsh-raw-html) - VCP (visual-synesthesia protocol) plugin for DeepSeek Harness: renders agent HTML output (⭐59) · `Plugin`
 - [plolpl789/dsh-raw-html-v2](https://github.com/plolpl789/dsh-raw-html-v2) - VCP visual-synesthesia plugin v2 (official Slot API): raw-HTML vcp-root cards, streaming render, KaTeX/Mermaid/SVG and built-in fonts (⭐24) · `Plugin`
+- [polunzh/dsh-pin](https://github.com/polunzh/dsh-pin) - Pin workspaces and sidebar plugin panels; workspace order is saved by the host and panel preferences by the browser. Depends on internal DSH DOM and attempts to restore position on unpin (⭐0) · `Plugin`
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - Endfield-inspired industrial UI shell for DSH (unofficial fan theme): install with dsh plugin --profile web add (⭐55) · `Plugin`
 - [sanqi-normal/dsh-webui-market-plugin](https://github.com/sanqi-normal/dsh-webui-market-plugin) - Plugin market entry for DSH Web UI (⭐102) 🛡️QC:61 🟡 · `Plugin`
 - [stallenlu/dsh-sticky-notes](https://github.com/stallenlu/dsh-sticky-notes) - Browser-local sticky notes in a draggable floating panel and a sidebar page, with Markdown preview and image pasting (⭐1) · `Plugin`
@@ -521,7 +523,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 313 main-catalog projects, **82 have historical scores (26.2%)** and 231 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 315 main-catalog projects, **82 have historical scores (26.0%)** and 233 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

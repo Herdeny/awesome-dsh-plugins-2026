@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-18](https://img.shields.io/badge/last--updated-2026--11--18-brightgreen.svg)
-![Projects: 343](https://img.shields.io/badge/projects-343-orange.svg)
+![Last updated: 2026-11-19](https://img.shields.io/badge/last--updated-2026--11--19-brightgreen.svg)
+![Projects: 345](https://img.shields.io/badge/projects-345-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **343 个项目**：主目录 313 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **345 个项目**：主目录 315 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -211,9 +211,11 @@
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - 通过 visualize 工具把模型生成的 HTML 片段显示为对话内沙箱交互卡片，支持图表、模拟器、页面模式和局部更新 (⭐336) · `插件`
 - [nico-zhuang/dsh-nav-fold](https://github.com/nico-zhuang/dsh-nav-fold) - 折叠并排序全局侧栏图标，可开启工作区、活动、收藏三栏与键盘会话导航；上游核验 DSH 0.2.1-rc.5 和 0.2.2-rc.1 (⭐9) · `插件`
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - 开放的侧边栏底座：支持三方扩展注册新侧边栏页面，内置文件渲染编辑/终端/Git/子代理页面 (⭐4747) 🛡️QC:51 🟡 · `插件`
+- [Panther-w/dsh-inline-attachments](https://github.com/Panther-w/dsh-inline-attachments) - 在输入框中插入图片和文件标签，发送时按标签位置重排消息附件，支持预览及删除同步；依赖 DSH 输入框内部接口 (⭐0) · `插件`
 - [pengyue-polaron/deepseek-harness-genui](https://github.com/pengyue-polaron/deepseek-harness-genui) - 任务专属 React 应用生成插件：Agent 为当前任务创建聚焦界面，并把用户选择/输入的状态带入下一轮对话 (⭐106) · `插件`
 - [plolpl789/dsh-raw-html](https://github.com/plolpl789/dsh-raw-html) - VCP 视觉联觉协议插件：在 DSH 中渲染 Agent 的 HTML 输出 (⭐59) · `插件`
 - [plolpl789/dsh-raw-html-v2](https://github.com/plolpl789/dsh-raw-html-v2) - VCP 视觉联觉协议插件 v2（官方 Slot API）：raw-HTML vcp-root 卡片、流式渲染、KaTeX/Mermaid/SVG 与内置字体 (⭐24) · `插件`
+- [polunzh/dsh-pin](https://github.com/polunzh/dsh-pin) - 将工作区和侧栏插件面板置顶；工作区排序写回宿主，面板偏好保存在浏览器。依赖 DSH 内部 DOM，取消置顶时尝试恢复位置 (⭐0) · `插件`
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - 终末地风格工业 UI 外壳（非官方粉丝主题）：dsh plugin --profile web add 一键安装 (⭐55) · `插件`
 - [sanqi-normal/dsh-webui-market-plugin](https://github.com/sanqi-normal/dsh-webui-market-plugin) - 面向 DSH Web UI 的插件市场入口 (⭐102) 🛡️QC:61 🟡 · `插件`
 - [stallenlu/dsh-sticky-notes](https://github.com/stallenlu/dsh-sticky-notes) - 浏览器本地便签，提供拖动悬浮面板和侧栏页面，支持 Markdown 预览与粘贴图片 (⭐1) · `插件`
@@ -521,7 +523,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 313 个项目中，**82 个有历史评分记录（26.2%）**，231 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 315 个项目中，**82 个有历史评分记录（26.0%）**，233 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
