@@ -1,5 +1,19 @@
 [
   {
+    "repo": "polunzh/dsh-pin",
+    "added_on": "2026-11-19",
+    "commit": "41a21cc235b926309a0c6b39272b31189d3ca712",
+    "zh": "置顶常用工作区和侧栏面板",
+    "en": "Pin workspaces and sidebar panels"
+  },
+  {
+    "repo": "Panther-w/dsh-inline-attachments",
+    "added_on": "2026-11-19",
+    "commit": "41a21cc235b926309a0c6b39272b31189d3ca712",
+    "zh": "按正文标签位置排列图片和附件",
+    "en": "Place attachments at inline chip positions"
+  },
+  {
     "repo": "hluica/dsh-parent-instructions",
     "added_on": "2026-11-18",
     "commit": "3a5daa6bf1ae3e85870bc470a0d9ba71d7bbc08a",

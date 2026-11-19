@@ -37,12 +37,12 @@
 <!-- recent-additions:start -->
 | 收录日期 | 项目 | 用途 |
 | --- | --- | --- |
+| [2026-11-19](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/41a21cc235b926309a0c6b39272b31189d3ca712) | [polunzh/dsh-pin](https://github.com/polunzh/dsh-pin) | 置顶常用工作区和侧栏面板 |
+| [2026-11-19](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/41a21cc235b926309a0c6b39272b31189d3ca712) | [Panther-w/dsh-inline-attachments](https://github.com/Panther-w/dsh-inline-attachments) | 按正文标签位置排列图片和附件 |
 | [2026-11-18](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/3a5daa6bf1ae3e85870bc470a0d9ba71d7bbc08a) | [hluica/dsh-parent-instructions](https://github.com/hluica/dsh-parent-instructions) | 为嵌套工作区补充父级指导 |
 | [2026-11-17](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/2e6b334f9954c3059c41fd856eb1b3c82dfce50d) | [WinterOne-hub/dsh-voice-notes](https://github.com/WinterOne-hub/dsh-voice-notes) | 本地录音转写与听写 |
 | [2026-11-16](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/828adc4a06b0b5a6ff528ea9b7275a86a51efa28) | [BearingSteel/dsh-inline-download](https://github.com/BearingSteel/dsh-inline-download) | 从会话文件卡片下载原件 |
 | [2026-11-16](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/828adc4a06b0b5a6ff528ea9b7275a86a51efa28) | [zebbkira/dsh-browser-context](https://github.com/zebbkira/dsh-browser-context) | 把网页资料带入会话草稿 |
-| [2026-11-15](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/2ff7b0b15127de438139a71271f3c7b2a227f83c) | [shiyan688/dsh-attune](https://github.com/shiyan688/dsh-attune) | 用情境小测试收集协作偏好 |
-| [2026-11-15](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/0b72e73e93d2bf65114272ea2a53f464ea60d628) | [ethan741205/dsh-strata-sync](https://github.com/ethan741205/dsh-strata-sync) | 同步 Strata 模型与压缩预算 |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>
