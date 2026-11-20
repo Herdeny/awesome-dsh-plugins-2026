@@ -37,12 +37,12 @@ The latest six additions. Dates link to catalog inclusion commits; this order is
 <!-- recent-additions:start -->
 | Added | Project | Purpose |
 | --- | --- | --- |
+| [2026-11-20](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/45c30afad2a504bec501e2a645d037d71ccf7274) | [Chaiyahang/dsh-scratchpad](https://github.com/Chaiyahang/dsh-scratchpad) | Keep local notes and send them to chat |
 | [2026-11-19](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/41a21cc235b926309a0c6b39272b31189d3ca712) | [polunzh/dsh-pin](https://github.com/polunzh/dsh-pin) | Pin workspaces and sidebar panels |
 | [2026-11-19](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/41a21cc235b926309a0c6b39272b31189d3ca712) | [Panther-w/dsh-inline-attachments](https://github.com/Panther-w/dsh-inline-attachments) | Place attachments at inline chip positions |
 | [2026-11-18](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/3a5daa6bf1ae3e85870bc470a0d9ba71d7bbc08a) | [hluica/dsh-parent-instructions](https://github.com/hluica/dsh-parent-instructions) | Add parent guidance to nested workspaces |
 | [2026-11-17](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/2e6b334f9954c3059c41fd856eb1b3c82dfce50d) | [WinterOne-hub/dsh-voice-notes](https://github.com/WinterOne-hub/dsh-voice-notes) | Local recording transcription and dictation |
 | [2026-11-16](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/828adc4a06b0b5a6ff528ea9b7275a86a51efa28) | [BearingSteel/dsh-inline-download](https://github.com/BearingSteel/dsh-inline-download) | Download originals from conversation file cards |
-| [2026-11-16](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/828adc4a06b0b5a6ff528ea9b7275a86a51efa28) | [zebbkira/dsh-browser-context](https://github.com/zebbkira/dsh-browser-context) | Quote web material in a conversation draft |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>

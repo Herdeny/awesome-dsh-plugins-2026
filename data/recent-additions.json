@@ -1,5 +1,12 @@
 [
   {
+    "repo": "Chaiyahang/dsh-scratchpad",
+    "added_on": "2026-11-20",
+    "commit": "45c30afad2a504bec501e2a645d037d71ccf7274",
+    "zh": "在本地便签与会话间整理资料",
+    "en": "Keep local notes and send them to chat"
+  },
+  {
     "repo": "polunzh/dsh-pin",
     "added_on": "2026-11-19",
     "commit": "41a21cc235b926309a0c6b39272b31189d3ca712",
