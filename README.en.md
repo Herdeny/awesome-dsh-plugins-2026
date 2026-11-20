@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-19](https://img.shields.io/badge/last--updated-2026--11--19-brightgreen.svg)
-![Projects: 345](https://img.shields.io/badge/projects-345-orange.svg)
+![Last updated: 2026-11-20](https://img.shields.io/badge/last--updated-2026--11--20-brightgreen.svg)
+![Projects: 346](https://img.shields.io/badge/projects-346-orange.svg)
 
 <!-- catalog-summary:start -->
-**345 projects**: 315 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**346 projects**: 316 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -186,6 +186,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [buhuikongpan/dsh-pluginmanager](https://github.com/buhuikongpan/dsh-pluginmanager) - Layered plugin manager for DSH (⭐9) 🛡️QC:61 🟡 · `Plugin`
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - Claude Code-style TUI companion plugin featured by DSH official: whale bar, live status, streaming thoughts, double-Esc rollback; one-click npm install (⭐6267) 🛡️QC:33 🟠 · `Plugin`
 - [ccch1mneyyy/working-activity](https://github.com/ccch1mneyyy/working-activity) - Lively working-line (statusline) extension for pi CLI and DSH (⭐653) 🛡️QC:28 🔴 · `Plugin`
+- [Chaiyahang/dsh-scratchpad](https://github.com/Chaiyahang/dsh-scratchpad) - Host-local notes with tags, attachments and Markdown tasks, send-to-chat and Agent read/write tools; includes soft-delete recovery, history and snapshots. Requires DSH 0.2.1-rc.2 onward (⭐3) · `Plugin`
 - [dsh-plugin-collection/dsh-group-status](https://github.com/dsh-plugin-collection/dsh-group-status) - Show counts and hover details for pending approval, running and completed sessions in collapsed groups by replacing the workspace sidebar component in the Web profile (⭐1) · `Plugin`
 - [dsh-tui/dsh-tui](https://github.com/dsh-tui/dsh-tui) - Claude Code-style terminal UI for DeepSeek Harness agents, installed as an out-of-tree dsh plugin bundle (built on pi-tui) (⭐31) · `Plugin`
 - [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) - Track when tasks are created and completed with table, kanban, Gantt and calendar views, plus an agent tool for managing tasks (⭐2) · `Plugin`
@@ -523,7 +524,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 315 main-catalog projects, **82 have historical scores (26.0%)** and 233 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 316 main-catalog projects, **82 have historical scores (25.9%)** and 234 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

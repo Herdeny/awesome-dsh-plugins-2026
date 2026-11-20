@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-19](https://img.shields.io/badge/last--updated-2026--11--19-brightgreen.svg)
-![Projects: 345](https://img.shields.io/badge/projects-345-orange.svg)
+![Last updated: 2026-11-20](https://img.shields.io/badge/last--updated-2026--11--20-brightgreen.svg)
+![Projects: 346](https://img.shields.io/badge/projects-346-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **345 个项目**：主目录 315 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **346 个项目**：主目录 316 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -186,6 +186,7 @@
 - [buhuikongpan/dsh-pluginmanager](https://github.com/buhuikongpan/dsh-pluginmanager) - 面向 DSH 的分层插件管理器 (⭐9) 🛡️QC:61 🟡 · `插件`
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - 官方公众号收录的 Claude Code 风 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚，npm 一键安装 (⭐6267) 🛡️QC:33 🟠 · `插件`
 - [ccch1mneyyy/working-activity](https://github.com/ccch1mneyyy/working-activity) - 为 pi CLI 与 DSH 打造的生动工作行（statusline）扩展 (⭐653) 🛡️QC:28 🔴 · `插件`
+- [Chaiyahang/dsh-scratchpad](https://github.com/Chaiyahang/dsh-scratchpad) - 提供宿主本地便签、标签、附件和 Markdown 待办，支持发送到对话及 Agent 读写工具；含软删除恢复、版本历史和快照备份，需 DSH 0.2.1-rc.2 起 (⭐3) · `插件`
 - [dsh-plugin-collection/dsh-group-status](https://github.com/dsh-plugin-collection/dsh-group-status) - 为折叠的侧栏分组显示待审批、运行中和已完成会话的计数及悬停明细，通过替换 Web profile 的工作区侧栏组件实现 (⭐1) · `插件`
 - [dsh-tui/dsh-tui](https://github.com/dsh-tui/dsh-tui) - 基于 pi-tui 构建的 Claude Code 风格 DSH 终端 UI，out-of-tree 插件包 (⭐31) · `插件`
 - [FantasyStarry/dsh-todo-time-log](https://github.com/FantasyStarry/dsh-todo-time-log) - 记录待办的创建与完成时间，在表格、看板、甘特图和日历中查看，并提供智能体待办工具 (⭐2) · `插件`
@@ -523,7 +524,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 315 个项目中，**82 个有历史评分记录（26.0%）**，233 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 316 个项目中，**82 个有历史评分记录（25.9%）**，234 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
