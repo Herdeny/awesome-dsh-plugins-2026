@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-20](https://img.shields.io/badge/last--updated-2026--11--20-brightgreen.svg)
-![Projects: 346](https://img.shields.io/badge/projects-346-orange.svg)
+![Last updated: 2026-11-21](https://img.shields.io/badge/last--updated-2026--11--21-brightgreen.svg)
+![Projects: 347](https://img.shields.io/badge/projects-347-orange.svg)
 
 <!-- catalog-summary:start -->
-**346 projects**: 316 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**347 projects**: 317 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -241,6 +241,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) - WebGPU ocean skin for DeepSeek Harness: Harness-only Chrome/Edge extension, static installer and native integration (⭐385) 🛡️QC:58 🟡 · `Mixed`
 - [DaSea/dsh-card-theme](https://github.com/DaSea/dsh-card-theme) - Nord, Solarized and One Dark palettes for DSH Web, with light and dark customization, an optional card layout, wallpaper and conversation width controls (⭐0) · `Theme`
 - [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine) - Turn local Wallpaper Engine wallpapers into DSH web-UI backgrounds: live video, iframe-loaded web wallpapers, Scene static frames (⭐4016) · `Theme`
+- [Eric782155/dsh-lilac-skin](https://github.com/Eric782155/dsh-lilac-skin) - Layer light and dark lilac colors over the Web theme, including sidebar, composer and turn-rail marks; disabling removes the overrides. Requires DSH 0.2.2-rc.5 onward; install from GitHub (⭐0) · `Theme`
 - [Ewnscat-ya/dsh-client-ui-skin-denia](https://github.com/Ewnscat-ya/dsh-client-ui-skin-denia) - Wuthering Waves Denia-themed DSH Web GUI skin: dual light/dark forms, side character art, glass cards and floating bubble particles (⭐32) · `Theme`
 - [FeatherHunter/dsh-opencode-palette](https://github.com/FeatherHunter/dsh-opencode-palette) - 38 eye-friendly opencode themes built for long coding sessions, one click to apply in DSH (⭐23) · `Theme`
 - [ggbond2424648901/deep-whale-day-night-theme](https://github.com/ggbond2424648901/deep-whale-day-night-theme) - Complete Deep Whale day/night theme UI pack with whale visuals (⭐107) 🛡️QC:66 🟡 · `Theme`
@@ -524,7 +525,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 316 main-catalog projects, **82 have historical scores (25.9%)** and 234 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 317 main-catalog projects, **82 have historical scores (25.9%)** and 235 have no score listed. The 30 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-20](https://img.shields.io/badge/last--updated-2026--11--20-brightgreen.svg)
-![Projects: 346](https://img.shields.io/badge/projects-346-orange.svg)
+![Last updated: 2026-11-21](https://img.shields.io/badge/last--updated-2026--11--21-brightgreen.svg)
+![Projects: 347](https://img.shields.io/badge/projects-347-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **346 个项目**：主目录 316 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **347 个项目**：主目录 317 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -241,6 +241,7 @@
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) - WebGPU 海洋皮肤：DSH 专属 Chrome/Edge 扩展、静态安装器与原生集成 (⭐385) 🛡️QC:58 🟡 · `复合项目`
 - [DaSea/dsh-card-theme](https://github.com/DaSea/dsh-card-theme) - 为 DSH Web 提供 Nord、Solarized、One Dark 三套配色，可调整明暗模式、卡片布局、壁纸和对话内容宽度 (⭐0) · `主题`
 - [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine) - 把本机 Wallpaper Engine 壁纸变成 DSH 网页界面背景：Video 动态播放、Web 以 iframe 加载、Scene 壁纸静态帧 (⭐4016) · `主题`
+- [Eric782155/dsh-lilac-skin](https://github.com/Eric782155/dsh-lilac-skin) - 通过主题 token 层为 Web 界面叠加浅色和深色丁香紫配色，覆盖侧栏、输入框及轮次导航标记，停用时移除覆盖；需 DSH 0.2.2-rc.5 起，可从 GitHub 安装 (⭐0) · `主题`
 - [Ewnscat-ya/dsh-client-ui-skin-denia](https://github.com/Ewnscat-ya/dsh-client-ui-skin-denia) - 鸣潮·达妮娅 (Denia) DSH Web GUI 皮肤「虚无之泡」：双形态亮/暗、侧边立绘、玻璃卡片与浮动泡泡粒子 (⭐32) · `主题`
 - [FeatherHunter/dsh-opencode-palette](https://github.com/FeatherHunter/dsh-opencode-palette) - 为长时间编程准备的 38 款 opencode 护眼配色，一键换上 DSH (⭐23) · `主题`
 - [ggbond2424648901/deep-whale-day-night-theme](https://github.com/ggbond2424648901/deep-whale-day-night-theme) - 完整 Deep Whale 昼夜主题 UI 包，含鲸鱼主视觉 (⭐107) 🛡️QC:66 🟡 · `主题`
@@ -524,7 +525,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 316 个项目中，**82 个有历史评分记录（25.9%）**，234 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 317 个项目中，**82 个有历史评分记录（25.9%）**，235 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
