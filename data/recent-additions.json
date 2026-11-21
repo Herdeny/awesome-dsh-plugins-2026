@@ -1,5 +1,12 @@
 [
   {
+    "repo": "Eric782155/dsh-lilac-skin",
+    "added_on": "2026-11-21",
+    "commit": "9573211a6c15bb3c57877ea469e456c98a8844bd",
+    "zh": "为 Web 界面叠加丁香紫配色",
+    "en": "Add a lilac color layer to the Web UI"
+  },
+  {
     "repo": "Chaiyahang/dsh-scratchpad",
     "added_on": "2026-11-20",
     "commit": "45c30afad2a504bec501e2a645d037d71ccf7274",

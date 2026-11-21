@@ -37,12 +37,12 @@
 <!-- recent-additions:start -->
 | 收录日期 | 项目 | 用途 |
 | --- | --- | --- |
+| [2026-11-21](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/9573211a6c15bb3c57877ea469e456c98a8844bd) | [Eric782155/dsh-lilac-skin](https://github.com/Eric782155/dsh-lilac-skin) | 为 Web 界面叠加丁香紫配色 |
 | [2026-11-20](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/45c30afad2a504bec501e2a645d037d71ccf7274) | [Chaiyahang/dsh-scratchpad](https://github.com/Chaiyahang/dsh-scratchpad) | 在本地便签与会话间整理资料 |
 | [2026-11-19](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/41a21cc235b926309a0c6b39272b31189d3ca712) | [polunzh/dsh-pin](https://github.com/polunzh/dsh-pin) | 置顶常用工作区和侧栏面板 |
 | [2026-11-19](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/41a21cc235b926309a0c6b39272b31189d3ca712) | [Panther-w/dsh-inline-attachments](https://github.com/Panther-w/dsh-inline-attachments) | 按正文标签位置排列图片和附件 |
 | [2026-11-18](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/3a5daa6bf1ae3e85870bc470a0d9ba71d7bbc08a) | [hluica/dsh-parent-instructions](https://github.com/hluica/dsh-parent-instructions) | 为嵌套工作区补充父级指导 |
 | [2026-11-17](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/2e6b334f9954c3059c41fd856eb1b3c82dfce50d) | [WinterOne-hub/dsh-voice-notes](https://github.com/WinterOne-hub/dsh-voice-notes) | 本地录音转写与听写 |
-| [2026-11-16](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/828adc4a06b0b5a6ff528ea9b7275a86a51efa28) | [BearingSteel/dsh-inline-download](https://github.com/BearingSteel/dsh-inline-download) | 从会话文件卡片下载原件 |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>
