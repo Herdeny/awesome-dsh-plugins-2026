@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-21](https://img.shields.io/badge/last--updated-2026--11--21-brightgreen.svg)
-![Projects: 347](https://img.shields.io/badge/projects-347-orange.svg)
+![Last updated: 2026-11-22](https://img.shields.io/badge/last--updated-2026--11--22-brightgreen.svg)
+![Projects: 348](https://img.shields.io/badge/projects-348-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **347 个项目**：主目录 317 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **348 个项目**：主目录 318 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -283,6 +283,7 @@
 - [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider) - 非官方 Command Code LLM 提供商插件：实时模型目录、推理档位支持与 Models 页卡片，移植自 pi-commandcode-provider (⭐445) · `插件`
 - [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) - 住在 DSH 界面右下角的小鲸鱼娘余额监视器：拖拽吸附、数字滚动动画，随界面自动启用 (⭐1811) · `插件`
 - [MosCloud/dsh-provider-show](https://github.com/MosCloud/dsh-provider-show) - 在输入框模型信息旁显示供应商名称，对已有插件接管显示的供应商自动让位 (⭐0) · `插件`
+- [pwkazn/dsh-model-reasoning-effort](https://github.com/pwkazn/dsh-model-reasoning-effort) - 在模型设置页为自定义 pi-ai 模型逐项或批量声明推理档位及发送值，保存到用户设置层。面向旧版补齐编辑和批量配置；不探测网关支持情况，可从 GitHub 安装 (⭐0) · `插件`
 - [V1ki/dsh-plugin-subscriptions](https://github.com/V1ki/dsh-plugin-subscriptions) - 把 ChatGPT (Codex)、Claude、Grok (X Premium) 订阅直接当作 DSH 的 LLM 提供商：Web UI 内 OAuth 登录，无需 API Key (⭐534) · `插件`
 - [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) - 把 ChatGPT / Codex 订阅直接接入 DSH：OAuth 登录、模型、搜索、额度与图片生成，无需 API Key 或 Codex CLI (⭐44) · `插件`
 - [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) - 注入器 + 路由标准套件：先装运行时注入器，再装任务感知的推理模式路由器预设（实测优先路由与相变证据） (⭐6785) · `复合项目`
@@ -525,7 +526,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 317 个项目中，**82 个有历史评分记录（25.9%）**，235 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 318 个项目中，**82 个有历史评分记录（25.8%）**，236 个未标注评分；30 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
