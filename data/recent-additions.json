@@ -1,5 +1,12 @@
 [
   {
+    "repo": "pwkazn/dsh-model-reasoning-effort",
+    "added_on": "2026-11-22",
+    "commit": "390c6927f413a49a8e5d2d71e83ae58aa1d87f19",
+    "zh": "批量设置自定义模型的推理档位",
+    "en": "Batch-configure custom model reasoning levels"
+  },
+  {
     "repo": "Eric782155/dsh-lilac-skin",
     "added_on": "2026-11-21",
     "commit": "9573211a6c15bb3c57877ea469e456c98a8844bd",
