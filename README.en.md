@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-23](https://img.shields.io/badge/last--updated-2026--11--23-brightgreen.svg)
-![Projects: 348](https://img.shields.io/badge/projects-348-orange.svg)
+![Last updated: 2026-11-24](https://img.shields.io/badge/last--updated-2026--11--24-brightgreen.svg)
+![Projects: 349](https://img.shields.io/badge/projects-349-orange.svg)
 
 <!-- catalog-summary:start -->
-**348 projects**: 318 in the main catalog and 30 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**349 projects**: 318 in the main catalog and 31 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -486,8 +486,10 @@ Entries within each category are sorted **by repository name, case-insensitively
 
 ## 🌱 Ecosystem
 
+
 Companion tools, guides, distributions and other ecosystem resources, outside the main-catalog count and QC coverage. Consult upstream for plugin entry points in mixed projects.
 
+- [abworks-dev/dsh-plugin-ui-conventions](https://github.com/abworks-dev/dsh-plugin-ui-conventions) - Unofficial plugin UI conventions for shared sidebar sizing, capacity and coexistence, with reference code, a read-only audit script and migration Skill; some sections remain drafts (⭐0) · `Resource`
 - [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - Modern desktop solution for the DSH plugin ecosystem (⭐34112) · `Client`
 - [cocode-agency/cocode](https://github.com/cocode-agency/cocode) - Best ready-to-run DeepSeek Harness distribution: DSH desktop GUI, terminal TUI, and harness integration (⭐152) · `Client`
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - A public gallery of animated pets for Codex, Claude Code, DSH and more (⭐3842) · `Resource`
@@ -526,7 +528,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 318 main-catalog projects, **82 have historical scores (25.8%)** and 236 have no score listed. The 30 ecosystem resources are outside this coverage figure.
+Of 318 main-catalog projects, **82 have historical scores (25.8%)** and 236 have no score listed. The 31 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-23](https://img.shields.io/badge/last--updated-2026--11--23-brightgreen.svg)
-![Projects: 348](https://img.shields.io/badge/projects-348-orange.svg)
+![Last updated: 2026-11-24](https://img.shields.io/badge/last--updated-2026--11--24-brightgreen.svg)
+![Projects: 349](https://img.shields.io/badge/projects-349-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **348 个项目**：主目录 318 个，生态资源 30 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **349 个项目**：主目录 318 个，生态资源 31 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -486,8 +486,10 @@
 
 ## 🌱 生态项目 / Ecosystem
 
+
 配套工具、教程、发行版与其他生态资源，不计入主目录数量和 QC 覆盖率；复合项目的插件入口以上游说明为准。
 
+- [abworks-dev/dsh-plugin-ui-conventions](https://github.com/abworks-dev/dsh-plugin-ui-conventions) - 非官方插件 UI 协作约定：共享侧栏入口的尺寸、容量和共存规则，附参考实现、只读审计脚本及迁移 Skill；部分章节仍为草案 (⭐0) · `资源`
 - [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DSH 插件生态打造的现代化桌面端解决方案 (⭐34112) · `客户端`
 - [cocode-agency/cocode](https://github.com/cocode-agency/cocode) - 开箱即用的 DeepSeek Harness 发行版：DSH 桌面 GUI、终端 TUI 与 Harness 集成 (⭐152) · `客户端`
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - Codex、Claude Code、DSH 等平台的动画宠物画廊 (⭐3842) · `资源`
@@ -526,7 +528,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 318 个项目中，**82 个有历史评分记录（25.8%）**，236 个未标注评分；30 个生态资源不计入此覆盖率。
+主目录 318 个项目中，**82 个有历史评分记录（25.8%）**，236 个未标注评分；31 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
