@@ -37,12 +37,12 @@ The latest six additions. Dates link to catalog inclusion commits; this order is
 <!-- recent-additions:start -->
 | Added | Project | Purpose |
 | --- | --- | --- |
+| [2026-11-24](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/85a0da8cabe04311b503467b0a4c61b6176a0bd5) | [abworks-dev/dsh-plugin-ui-conventions](https://github.com/abworks-dev/dsh-plugin-ui-conventions) | Consult community UI coexistence conventions |
 | [2026-11-22](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/390c6927f413a49a8e5d2d71e83ae58aa1d87f19) | [pwkazn/dsh-model-reasoning-effort](https://github.com/pwkazn/dsh-model-reasoning-effort) | Batch-configure custom model reasoning levels |
 | [2026-11-21](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/9573211a6c15bb3c57877ea469e456c98a8844bd) | [Eric782155/dsh-lilac-skin](https://github.com/Eric782155/dsh-lilac-skin) | Add a lilac color layer to the Web UI |
 | [2026-11-20](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/45c30afad2a504bec501e2a645d037d71ccf7274) | [Chaiyahang/dsh-scratchpad](https://github.com/Chaiyahang/dsh-scratchpad) | Keep local notes and send them to chat |
 | [2026-11-19](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/41a21cc235b926309a0c6b39272b31189d3ca712) | [polunzh/dsh-pin](https://github.com/polunzh/dsh-pin) | Pin workspaces and sidebar panels |
 | [2026-11-19](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/41a21cc235b926309a0c6b39272b31189d3ca712) | [Panther-w/dsh-inline-attachments](https://github.com/Panther-w/dsh-inline-attachments) | Place attachments at inline chip positions |
-| [2026-11-18](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/3a5daa6bf1ae3e85870bc470a0d9ba71d7bbc08a) | [hluica/dsh-parent-instructions](https://github.com/hluica/dsh-parent-instructions) | Add parent guidance to nested workspaces |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>

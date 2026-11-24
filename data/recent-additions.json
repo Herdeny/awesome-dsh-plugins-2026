@@ -1,5 +1,12 @@
 [
   {
+    "repo": "abworks-dev/dsh-plugin-ui-conventions",
+    "added_on": "2026-11-24",
+    "commit": "85a0da8cabe04311b503467b0a4c61b6176a0bd5",
+    "zh": "查阅共享界面的非官方协作约定",
+    "en": "Consult community UI coexistence conventions"
+  },
+  {
     "repo": "pwkazn/dsh-model-reasoning-effort",
     "added_on": "2026-11-22",
     "commit": "390c6927f413a49a8e5d2d71e83ae58aa1d87f19",
