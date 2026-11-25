@@ -1,5 +1,12 @@
 [
   {
+    "repo": "maci0/dsh-alias",
+    "added_on": "2026-11-25",
+    "commit": "655dcfd16944e7bf34011dfd40d885b2640e1510",
+    "zh": "为常用命令和提示词定义别名",
+    "en": "Define aliases for commands and prompts"
+  },
+  {
     "repo": "abworks-dev/dsh-plugin-ui-conventions",
     "added_on": "2026-11-24",
     "commit": "85a0da8cabe04311b503467b0a4c61b6176a0bd5",
