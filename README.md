@@ -7,11 +7,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-24](https://img.shields.io/badge/last--updated-2026--11--24-brightgreen.svg)
-![Projects: 349](https://img.shields.io/badge/projects-349-orange.svg)
+![Last updated: 2026-11-25](https://img.shields.io/badge/last--updated-2026--11--25-brightgreen.svg)
+![Projects: 350](https://img.shields.io/badge/projects-350-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **349 个项目**：主目录 318 个，生态资源 31 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **350 个项目**：主目录 319 个，生态资源 31 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -119,6 +119,7 @@
 - [liceses/dsh-gitbash-preset](https://github.com/liceses/dsh-gitbash-preset) - 一键安装「极简模式 (Git Bash)」agent preset：把 DSH 极简模式中的 bash 调用映射为 Git Bash 环境 (⭐135) · `预设`
 - [linhut/gongwen-skill](https://github.com/linhut/gongwen-skill) - 中文公文全流程处理工具：GB/T 9704 格式检查与修复、内容优化、模板生成、Markdown 转公文、事实核验，原生支持 DSH 技能系统 (⭐41) · `Skill`
 - [loongsuite/dsh-plugin](https://github.com/loongsuite/dsh-plugin) - OpenTelemetry 链路追踪：记录 Agent 回合、模型与工具调用、延迟和 Token 用量，支持 OTLP 导出 (⭐24) · `插件`
+- [maci0/dsh-alias](https://github.com/maci0/dsh-alias) - 用 /alias 管理自定义斜杠命令，将别名展开为命令或提示词，支持参数替换和四层嵌套上限；侧栏及插件卡片共享设置，需 DSH 0.2.2-rc.4 起，不接收附件 (⭐0) · `插件`
 - [MiaoQichuan/new-litigation-visualization](https://github.com/MiaoQichuan/new-litigation-visualization) - 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴，Claude Skill / DSH 通用 (⭐49) · `Skill`
 - [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager) - 在 DSH 中统一加载并安全管理本机 Agent Skills (⭐34) · `插件`
 - [omdsh-dev/dsh-custom-tool](https://github.com/omdsh-dev/dsh-custom-tool) - Monaco 编辑器创建与管理沙箱化 JavaScript 工具：模型驱动的工具全生命周期 (⭐23) · `插件`
@@ -528,7 +529,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 318 个项目中，**82 个有历史评分记录（25.8%）**，236 个未标注评分；31 个生态资源不计入此覆盖率。
+主目录 319 个项目中，**82 个有历史评分记录（25.7%）**，237 个未标注评分；31 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36

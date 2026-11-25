@@ -7,11 +7,11 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-24](https://img.shields.io/badge/last--updated-2026--11--24-brightgreen.svg)
-![Projects: 349](https://img.shields.io/badge/projects-349-orange.svg)
+![Last updated: 2026-11-25](https://img.shields.io/badge/last--updated-2026--11--25-brightgreen.svg)
+![Projects: 350](https://img.shields.io/badge/projects-350-orange.svg)
 
 <!-- catalog-summary:start -->
-**349 projects**: 318 in the main catalog and 31 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
+**350 projects**: 319 in the main catalog and 31 ecosystem resources. Entry types and install methods vary; inclusion does not imply a successful runtime test.
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -119,6 +119,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [liceses/dsh-gitbash-preset](https://github.com/liceses/dsh-gitbash-preset) - One-click Git Bash (minimal mode) agent preset: maps DSH minimal mode's bash calls into a Git Bash environment (⭐135) · `Preset`
 - [linhut/gongwen-skill](https://github.com/linhut/gongwen-skill) - Full-pipeline Chinese official-document tool: GB/T 9704 format check/repair, content polish, templates, Markdown-to-doc conversion, fact verification; native DSH skill support (⭐41) · `Skill`
 - [loongsuite/dsh-plugin](https://github.com/loongsuite/dsh-plugin) - OpenTelemetry tracing for agent turns, model and tool calls, latency and token usage, with OTLP export (⭐24) · `Plugin`
+- [maci0/dsh-alias](https://github.com/maci0/dsh-alias) - Manage custom slash commands with /alias, expanding to commands or prompts with argument substitution and a four-level nesting limit. Sidebar and plugin card share settings; requires DSH 0.2.2-rc.4 onward and accepts no attachments (⭐0) · `Plugin`
 - [MiaoQichuan/new-litigation-visualization](https://github.com/MiaoQichuan/new-litigation-visualization) - Litigation visualization toolkit for lawyers: redraw messy case charts into court-ready figures, or read case files to draw a precise timeline; Claude Skill / DSH compatible (⭐49) · `Skill`
 - [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager) - Load and safely manage local Agent Skills within DSH (⭐34) · `Plugin`
 - [omdsh-dev/dsh-custom-tool](https://github.com/omdsh-dev/dsh-custom-tool) - Create and manage sandboxed JavaScript tools in DSH with a Monaco editor and a model-driven lifecycle (⭐23) · `Plugin`
@@ -528,7 +529,7 @@ Companion tools, guides, distributions and other ecosystem resources, outside th
 ## Evaluation notes & coverage
 
 <!-- qc-summary:start -->
-Of 318 main-catalog projects, **82 have historical scores (25.8%)** and 236 have no score listed. The 31 ecosystem resources are outside this coverage figure.
+Of 319 main-catalog projects, **82 have historical scores (25.7%)** and 237 have no score listed. The 31 ecosystem resources are outside this coverage figure.
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
