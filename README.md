@@ -303,7 +303,7 @@
 - [omdsh-dev/dsh-plugin-skills](https://github.com/omdsh-dev/dsh-plugin-skills) - 用于构建和测试 DSH 插件的 Agent Skills (⭐12) 🛡️QC:17 🔴 · `Skill`
 - [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill) - 将视频、音频和屏幕活动整理为带时间戳的可搜索证据，提供 MCP、CLI、REST 与 Web 入口 (⭐336) · `复合项目`
 - [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) - 交付前双重校验纪律包：先拷问需求，再测试实现，最后自证交付 (⭐26) · `Skill`
-- [SPYfighting/dsh-science-review](https://github.com/SPYfighting/dsh-science-review) - 在 DSH Web 0.2.2-rc.5 中核对回答、原文与工具记录，给出修正建议；审查会额外调用所选模型，费用按提供方计 (⭐0) · `插件`
+- [SPYfighting/dsh-science-review](https://github.com/SPYfighting/dsh-science-review) - 在 DSH Web 0.2.2-rc.5 和 0.2.3-alpha.2 中核对回答、原文与工具记录，给出修正建议；审查会额外调用所选模型，费用按提供方计 (⭐0) · `插件`
 - [suimi8/dsh-test-runner](https://github.com/suimi8/dsh-test-runner) - 提供 `test_run` 能力的结构化测试运行器 (⭐2) 🛡️QC:53 🟡 · `插件`
 - [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) - 设计保真度质检：给纯文本模型一双眼睛，判断实现是否与设计稿一致（附基准与评测） (⭐36) · `插件`
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - 开源自进化 QA 代理：自然语言写测试，自动捕获 Web/移动端回归，支持 DSH (⭐952) 🛡️QC:16 🔴 · `工具`
