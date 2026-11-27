@@ -8,10 +8,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last updated: 2026-11-25](https://img.shields.io/badge/last--updated-2026--11--25-brightgreen.svg)
-![Projects: 350](https://img.shields.io/badge/projects-350-orange.svg)
+![Projects: 352](https://img.shields.io/badge/projects-352-orange.svg)
 
 <!-- catalog-summary:start -->
-收录 **350 个项目**：主目录 319 个，生态资源 31 个。项目类型与安装方式不同，收录不代表已通过运行测试。
+收录 **352 个项目**：主目录 321 个，生态资源 31 个。项目类型与安装方式不同，收录不代表已通过运行测试。
 <!-- catalog-summary:end -->
 
 <a id="find-by-need"></a>
@@ -137,6 +137,7 @@
 - [skymecode/deepseek-harness-for-vscode](https://github.com/skymecode/deepseek-harness-for-vscode) - DSH 原生 VS Code 编码代理扩展：会话管理、流式 Markdown、斜杠命令与插件中心，零部署免 WebUI (⭐145) · `集成`
 - [Smalldy/godot-bridge](https://github.com/Smalldy/godot-bridge) - Godot 4.x 游戏驱动插件：通过游戏内 TCP 交互服务器启动并操控运行中的 Godot 游戏，用原生 Agent 工具替代 godot-mcp (⭐26) · `插件`
 - [songyang0603/ds-spec-loop](https://github.com/songyang0603/ds-spec-loop) - 仓库原生 Spec 编程的可移植 Agent Skill，参考公开的 DeepSeek Harness 工程实践 (⭐38) · `Skill`
+- [SPYfighting/dsh-science-plugin](https://github.com/SPYfighting/dsh-science-plugin) - 按项目选择科研专家与技能，组织论文、任务、引用和图表 (⭐0) · `插件`
 - [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) - DSH 工具包：文件检索与编辑、按需工具加载和 PTC 类型化 SDK，并提供 Windows Bash 集成 (⭐4830) · `插件`
 - [tong-io/tongflow](https://github.com/tong-io/tongflow) - 多模态工作流工作室与引擎（画布 + Python 插件引擎），含 dsh-tongflow 工作室插件 (⭐1005) 🛡️QC:30 🟠 · `复合项目`
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) - 两阶段 DSH 预设：先进行最小对齐引导，再完成标准化对齐 (⭐3731) 🛡️QC:31 🟠 · `预设`
@@ -302,6 +303,7 @@
 - [omdsh-dev/dsh-plugin-skills](https://github.com/omdsh-dev/dsh-plugin-skills) - 用于构建和测试 DSH 插件的 Agent Skills (⭐12) 🛡️QC:17 🔴 · `Skill`
 - [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill) - 将视频、音频和屏幕活动整理为带时间戳的可搜索证据，提供 MCP、CLI、REST 与 Web 入口 (⭐336) · `复合项目`
 - [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) - 交付前双重校验纪律包：先拷问需求，再测试实现，最后自证交付 (⭐26) · `Skill`
+- [SPYfighting/dsh-science-review](https://github.com/SPYfighting/dsh-science-review) - 在 DSH Web 0.2.2-rc.5 和 0.2.3-alpha.2 中核对回答、原文与工具记录，给出修正建议；审查会额外调用所选模型，费用按提供方计 (⭐0) · `插件`
 - [suimi8/dsh-test-runner](https://github.com/suimi8/dsh-test-runner) - 提供 `test_run` 能力的结构化测试运行器 (⭐2) 🛡️QC:53 🟡 · `插件`
 - [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) - 设计保真度质检：给纯文本模型一双眼睛，判断实现是否与设计稿一致（附基准与评测） (⭐36) · `插件`
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - 开源自进化 QA 代理：自然语言写测试，自动捕获 Web/移动端回归，支持 DSH (⭐952) 🛡️QC:16 🔴 · `工具`
@@ -529,7 +531,7 @@
 ## 评测说明与覆盖率
 
 <!-- qc-summary:start -->
-主目录 319 个项目中，**82 个有历史评分记录（25.7%）**，237 个未标注评分；31 个生态资源不计入此覆盖率。
+主目录 321 个项目中，**82 个有历史评分记录（25.5%）**，239 个未标注评分；31 个生态资源不计入此覆盖率。
 
 - 🟢 70-100: 6
 - 🟡 50-69: 36
