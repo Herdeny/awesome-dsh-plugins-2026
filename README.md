@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-25](https://img.shields.io/badge/last--updated-2026--11--25-brightgreen.svg)
+![Last updated: 2026-11-27](https://img.shields.io/badge/last--updated-2026--11--27-brightgreen.svg)
 ![Projects: 352](https://img.shields.io/badge/projects-352-orange.svg)
 
 <!-- catalog-summary:start -->
@@ -37,12 +37,12 @@
 <!-- recent-additions:start -->
 | 收录日期 | 项目 | 用途 |
 | --- | --- | --- |
+| [2026-11-27](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/a4b9a194025b90428f6f914d6cf50125b8dcd025) | [SPYfighting/dsh-science-plugin](https://github.com/SPYfighting/dsh-science-plugin) | 科研项目、专家与论文证据组织 |
+| [2026-11-27](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/a4b9a194025b90428f6f914d6cf50125b8dcd025) | [SPYfighting/dsh-science-review](https://github.com/SPYfighting/dsh-science-review) | 对照原文与执行记录审查回答 |
 | [2026-11-25](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/655dcfd16944e7bf34011dfd40d885b2640e1510) | [maci0/dsh-alias](https://github.com/maci0/dsh-alias) | 为常用命令和提示词定义别名 |
 | [2026-11-24](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/85a0da8cabe04311b503467b0a4c61b6176a0bd5) | [abworks-dev/dsh-plugin-ui-conventions](https://github.com/abworks-dev/dsh-plugin-ui-conventions) | 查阅共享界面的非官方协作约定 |
 | [2026-11-22](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/390c6927f413a49a8e5d2d71e83ae58aa1d87f19) | [pwkazn/dsh-model-reasoning-effort](https://github.com/pwkazn/dsh-model-reasoning-effort) | 批量设置自定义模型的推理档位 |
 | [2026-11-21](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/9573211a6c15bb3c57877ea469e456c98a8844bd) | [Eric782155/dsh-lilac-skin](https://github.com/Eric782155/dsh-lilac-skin) | 为 Web 界面叠加丁香紫配色 |
-| [2026-11-20](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/45c30afad2a504bec501e2a645d037d71ccf7274) | [Chaiyahang/dsh-scratchpad](https://github.com/Chaiyahang/dsh-scratchpad) | 在本地便签与会话间整理资料 |
-| [2026-11-19](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/41a21cc235b926309a0c6b39272b31189d3ca712) | [polunzh/dsh-pin](https://github.com/polunzh/dsh-pin) | 置顶常用工作区和侧栏面板 |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>
@@ -137,7 +137,7 @@
 - [skymecode/deepseek-harness-for-vscode](https://github.com/skymecode/deepseek-harness-for-vscode) - DSH 原生 VS Code 编码代理扩展：会话管理、流式 Markdown、斜杠命令与插件中心，零部署免 WebUI (⭐145) · `集成`
 - [Smalldy/godot-bridge](https://github.com/Smalldy/godot-bridge) - Godot 4.x 游戏驱动插件：通过游戏内 TCP 交互服务器启动并操控运行中的 Godot 游戏，用原生 Agent 工具替代 godot-mcp (⭐26) · `插件`
 - [songyang0603/ds-spec-loop](https://github.com/songyang0603/ds-spec-loop) - 仓库原生 Spec 编程的可移植 Agent Skill，参考公开的 DeepSeek Harness 工程实践 (⭐38) · `Skill`
-- [SPYfighting/dsh-science-plugin](https://github.com/SPYfighting/dsh-science-plugin) - 按项目选择科研专家与技能，组织论文、任务、引用和图表 (⭐0) · `插件`
+- [SPYfighting/dsh-science-plugin](https://github.com/SPYfighting/dsh-science-plugin) - 按项目选择科研专家与技能，组织论文、任务、引用和图表；支持 DSH Web 0.2.2-rc.3/rc.5 与 0.2.3-alpha.2，SSH 连接需预先确认可信主机指纹 (⭐0) · `插件`
 - [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) - DSH 工具包：文件检索与编辑、按需工具加载和 PTC 类型化 SDK，并提供 Windows Bash 集成 (⭐4830) · `插件`
 - [tong-io/tongflow](https://github.com/tong-io/tongflow) - 多模态工作流工作室与引擎（画布 + Python 插件引擎），含 dsh-tongflow 工作室插件 (⭐1005) 🛡️QC:30 🟠 · `复合项目`
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) - 两阶段 DSH 预设：先进行最小对齐引导，再完成标准化对齐 (⭐3731) 🛡️QC:31 🟠 · `预设`
@@ -297,7 +297,7 @@
 
 - [herdeny/dsh-qc](https://github.com/herdeny/dsh-qc) - DSH 插件质量检测 CLI，支持静态分析与动态验证 (⭐2) · `工具`
 - [liangdabiao/dsh-plugin-developer-skill](https://github.com/liangdabiao/dsh-plugin-developer-skill) - 插件开发 Skill：指导 Agent 从 0 到 1 开发、构建、安装、测试 DSH 插件，附一个已通过 Web 界面实测的天气插件作整包参考 (⭐23) · `复合项目`
-- [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) - 在 DSH 桌面版或 Web 主对话中并排比较 2–4 个回答、文件或可运行页面，支持盲选或公开比较，并在应用项目改动前预览差异。复用已配置的模型，可能产生费用。[界面图库与演示（含固定样例）](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare/blob/main/docs/storefront-gallery.md) (⭐500) · `插件`
+- [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) - 在 DSH 桌面版或 Web 主对话中并排比较 2–4 个回答、文件或可运行页面，支持盲选或公开比较，并在应用项目改动前预览差异。复用已配置的模型，可能产生费用。[界面图库与演示（含固定样例）](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare/blob/main/docs/storefront-gallery.md) (⭐512) · `插件`
 - [lijiaqi-AI-Product-Manager/dsh-bug-gps](https://github.com/lijiaqi-AI-Product-Manager/dsh-bug-gps) - 录制浏览器问题、固定预期，并以原代码对照复核修复。支持 Windows 上的 DSH 0.2.1-rc.5 headless/web (⭐1) · `插件`
 - [oil-oil/build-deepseek-harness-plugin](https://github.com/oil-oil/build-deepseek-harness-plugin) - 面向已安装 DSH 插件的构建 Agent Skill：slots、Typert remotes 与凭据处理 (⭐39) · `Skill`
 - [omdsh-dev/dsh-plugin-skills](https://github.com/omdsh-dev/dsh-plugin-skills) - 用于构建和测试 DSH 插件的 Agent Skills (⭐12) 🛡️QC:17 🔴 · `Skill`

@@ -306,5 +306,19 @@
     "commit": "5a351ab12cbd384f38772fcec971299e729e2891",
     "zh": "表情包检索与图库管理",
     "en": "Meme search and pack management"
+  },
+  {
+    "repo": "SPYfighting/dsh-science-plugin",
+    "added_on": "2026-11-27",
+    "commit": "a4b9a194025b90428f6f914d6cf50125b8dcd025",
+    "zh": "科研项目、专家与论文证据组织",
+    "en": "Research projects, experts and paper evidence"
+  },
+  {
+    "repo": "SPYfighting/dsh-science-review",
+    "added_on": "2026-11-27",
+    "commit": "a4b9a194025b90428f6f914d6cf50125b8dcd025",
+    "zh": "对照原文与执行记录审查回答",
+    "en": "Review replies against quotations and tool records"
   }
 ]

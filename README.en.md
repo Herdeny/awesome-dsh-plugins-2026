@@ -7,7 +7,7 @@ A continuously maintained, task-oriented directory of DeepSeek Harness (DSH) plu
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Herdeny/awesome-dsh-plugins-2026?style=social)](https://github.com/Herdeny/awesome-dsh-plugins-2026)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Last updated: 2026-11-25](https://img.shields.io/badge/last--updated-2026--11--25-brightgreen.svg)
+![Last updated: 2026-11-27](https://img.shields.io/badge/last--updated-2026--11--27-brightgreen.svg)
 ![Projects: 352](https://img.shields.io/badge/projects-352-orange.svg)
 
 <!-- catalog-summary:start -->
@@ -37,12 +37,12 @@ The latest six additions. Dates link to catalog inclusion commits; this order is
 <!-- recent-additions:start -->
 | Added | Project | Purpose |
 | --- | --- | --- |
+| [2026-11-27](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/a4b9a194025b90428f6f914d6cf50125b8dcd025) | [SPYfighting/dsh-science-plugin](https://github.com/SPYfighting/dsh-science-plugin) | Research projects, experts and paper evidence |
+| [2026-11-27](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/a4b9a194025b90428f6f914d6cf50125b8dcd025) | [SPYfighting/dsh-science-review](https://github.com/SPYfighting/dsh-science-review) | Review replies against quotations and tool records |
 | [2026-11-25](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/655dcfd16944e7bf34011dfd40d885b2640e1510) | [maci0/dsh-alias](https://github.com/maci0/dsh-alias) | Define aliases for commands and prompts |
 | [2026-11-24](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/85a0da8cabe04311b503467b0a4c61b6176a0bd5) | [abworks-dev/dsh-plugin-ui-conventions](https://github.com/abworks-dev/dsh-plugin-ui-conventions) | Consult community UI coexistence conventions |
 | [2026-11-22](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/390c6927f413a49a8e5d2d71e83ae58aa1d87f19) | [pwkazn/dsh-model-reasoning-effort](https://github.com/pwkazn/dsh-model-reasoning-effort) | Batch-configure custom model reasoning levels |
 | [2026-11-21](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/9573211a6c15bb3c57877ea469e456c98a8844bd) | [Eric782155/dsh-lilac-skin](https://github.com/Eric782155/dsh-lilac-skin) | Add a lilac color layer to the Web UI |
-| [2026-11-20](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/45c30afad2a504bec501e2a645d037d71ccf7274) | [Chaiyahang/dsh-scratchpad](https://github.com/Chaiyahang/dsh-scratchpad) | Keep local notes and send them to chat |
-| [2026-11-19](https://github.com/Herdeny/awesome-dsh-plugins-2026/commit/41a21cc235b926309a0c6b39272b31189d3ca712) | [polunzh/dsh-pin](https://github.com/polunzh/dsh-pin) | Pin workspaces and sidebar panels |
 <!-- recent-additions:end -->
 
 <a id="contents"></a>
@@ -137,7 +137,7 @@ Entries within each category are sorted **by repository name, case-insensitively
 - [skymecode/deepseek-harness-for-vscode](https://github.com/skymecode/deepseek-harness-for-vscode) - Native VS Code coding-agent extension for DeepSeek Harness: session management, streaming Markdown, slash commands and a plugin center — no WebUI served, no setup (⭐145) · `Integration`
 - [Smalldy/godot-bridge](https://github.com/Smalldy/godot-bridge) - Godot 4.x game driver: launches and drives a running Godot game through its in-game TCP interaction server, replacing godot-mcp with native agent tools (⭐26) · `Plugin`
 - [songyang0603/ds-spec-loop](https://github.com/songyang0603/ds-spec-loop) - Portable Agent Skill for repository-native Spec programming, informed by public DeepSeek Harness engineering patterns (⭐38) · `Skill`
-- [SPYfighting/dsh-science-plugin](https://github.com/SPYfighting/dsh-science-plugin) - Choose experts and skills per project to organize papers, research tasks, citations and figures (⭐0) · `Plugin`
+- [SPYfighting/dsh-science-plugin](https://github.com/SPYfighting/dsh-science-plugin) - Choose experts and skills per project to organize papers, research tasks, citations and figures. Supports DSH Web 0.2.2-rc.3/rc.5 and 0.2.3-alpha.2; SSH connections require a trusted host-key fingerprint confirmed in advance (⭐0) · `Plugin`
 - [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) - DSH toolkit for file search and editing, on-demand tool loading and a typed PTC SDK, with Windows Bash integration (⭐4830) · `Plugin`
 - [tong-io/tongflow](https://github.com/tong-io/tongflow) - Multimodal workflow studio & engine (canvas + Python plugin engine) with the dsh-tongflow studio plugin (⭐1005) 🛡️QC:30 🟠 · `Mixed`
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) - Two-phase DSH preset: minimal-aligned bootstrap then full-standard alignment (⭐3731) 🛡️QC:31 🟠 · `Preset`
@@ -297,13 +297,13 @@ Entries within each category are sorted **by repository name, case-insensitively
 
 - [herdeny/dsh-qc](https://github.com/herdeny/dsh-qc) - DSH plugin quality checker CLI with static analysis and dynamic validation (⭐2) · `Tool`
 - [liangdabiao/dsh-plugin-developer-skill](https://github.com/liangdabiao/dsh-plugin-developer-skill) - Plugin-development Skill that walks an agent from zero to building, installing and testing DSH plugins, with a web-verified weather plugin as a full reference example (⭐23) · `Mixed`
-- [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) - Compare 2–4 answers, files, or runnable pages side by side in the main DSH Desktop or Web conversation. Choose blind or compare openly, then review project changes before applying them. Uses configured models, which may incur fees. [Gallery and demo (includes sample records)](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare/blob/main/docs/storefront-gallery.md) (⭐500) · `Plugin`
+- [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) - Compare 2–4 answers, files, or runnable pages side by side in the main DSH Desktop or Web conversation. Choose blind or compare openly, then review project changes before applying them. Uses configured models, which may incur fees. [Gallery and demo (includes sample records)](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare/blob/main/docs/storefront-gallery.md) (⭐512) · `Plugin`
 - [lijiaqi-AI-Product-Manager/dsh-bug-gps](https://github.com/lijiaqi-AI-Product-Manager/dsh-bug-gps) - Records browser bugs, freezes expected results, and verifies fixes against the original code. DSH 0.2.1-rc.5 headless/web on Windows (⭐1) · `Plugin`
 - [oil-oil/build-deepseek-harness-plugin](https://github.com/oil-oil/build-deepseek-harness-plugin) - Agent skill for building installed DeepSeek Harness plugins (slots, Typert remotes, credentials) (⭐39) · `Skill`
 - [omdsh-dev/dsh-plugin-skills](https://github.com/omdsh-dev/dsh-plugin-skills) - Agent skills for building and testing DSH plugins (⭐12) 🛡️QC:17 🔴 · `Skill`
 - [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill) - Turn video, audio and screen activity into searchable timestamped evidence through MCP, CLI, REST and Web interfaces (⭐336) · `Mixed`
 - [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) - Double-check before you ship: grill the requirements, test the implementation, prove the delivery — an engineering-discipline bundle for DSH (⭐26) · `Skill`
-- [SPYfighting/dsh-science-review](https://github.com/SPYfighting/dsh-science-review) - Checks replies against quotations and tool records in DSH Web 0.2.2-rc.5 and 0.2.3-alpha.2 and suggests corrections. Each review makes an additional model call billed under the configured provider’s plan (⭐0) · `Plugin`
+- [SPYfighting/dsh-science-review](https://github.com/SPYfighting/dsh-science-review) - Checks replies against quotations and tool records in DSH Web 0.2.2-rc.5 and 0.2.3-alpha.2 and suggests corrections. Reviews use additional model calls billed under the configured provider’s plan (⭐0) · `Plugin`
 - [suimi8/dsh-test-runner](https://github.com/suimi8/dsh-test-runner) - Structured test runner providing the `test_run` tool (⭐2) 🛡️QC:53 🟡 · `Plugin`
 - [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) - Design-fidelity QA for DeepSeek Harness: lends any text-only model an eye, then judges whether the implementation matches the mock; ships a benchmark (⭐36) · `Plugin`
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - Open-source self-improving QA agent: natural-language tests for web & mobile with automatic regression catching; DSH support (⭐952) 🛡️QC:16 🔴 · `Tool`
